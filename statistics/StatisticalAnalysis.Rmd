@@ -306,7 +306,7 @@ ito_graph = ito_data_long%>%
 
 ito_graph
 
-ggsave("ito_graph.pdf",ito_graph,width=7,height=3.5)
+ggsave("ito_graph.pdf",ito_graph,width=7,height=3.5,device=cairo_pdf)
 ```
 ```{r}
 all_signif_df%>%
@@ -342,7 +342,7 @@ delong_graph = delong_data_long%>%
 
 delong_graph
 
-ggsave("delong_graph.pdf",delong_graph,width=7,height=3.5)
+ggsave("delong_graph.pdf",delong_graph,width=7,height=3.5,device=cairo_pdf)
 ```
 
 ```{r}
@@ -374,7 +374,7 @@ metusalem_graph = metusalem_data_long%>%
   scale_fill_manual(values =c("#0072B2", "#D55E00")) + xlab("\nRelatedness to highest-cloze continuation")
 
 metusalem_graph
-ggsave("metusalem_graph.pdf",metusalem_graph,width=7,height=3.5)
+ggsave("metusalem_graph.pdf",metusalem_graph,width=7,height=3.5,device=cairo_pdf)
 ```
 
 ```{r}
