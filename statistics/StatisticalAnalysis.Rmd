@@ -1,0 +1,386 @@
+---
+title: "Collateral Facilitation"
+output:
+  html_document:
+    df_print: paged
+---
+
+# Setup
+
+```{r setup, message = FALSE, warning = FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+library(tidyverse)
+library(lme4)
+library(lmerTest)
+set.seed(2022)
+```
+
+
+```{r}
+ito_stim_data = read_tsv("../stimuli/ito_2016.tsv")%>%
+  mutate(Sentence = as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Condition = as_factor(Condition))%>%
+  rename("FullSentence"="Sentence")%>%
+  mutate(Condition = fct_recode(Condition,
+                                "Related" = "semantically_related",
+                                "Unrelated" = "unrelated"))
+
+ito_data = ito_stim_data%>%
+  left_join(.,(read_tsv("../surprisal/ito_2016.surprisal.albert-xxlarge-v2.masked.output")%>%
+              select(FullSentence,Surprisal,TargetWords)%>%
+              rename("albert_xxlarge"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/ito_2016.surprisal.roberta-large.masked.output")%>%
+              select(FullSentence,Surprisal)%>%
+              rename("roberta_large"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/ito_2016.surprisal.bert-large-cased-whole-word-masking.masked.output")%>%
+              select(FullSentence,Surprisal)%>%
+              rename("bertwwm_cased"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/ito_2016.surprisal.xlm-roberta-large.masked.output")%>%
+              select(FullSentence,Surprisal)%>%
+              rename("xlm_roberta_large"=Surprisal)),by="FullSentence")%>%  
+  left_join(.,(read_tsv("../surprisal/ito_2016.surprisal.gpt2-xl.causal.output")%>%
+              select(FullSentence,Surprisal)%>%
+              rename("gpt2_xl"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/ito_2016.surprisal.EleutherAI-gpt-neo-2.7B.causal.output")%>%
+              select(FullSentence,Surprisal)%>%
+              rename("gptneo_2700"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/ito_2016.surprisal.EleutherAI-gpt-j-6B.causal.output")%>%
+              select(FullSentence,Surprisal)%>%
+              rename("gptj"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/ito_2016.surprisal.facebook-xglm-7.5B.causal.output")%>%
+              select(FullSentence,Surprisal)%>%
+              rename("xglm_7500"=Surprisal)),by="FullSentence")%>%
+  filter(Condition=="Related"|Condition=="Unrelated")
+
+
+
+
+ito_data_long = ito_data%>%
+  pivot_longer(c("bertwwm_cased","albert_xxlarge","roberta_large","xlm_roberta_large","gpt2_xl","gptneo_2700","gptj","xglm_7500"),names_to="Model",values_to="Surprisal")
+
+ito.model.bertwwm_cased.full = lmer(data = ito_data,formula = bertwwm_cased ~ Condition + (1|SentenceFrame) + (1|TargetWords) )
+ito.anova.bertwwm_cased.full = anova(ito.model.bertwwm_cased.full)
+
+
+ito.model.albert_xxlarge.full = lmer(data = ito_data,formula = albert_xxlarge ~ Condition + (1|SentenceFrame) + (1|TargetWords) )
+ito.anova.albert_xxlarge.full = anova(ito.model.albert_xxlarge.full)
+
+
+ito.model.roberta_large.full = lmer(data = ito_data,formula = roberta_large ~ Condition + (1|SentenceFrame))
+ito.anova.roberta_large.full = anova(ito.model.roberta_large.full)
+
+ito.model.xlm_roberta_large.full = lmer(data = ito_data,formula = xlm_roberta_large ~ Condition + (1|SentenceFrame) + (1|TargetWords) )
+ito.anova.xlm_roberta_large.full = anova(ito.model.xlm_roberta_large.full)
+
+
+ito.model.gpt2_xl.full = lmer(data = ito_data,formula = gpt2_xl ~ Condition + (1|SentenceFrame) + (1|TargetWords) )
+ito.anova.gpt2_xl.full = anova(ito.model.gpt2_xl.full)
+
+ito.model.gptneo_2700.full = lmer(data = ito_data,formula = gptneo_2700 ~ Condition + (1|SentenceFrame) + (1|TargetWords) )
+ito.anova.gptneo_2700.full = anova(ito.model.gptneo_2700.full)
+
+ito.model.gptj.full = lmer(data = ito_data,formula = gptj ~ Condition + (1|SentenceFrame) + (1|TargetWords) )
+ito.anova.gptj.full = anova(ito.model.gptj.full)
+
+ito.model.xglm_7500.full = lmer(data = ito_data,formula = xglm_7500 ~ Condition + (1|SentenceFrame) + (1|TargetWords) )
+ito.anova.xglm_7500.full = anova(ito.model.xglm_7500.full)
+
+ito_signif_df = tribble(
+  ~Stims,~Model,~F,~NumDf,~DenDF,~p.raw,
+  "ito_2016","BERT-WWM",ito.anova.bertwwm_cased.full$`F value`,ito.anova.bertwwm_cased.full$NumDF,ito.anova.bertwwm_cased.full$DenDF,ito.anova.bertwwm_cased.full$`Pr(>F)`,
+  "ito_2016","ALBERT",ito.anova.albert_xxlarge.full$`F value`,ito.anova.albert_xxlarge.full$NumDF,ito.anova.albert_xxlarge.full$DenDF,ito.anova.albert_xxlarge.full$`Pr(>F)`,
+  "ito_2016","RoBERTa",ito.anova.roberta_large.full$`F value`,ito.anova.roberta_large.full$NumDF,ito.anova.roberta_large.full$DenDF,ito.anova.roberta_large.full$`Pr(>F)`,
+  "ito_2016","XLM-RoBERTa",ito.anova.xlm_roberta_large.full$`F value`,ito.anova.xlm_roberta_large.full$NumDF,ito.anova.xlm_roberta_large.full$DenDF,ito.anova.xlm_roberta_large.full$`Pr(>F)`,
+  
+  "ito_2016","GPT-2 XL",ito.anova.gpt2_xl.full$`F value`,ito.anova.gpt2_xl.full$NumDF,ito.anova.gpt2_xl.full$DenDF,ito.anova.gpt2_xl.full$`Pr(>F)`,
+  "ito_2016","GPT-Neo",ito.anova.gptneo_2700.full$`F value`,ito.anova.gptneo_2700.full$NumDF,ito.anova.gptneo_2700.full$DenDF,ito.anova.gptneo_2700.full$`Pr(>F)`,
+  "ito_2016","GPT-J",ito.anova.gptj.full$`F value`,ito.anova.gptj.full$NumDF,ito.anova.gptj.full$DenDF,ito.anova.gptj.full$`Pr(>F)`,
+  "ito_2016","XGLM",ito.anova.xglm_7500.full$`F value`,ito.anova.xglm_7500.full$NumDF,ito.anova.xglm_7500.full$DenDF,ito.anova.xglm_7500.full$`Pr(>F)`
+  )
+
+
+delong_stim_data = read_tsv("../stimuli/delong_2019.tsv")%>%
+  mutate(FullSentence = as_factor(FullSentence),
+         Frame = as_factor(Frame),
+         Condition = as_factor(Condition),
+         TargetWord = as_factor(TargetWord))%>%
+  rename("SentenceFrame" = "Frame",
+         "TargetWords" = "TargetWord")%>%
+  mutate(Condition = fct_recode(Condition,
+                                "Related" = "sem",
+                                "Unrelated" = "unrel"))
+
+
+delong_data = delong_stim_data%>%
+  left_join(.,(read_tsv("../surprisal/delong_2019.surprisal.albert-xxlarge-v2.masked.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("albert_xxlarge"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/delong_2019.surprisal.roberta-large.masked.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("roberta_large"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/delong_2019.surprisal.bert-large-cased-whole-word-masking.masked.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("bertwwm_cased"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/delong_2019.surprisal.xlm-roberta-large.masked.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("xlm_roberta_large"=Surprisal)),by="FullSentence")%>%  
+  left_join(.,(read_tsv("../surprisal/delong_2019.surprisal.gpt2-xl.causal.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("gpt2_xl"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/delong_2019.surprisal.EleutherAI-gpt-neo-2.7B.causal.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("gptneo_2700"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/delong_2019.surprisal.EleutherAI-gpt-j-6B.causal.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("gptj"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/delong_2019.surprisal.facebook-xglm-7.5B.causal.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("xglm_7500"=Surprisal)),by="FullSentence")%>%
+  filter(Condition=="Related"|Condition=="Unrelated")
+
+
+
+
+delong_data_long = delong_data%>%
+  pivot_longer(c("bertwwm_cased","albert_xxlarge","roberta_large","xlm_roberta_large","gpt2_xl","gptneo_2700","gptj","xglm_7500"
+                 ),names_to="Model",values_to="Surprisal")
+
+delong.model.bertwwm_cased.full = lmer(data = delong_data,formula = bertwwm_cased ~ Condition + (1|SentenceFrame))
+delong.anova.bertwwm_cased.full = anova(delong.model.bertwwm_cased.full)
+
+
+delong.model.albert_xxlarge.full = lmer(data = delong_data,formula = albert_xxlarge ~ Condition + (1|SentenceFrame) + (1|TargetWords))
+delong.anova.albert_xxlarge.full = anova(delong.model.albert_xxlarge.full)
+
+
+delong.model.roberta_large.full = lmer(data = delong_data,formula = roberta_large ~ Condition + (1|SentenceFrame))
+delong.anova.roberta_large.full = anova(delong.model.roberta_large.full)
+
+delong.model.xlm_roberta_large.full = lmer(data = delong_data,formula = xlm_roberta_large ~ Condition + (1|SentenceFrame) + (1|TargetWords))
+delong.anova.xlm_roberta_large.full = anova(delong.model.xlm_roberta_large.full)
+
+
+delong.model.gpt2_xl.full = lmer(data = delong_data,formula = gpt2_xl ~ Condition + (1|SentenceFrame) + (1|TargetWords))
+delong.anova.gpt2_xl.full = anova(delong.model.gpt2_xl.full)
+
+delong.model.gptneo_2700.full = lmer(data = delong_data,formula = gptneo_2700 ~ Condition + (1|SentenceFrame) + (1|TargetWords))
+delong.anova.gptneo_2700.full = anova(delong.model.gptneo_2700.full)
+
+delong.model.gptj.full = lmer(data = delong_data,formula = gptj ~ Condition + (1|SentenceFrame) + (1|TargetWords))
+delong.anova.gptj.full = anova(delong.model.gptj.full)
+
+delong.model.xglm_7500.full = lmer(data = delong_data,formula = xglm_7500 ~ Condition + (1|SentenceFrame) )
+delong.anova.xglm_7500.full = anova(delong.model.xglm_7500.full)
+
+delong_signif_df = tribble(
+  ~Stims,~Model,~F,~NumDf,~DenDF,~p.raw,
+  "delong_2019","BERT-WWM",delong.anova.bertwwm_cased.full$`F value`,delong.anova.bertwwm_cased.full$NumDF,delong.anova.bertwwm_cased.full$DenDF,delong.anova.bertwwm_cased.full$`Pr(>F)`,
+  "delong_2019","ALBERT",delong.anova.albert_xxlarge.full$`F value`,delong.anova.albert_xxlarge.full$NumDF,delong.anova.albert_xxlarge.full$DenDF,delong.anova.albert_xxlarge.full$`Pr(>F)`,
+  "delong_2019","RoBERTa",delong.anova.roberta_large.full$`F value`,delong.anova.roberta_large.full$NumDF,delong.anova.roberta_large.full$DenDF,delong.anova.roberta_large.full$`Pr(>F)`,
+  "delong_2019","XLM-RoBERTa",delong.anova.xlm_roberta_large.full$`F value`,delong.anova.xlm_roberta_large.full$NumDF,delong.anova.xlm_roberta_large.full$DenDF,delong.anova.xlm_roberta_large.full$`Pr(>F)`,
+  
+  "delong_2019","GPT-2 XL",delong.anova.gpt2_xl.full$`F value`,delong.anova.gpt2_xl.full$NumDF,delong.anova.gpt2_xl.full$DenDF,delong.anova.gpt2_xl.full$`Pr(>F)`,
+  "delong_2019","GPT-Neo",delong.anova.gptneo_2700.full$`F value`,delong.anova.gptneo_2700.full$NumDF,delong.anova.gptneo_2700.full$DenDF,delong.anova.gptneo_2700.full$`Pr(>F)`,
+  "delong_2019","GPT-J",delong.anova.gptj.full$`F value`,delong.anova.gptj.full$NumDF,delong.anova.gptj.full$DenDF,delong.anova.gptj.full$`Pr(>F)`,
+  "delong_2019","XGLM",delong.anova.xglm_7500.full$`F value`,delong.anova.xglm_7500.full$NumDF,delong.anova.xglm_7500.full$DenDF,delong.anova.xglm_7500.full$`Pr(>F)`
+)
+
+
+
+
+metusalem_stim_data = read_tsv("../stimuli/metusalem_2012.tsv")%>%
+  rename("TargetWords" = "TargetWord")%>%
+  rename("SentenceFrame" = "ContextFrameName")%>%
+  mutate(FullSentence = as_factor(FullSentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Condition = as_factor(Condition),
+         TargetWords = as_factor(TargetWords))%>%
+  mutate(Condition = fct_recode(Condition,
+                                "Related" = "Event-Related",
+                                "Unrelated" = "Event-Unrelated"))%>%
+  filter(Condition=="Related"|Condition=="Unrelated")
+
+metusalem_data = metusalem_stim_data%>%
+  left_join(.,(read_tsv("../surprisal/metusalem_2012.surprisal.albert-xxlarge-v2.masked.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("albert_xxlarge"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/metusalem_2012.surprisal.roberta-large.masked.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("roberta_large"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/metusalem_2012.surprisal.bert-large-cased-whole-word-masking.masked.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("bertwwm_cased"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/metusalem_2012.surprisal.xlm-roberta-large.masked.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("xlm_roberta_large"=Surprisal)),by="FullSentence")%>%  
+  left_join(.,(read_tsv("../surprisal/metusalem_2012.surprisal.gpt2-xl.causal.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("gpt2_xl"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/metusalem_2012.surprisal.EleutherAI-gpt-neo-2.7B.causal.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("gptneo_2700"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/metusalem_2012.surprisal.EleutherAI-gpt-j-6B.causal.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("gptj"=Surprisal)),by="FullSentence")%>%
+  left_join(.,(read_tsv("../surprisal/metusalem_2012.surprisal.facebook-xglm-7.5B.causal.output")%>%
+                 select(FullSentence,Surprisal)%>%
+                 rename("xglm_7500"=Surprisal)),by="FullSentence")%>%
+  filter(Condition=="Related"|Condition=="Unrelated")
+
+
+
+
+metusalem_data_long = metusalem_data%>%
+  pivot_longer(c("bertwwm_cased","albert_xxlarge","roberta_large","xlm_roberta_large","gpt2_xl","gptneo_2700","gptj","xglm_7500"),names_to="Model",values_to="Surprisal")
+
+metusalem.model.bertwwm_cased.full = lmer(data = metusalem_data,formula = bertwwm_cased ~ Condition + (1|SentenceFrame) + (1|TargetWords) )
+metusalem.anova.bertwwm_cased.full = anova(metusalem.model.bertwwm_cased.full)
+
+metusalem.model.albert_xxlarge.full = lmer(data = metusalem_data,formula = albert_xxlarge ~ Condition + (1|SentenceFrame) + (1|TargetWords) )
+metusalem.anova.albert_xxlarge.full = anova(metusalem.model.albert_xxlarge.full)
+
+
+metusalem.model.roberta_large.full = lmer(data = metusalem_data,formula = roberta_large ~ Condition + (1|SentenceFrame) + (1|TargetWords))
+metusalem.anova.roberta_large.full = anova(metusalem.model.roberta_large.full)
+
+metusalem.model.xlm_roberta_large.full = lmer(data = metusalem_data,formula = xlm_roberta_large ~ Condition + (1|SentenceFrame) + (1|TargetWords) )
+metusalem.anova.xlm_roberta_large.full = anova(metusalem.model.xlm_roberta_large.full)
+
+
+metusalem.model.gpt2_xl.full = lmer(data = metusalem_data,formula = gpt2_xl ~ Condition + (1|SentenceFrame) + (1|TargetWords) )
+metusalem.anova.gpt2_xl.full = anova(metusalem.model.gpt2_xl.full)
+
+metusalem.model.gptneo_2700.full = lmer(data = metusalem_data,formula = gptneo_2700 ~ Condition + (1|SentenceFrame) + (1|TargetWords) )
+metusalem.anova.gptneo_2700.full = anova(metusalem.model.gptneo_2700.full)
+
+metusalem.model.gptj.full = lmer(data = metusalem_data,formula = gptj ~ Condition + (1|SentenceFrame) + (1|TargetWords) )
+metusalem.anova.gptj.full = anova(metusalem.model.gptj.full)
+
+metusalem.model.xglm_7500.full = lmer(data = metusalem_data,formula = xglm_7500 ~ Condition + (1|SentenceFrame) + (1|TargetWords) )
+metusalem.anova.xglm_7500.full = anova(metusalem.model.xglm_7500.full)
+
+metusalem_signif_df = tribble(
+  ~Stims,~Model,~F,~NumDf,~DenDF,~p.raw,
+  "metusalem_2012","BERT-WWM",metusalem.anova.bertwwm_cased.full$`F value`,metusalem.anova.bertwwm_cased.full$NumDF,metusalem.anova.bertwwm_cased.full$DenDF,metusalem.anova.bertwwm_cased.full$`Pr(>F)`,
+  "metusalem_2012","ALBERT",metusalem.anova.albert_xxlarge.full$`F value`,metusalem.anova.albert_xxlarge.full$NumDF,metusalem.anova.albert_xxlarge.full$DenDF,metusalem.anova.albert_xxlarge.full$`Pr(>F)`,
+  "metusalem_2012","RoBERTa",metusalem.anova.roberta_large.full$`F value`,metusalem.anova.roberta_large.full$NumDF,metusalem.anova.roberta_large.full$DenDF,metusalem.anova.roberta_large.full$`Pr(>F)`,
+  "metusalem_2012","XLM-RoBERTa",metusalem.anova.xlm_roberta_large.full$`F value`,metusalem.anova.xlm_roberta_large.full$NumDF,metusalem.anova.xlm_roberta_large.full$DenDF,metusalem.anova.xlm_roberta_large.full$`Pr(>F)`,
+  
+  "metusalem_2012","GPT-2 XL",metusalem.anova.gpt2_xl.full$`F value`,metusalem.anova.gpt2_xl.full$NumDF,metusalem.anova.gpt2_xl.full$DenDF,metusalem.anova.gpt2_xl.full$`Pr(>F)`,
+  "metusalem_2012","GPT-Neo",metusalem.anova.gptneo_2700.full$`F value`,metusalem.anova.gptneo_2700.full$NumDF,metusalem.anova.gptneo_2700.full$DenDF,metusalem.anova.gptneo_2700.full$`Pr(>F)`,
+  "metusalem_2012","GPT-J",metusalem.anova.gptj.full$`F value`,metusalem.anova.gptj.full$NumDF,metusalem.anova.gptj.full$DenDF,metusalem.anova.gptj.full$`Pr(>F)`,
+  "metusalem_2012","XGLM",metusalem.anova.xglm_7500.full$`F value`,metusalem.anova.xglm_7500.full$NumDF,metusalem.anova.xglm_7500.full$DenDF,metusalem.anova.xglm_7500.full$`Pr(>F)`
+)
+
+
+
+
+all_signif_df = ito_signif_df%>%
+  add_row(delong_signif_df)%>%
+  add_row(metusalem_signif_df)
+
+all_signif_df$p.corrected = p.adjust(all_signif_df$p.raw,method = "BH")
+
+```
+
+# Ito data
+
+```{r}
+ito_graph = ito_data_long%>%
+    mutate(Model = fct_relevel(Model,
+                             "bertwwm_cased","albert_xxlarge","roberta_large","xlm_roberta_large","gpt2_xl","gptneo_2700","gptj","xglm_7500"))%>%
+    mutate(Model=fct_recode(Model,
+                              "BERT (Large, WWM)" = "bertwwm_cased",
+                              "ALBERT (Large)" = "albert_xxlarge",
+                              "RoBERTa (Large)" = "roberta_large",
+                              "XLM-R (Large)" = "xlm_roberta_large",
+                              "GPT-2 (XL)" = "gpt2_xl",
+                              "GPT-Neo (2.7B)" = "gptneo_2700",
+                              "GPT-J (6B)" = "gptj",
+                              "XGLM (7.5B)" = "xglm_7500"))%>%
+  ggplot(aes(x=Condition,y=Surprisal,fill=Condition))+ 
+    geom_bar(position = "dodge", stat = "summary", fun.y = "mean") +
+    stat_summary(fun.data = mean_se,geom="errorbar", position=position_dodge(.9), width=.3) + facet_wrap(.~Model,ncol=4)+
+  scale_fill_manual(values =c("#0072B2", "#D55E00")) + xlab("\nRelatedness to highest-cloze continuation")
+
+ito_graph
+
+ggsave("ito_graph.pdf",ito_graph,width=7,height=3.5)
+```
+```{r}
+all_signif_df%>%
+  filter(Stims=="ito_2016")%>%
+  select(-Stims)%>%
+  knitr::kable()
+```
+
+
+
+## DeLong et al. 2019
+
+```{r}
+delong_graph = delong_data_long%>%
+    mutate(Model = fct_relevel(Model,
+                             "bertwwm_cased","albert_xxlarge","roberta_large","xlm_roberta_large","gpt2_xl","gptneo_2700","gptj"
+                             ,"xglm_7500"
+                             ))%>%
+    mutate(Model=fct_recode(Model,
+                              "BERT (Large, WWM)" = "bertwwm_cased",
+                              "ALBERT (Large)" = "albert_xxlarge",
+                              "RoBERTa (Large)" = "roberta_large",
+                              "XLM-R (Large)" = "xlm_roberta_large",
+                              "GPT-2 (XL)" = "gpt2_xl",
+                              "GPT-Neo (2.7B)" = "gptneo_2700",
+                              "GPT-J (6B)" = "gptj",
+                             "XGLM (7.5B)" = "xglm_7500"
+                            ))%>%
+  ggplot(aes(x=Condition,y=Surprisal,fill=Condition))+ 
+    geom_bar(position = "dodge", stat = "summary", fun.y = "mean") +
+    stat_summary(fun.data = mean_se,geom="errorbar", position=position_dodge(.9), width=.3) + facet_wrap(.~Model,ncol=4)+
+  scale_fill_manual(values =c("#0072B2", "#D55E00")) + xlab("\nRelatedness to highest-cloze continuation")
+
+delong_graph
+
+ggsave("delong_graph.pdf",delong_graph,width=7,height=3.5)
+```
+
+```{r}
+all_signif_df%>%
+  filter(Stims=="delong_2019")%>%
+  select(-Stims)%>%
+  knitr::kable()
+```
+
+
+# Metusalem (2012)
+
+```{r}
+metusalem_graph = metusalem_data_long%>%
+    mutate(Model = fct_relevel(Model,
+                             "bertwwm_cased","albert_xxlarge","roberta_large","xlm_roberta_large","gpt2_xl","gptneo_2700","gptj","xglm_7500"))%>%
+    mutate(Model=fct_recode(Model,
+                              "BERT (Large, WWM)" = "bertwwm_cased",
+                              "ALBERT (Large)" = "albert_xxlarge",
+                              "RoBERTa (Large)" = "roberta_large",
+                              "XLM-R (Large)" = "xlm_roberta_large",
+                              "GPT-2 (XL)" = "gpt2_xl",
+                              "GPT-Neo (2.7B)" = "gptneo_2700",
+                              "GPT-J (6B)" = "gptj",
+                              "XGLM (7.5B)" = "xglm_7500"))%>%
+  ggplot(aes(x=Condition,y=Surprisal,fill=Condition))+ 
+    geom_bar(position = "dodge", stat = "summary", fun.y = "mean") +
+    stat_summary(fun.data = mean_se,geom="errorbar", position=position_dodge(.9), width=.3) + facet_wrap(.~Model,ncol=4)+
+  scale_fill_manual(values =c("#0072B2", "#D55E00")) + xlab("\nRelatedness to highest-cloze continuation")
+
+metusalem_graph
+ggsave("metusalem_graph.pdf",metusalem_graph,width=7,height=3.5)
+```
+
+```{r}
+all_signif_df%>%
+  filter(Stims=="metusalem_2012")%>%
+  select(-Stims)%>%
+  knitr::kable()
+```
+

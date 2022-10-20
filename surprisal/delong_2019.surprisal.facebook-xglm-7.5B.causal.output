@@ -1,0 +1,641 @@
+FullSentence	Sentence	TargetWords	Surprisal	NumTokens
+You could tell he had grown up in the South by his accent and clothes.	You could tell he had grown up in the South by his accent	accent	4.053088015800592	1
+You could tell he had grown up in the South by his accept and clothes.	You could tell he had grown up in the South by his accept	accept	18.79806590331974	1
+You could tell he had grown up in the South by his foreigner and clothes.	You could tell he had grown up in the South by his foreigner	foreigner	21.714749674970808	2
+You could tell he had grown up in the South by his quarter and clothes.	You could tell he had grown up in the South by his quarter	quarter	17.17621732791133	1
+Josie found she could not bend the elbow of her broken arm very far.	Josie found she could not bend the elbow of her broken arm	arm	1.1029538147799673	1
+Josie found she could not bend the elbow of her broken art very far.	Josie found she could not bend the elbow of her broken art	art	15.133060510358556	1
+Josie found she could not bend the elbow of her broken tone very far.	Josie found she could not bend the elbow of her broken tone	tone	22.044975836263635	1
+Josie found she could not bend the elbow of her broken lunch very far.	Josie found she could not bend the elbow of her broken lunch	lunch	18.01801166531014	1
+The lumberjack chopped the wood with his ax after sorting it.	The lumberjack chopped the wood with his ax	ax	3.841500789364637	1
+The lumberjack chopped the wood with his ox after sorting it.	The lumberjack chopped the wood with his ox	ox	13.032836902960376	1
+The lumberjack chopped the wood with his blood after sorting it.	The lumberjack chopped the wood with his blood	blood	11.679966471159585	1
+The lumberjack chopped the wood with his appointment after sorting it.	The lumberjack chopped the wood with his appointment	appointment	24.25846378500998	1
+Vicki was packing for a day at the beach with some friends.	Vicki was packing for a day at the beach	beach	0.4872083082295017	1
+Vicki was packing for a day at the belch with some friends.	Vicki was packing for a day at the belch	belch	26.648197977022477	2
+Vicki was packing for a day at the blanket with some friends.	Vicki was packing for a day at the blanket	blanket	22.327959302973948	1
+Vicki was packing for a day at the prune with some friends.	Vicki was packing for a day at the prune	prune	26.41902627361041	2
+The lifeguards patrolled a stretch of the beach before dusk.	The lifeguards patrolled a stretch of the beach	beach	1.8283186347250895	1
+The lifeguards patrolled a stretch of the peach before dusk.	The lifeguards patrolled a stretch of the peach	peach	19.093192275230646	2
+The lifeguards patrolled a stretch of the bum before dusk.	The lifeguards patrolled a stretch of the bum	bum	21.181864895833545	1
+The lifeguards patrolled a stretch of the fortune before dusk.	The lifeguards patrolled a stretch of the fortune	fortune	22.03682635659582	1
+After weeks backpacking, Victor was ready for a good night's sleep in a comfortable bed with a pillow.	After weeks backpacking, Victor was ready for a good night's sleep in a comfortable bed	bed	0.5050277456705354	1
+After weeks backpacking, Victor was ready for a good night's sleep in a comfortable red with a pillow.	After weeks backpacking, Victor was ready for a good night's sleep in a comfortable red	red	15.989211892447022	1
+After weeks backpacking, Victor was ready for a good night's sleep in a comfortable spring with a pillow.	After weeks backpacking, Victor was ready for a good night's sleep in a comfortable spring	spring	13.750341678010866	1
+After weeks backpacking, Victor was ready for a good night's sleep in a comfortable brain with a pillow.	After weeks backpacking, Victor was ready for a good night's sleep in a comfortable brain	brain	23.529492670611898	1
+You never forget how to ride a bike once you have learned.	You never forget how to ride a bike	bike	0.7352966942760404	1
+You never forget how to ride a like once you have learned.	You never forget how to ride a like	like	18.28236739600063	1
+You never forget how to ride a gear once you have learned.	You never forget how to ride a gear	gear	16.706948410660875	1
+You never forget how to ride a link once you have learned.	You never forget how to ride a link	link	21.043471759592794	1
+The cut in his finger was so deep you could see the bone through the tissue.	The cut in his finger was so deep you could see the bone	bone	0.6581208574593113	1
+The cut in his finger was so deep you could see the none through the tissue.	The cut in his finger was so deep you could see the none	none	23.39882271408414	1
+The cut in his finger was so deep you could see the skull through the tissue.	The cut in his finger was so deep you could see the skull	skull	10.68817935829318	1
+The cut in his finger was so deep you could see the grade through the tissue.	The cut in his finger was so deep you could see the grade	grade	17.080303936250438	1
+He is planning on quitting his job because he can't stand his condescending boss at all.	He is planning on quitting his job because he can't stand his condescending boss	boss	0.8901213744096446	1
+He is planning on quitting his job because he can't stand his condescending moss at all.	He is planning on quitting his job because he can't stand his condescending moss	moss	23.26103436192874	1
+He is planning on quitting his job because he can't stand his condescending promotion at all.	He is planning on quitting his job because he can't stand his condescending promotion	promotion	16.796064783681746	1
+He is planning on quitting his job because he can't stand his condescending curtain at all.	He is planning on quitting his job because he can't stand his condescending curtain	curtain	23.77075011020687	2
+The waiter ladled some soup into the bowl for us.	The waiter ladled some soup into the bowl	bowl	1.1568717583803259	1
+The waiter ladled some soup into the howl for us.	The waiter ladled some soup into the howl	howl	21.743629754138503	1
+The waiter ladled some soup into the wood for us.	The waiter ladled some soup into the wood	wood	13.548462492193524	1
+The waiter ladled some soup into the day for us.	The waiter ladled some soup into the day	day	15.724501205732476	1
+The matador waved his cape at the bull with zeal.	The matador waved his cape at the bull	bull	5.831338898362379	1
+The matador waved his cape at the pull with zeal.	The matador waved his cape at the pull	pull	15.623864539744815	1
+The matador waved his cape at the frog with zeal.	The matador waved his cape at the frog	frog	16.48180903788178	2
+The matador waved his cape at the height with zeal.	The matador waved his cape at the height	height	14.365233476499213	1
+The grade-schoolers rode to school on the bus every day.	The grade-schoolers rode to school on the bus	bus	3.093518643551924	1
+The grade-schoolers rode to school on the bun every day.	The grade-schoolers rode to school on the bun	bun	14.454472454431157	1
+The grade-schoolers rode to school on the station every day.	The grade-schoolers rode to school on the station	station	9.589186380495924	1
+The grade-schoolers rode to school on the lotion every day.	The grade-schoolers rode to school on the lotion	lotion	22.101807944721198	2
+When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour bus he was on.	When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour bus	bus	0.0681179490702549	1
+When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour buy he was on.	When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour buy	buy	26.455099694450922	1
+When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour fare he was on.	When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour fare	fare	21.843732953496385	1
+When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour graph he was on.	When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour graph	graph	29.248337245044116	1
+For his second birthday, Leonard got a stuffed sheep and his mother baked him a big chocolate cake with frosting.	For his second birthday, Leonard got a stuffed sheep and his mother baked him a big chocolate cake	cake	0.260640365399831	1
+For his second birthday, Leonard got a stuffed sheep and his mother baked him a big chocolate cage with frosting.	For his second birthday, Leonard got a stuffed sheep and his mother baked him a big chocolate cage	cage	19.99790002012911	2
+For his second birthday, Leonard got a stuffed sheep and his mother baked him a big chocolate mix with frosting.	For his second birthday, Leonard got a stuffed sheep and his mother baked him a big chocolate mix	mix	16.14778683792623	1
+For his second birthday, Leonard got a stuffed sheep and his mother baked him a big chocolate wig with frosting.	For his second birthday, Leonard got a stuffed sheep and his mother baked him a big chocolate wig	wig	19.861739862373206	2
+The commuter drove to work in her car after breakfast.	The commuter drove to work in her car	car	2.6798435883010687	1
+The commuter drove to work in her can after breakfast.	The commuter drove to work in her can	can	12.583179798540463	1
+The commuter drove to work in her brakes after breakfast.	The commuter drove to work in her brakes	brakes	20.43430691956481	2
+The commuter drove to work in her poetry after breakfast.	The commuter drove to work in her poetry	poetry	20.836907935009783	1
+He stalled in the middle of the intersection and had to get out and push the car one block.	He stalled in the middle of the intersection and had to get out and push the car	car	1.3663205972067196	1
+He stalled in the middle of the intersection and had to get out and push the jar one block.	He stalled in the middle of the intersection and had to get out and push the jar	jar	17.61549591951615	1
+He stalled in the middle of the intersection and had to get out and push the license one block.	He stalled in the middle of the intersection and had to get out and push the license	license	14.157783472038735	1
+He stalled in the middle of the intersection and had to get out and push the refrain one block.	He stalled in the middle of the intersection and had to get out and push the refrain	refrain	27.376398149531745	2
+Alfonso has started biking to work instead of driving his car each way.	Alfonso has started biking to work instead of driving his car	car	1.57128177240106	1
+Alfonso has started biking to work instead of driving his caw each way.	Alfonso has started biking to work instead of driving his caw	caw	26.496650439726807	2
+Alfonso has started biking to work instead of driving his bumper each way.	Alfonso has started biking to work instead of driving his bumper	bumper	16.016406691917062	2
+Alfonso has started biking to work instead of driving his picture each way.	Alfonso has started biking to work instead of driving his picture	picture	19.62111831754678	1
+For the snowman’s eyes the children used two pieces of coal, and for its nose they used a carrot and some olives.	For the snowman’s eyes the children used two pieces of coal, and for its nose they used a carrot	carrot	9.763876835392928	2
+For the snowman’s eyes the children used two pieces of coal, and for its nose they used a parrot and some olives.	For the snowman’s eyes the children used two pieces of coal, and for its nose they used a parrot	parrot	14.116614470702464	2
+For the snowman’s eyes the children used two pieces of coal, and for its nose they used a salad and some olives.	For the snowman’s eyes the children used two pieces of coal, and for its nose they used a salad	salad	15.948321729454948	1
+For the snowman’s eyes the children used two pieces of coal, and for its nose they used a tornado and some olives.	For the snowman’s eyes the children used two pieces of coal, and for its nose they used a tornado	tornado	18.75427782673437	2
+Lillian explained how she thought dogs were so much friendlier than cats or birds.	Lillian explained how she thought dogs were so much friendlier than cats	cats	1.1033689972565863	1
+Lillian explained how she thought dogs were so much friendlier than hats or birds.	Lillian explained how she thought dogs were so much friendlier than hats	hats	19.292318864099997	2
+Lillian explained how she thought dogs were so much friendlier than litter or birds.	Lillian explained how she thought dogs were so much friendlier than litter	litter	16.212187988813827	1
+Lillian explained how she thought dogs were so much friendlier than equipment or birds.	Lillian explained how she thought dogs were so much friendlier than equipment	equipment	21.056416343399892	1
+The bear hibernated for winter in its cave without food.	The bear hibernated for winter in its cave	cave	3.0364017539888697	1
+The bear hibernated for winter in its came without food.	The bear hibernated for winter in its came	came	16.04895029570836	1
+The bear hibernated for winter in its bat without food.	The bear hibernated for winter in its bat	bat	16.176842124727976	1
+The bear hibernated for winter in its bun without food.	The bear hibernated for winter in its bun	bun	16.41439969930228	1
+His office was stacked with books from floor to ceiling every semester.	His office was stacked with books from floor to ceiling	ceiling	0.022462660547287624	1
+His office was stacked with books from floor to coiling every semester.	His office was stacked with books from floor to coiling	coiling	24.648056338735334	2
+His office was stacked with books from floor to plaster every semester.	His office was stacked with books from floor to plaster	plaster	23.93150791835526	2
+His office was stacked with books from floor to laughter every semester.	His office was stacked with books from floor to laughter	laughter	27.784755715847993	2
+Most bus drivers will accept only correct change from passengers.	Most bus drivers will accept only correct change	change	1.37796684209145	1
+Most bus drivers will accept only correct chance from passengers.	Most bus drivers will accept only correct chance	chance	20.72301844820582	1
+Most bus drivers will accept only correct pockets from passengers.	Most bus drivers will accept only correct pockets	pockets	20.117954939862408	2
+Most bus drivers will accept only correct knees from passengers.	Most bus drivers will accept only correct knees	knees	22.296178940721557	2
+The crowd was uncontrollable, and it was utter chaos amidst the rioters.	The crowd was uncontrollable, and it was utter chaos	chaos	1.6940269248407507	1
+The crowd was uncontrollable, and it was utter chaps amidst the rioters.	The crowd was uncontrollable, and it was utter chaps	chaps	27.37432892971594	2
+The crowd was uncontrollable, and it was utter order amidst the rioters.	The crowd was uncontrollable, and it was utter order	order	18.65817947955394	1
+The crowd was uncontrollable, and it was utter boards amidst the rioters.	The crowd was uncontrollable, and it was utter boards	boards	29.71162418965145	1
+The bakery did not accept credit cards so Peter would have to write a check or use cash.	The bakery did not accept credit cards so Peter would have to write a check	check	0.21762790785442968	1
+The bakery did not accept credit cards so Peter would have to write a chuck or use cash.	The bakery did not accept credit cards so Peter would have to write a chuck	chuck	25.55675678370082	2
+The bakery did not accept credit cards so Peter would have to write a mate or use cash.	The bakery did not accept credit cards so Peter would have to write a mate	mate	23.1605456226514	1
+The bakery did not accept credit cards so Peter would have to write a residue or use cash.	The bakery did not accept credit cards so Peter would have to write a residue	residue	27.325173568409582	2
+The potter sculpted an ashtray out of clay and sand.	The potter sculpted an ashtray out of clay	clay	2.3448934377631514	2
+The potter sculpted an ashtray out of clap and sand.	The potter sculpted an ashtray out of clap	clap	19.11111682495993	2
+The potter sculpted an ashtray out of art and sand.	The potter sculpted an ashtray out of art	art	14.185062619312866	1
+The potter sculpted an ashtray out of rumble and sand.	The potter sculpted an ashtray out of rumble	rumble	20.477945467683632	2
+They wanted to drill for oil just off the California coast and into Oregon.	They wanted to drill for oil just off the California coast	coast	0.09965295820155723	1
+They wanted to drill for oil just off the California roast and into Oregon.	They wanted to drill for oil just off the California roast	roast	32.10923874265945	2
+They wanted to drill for oil just off the California anchor and into Oregon.	They wanted to drill for oil just off the California anchor	anchor	21.152191090080436	2
+They wanted to drill for oil just off the California witch and into Oregon.	They wanted to drill for oil just off the California witch	witch	31.775647438860144	2
+As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter coat until autumn.	As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter coat	coat	1.2004589801578367	1
+As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter boat until autumn.	As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter boat	boat	19.725464301751042	1
+As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter rack until autumn.	As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter rack	rack	19.5263908541654	1
+As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter disease until autumn.	As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter disease	disease	26.108588029953395	1
+Within minutes of arriving at the office, the detective spilled his thermos full of coffee on himself.	Within minutes of arriving at the office, the detective spilled his thermos full of coffee	coffee	0.7472023465803554	1
+Within minutes of arriving at the office, the detective spilled his thermos full of toffee on himself.	Within minutes of arriving at the office, the detective spilled his thermos full of toffee	toffee	18.243993215515417	2
+Within minutes of arriving at the office, the detective spilled his thermos full of mornings on himself.	Within minutes of arriving at the office, the detective spilled his thermos full of mornings	mornings	21.681290392392974	2
+Within minutes of arriving at the office, the detective spilled his thermos full of safety on himself.	Within minutes of arriving at the office, the detective spilled his thermos full of safety	safety	19.95314893473839	1
+The barber parted my hair with a comb before beginning cutting.	The barber parted my hair with a comb	comb	5.0020446533525424	2
+The barber parted my hair with a bomb before beginning cutting.	The barber parted my hair with a bomb	bomb	18.77028518677928	1
+The barber parted my hair with a tangle before beginning cutting.	The barber parted my hair with a tangle	tangle	14.13071135841841	2
+The barber parted my hair with a route before beginning cutting.	The barber parted my hair with a route	route	18.028734495472758	1
+In the U.S. the five cent piece is made of nickel while pennies are mainly made of copper these days.	In the U.S. the five cent piece is made of nickel while pennies are mainly made of copper	copper	1.5721835921196619	2
+In the U.S. the five cent piece is made of nickel while pennies are mainly made of hopper these days.	In the U.S. the five cent piece is made of nickel while pennies are mainly made of hopper	hopper	22.580755013145428	2
+In the U.S. the five cent piece is made of nickel while pennies are mainly made of wire these days.	In the U.S. the five cent piece is made of nickel while pennies are mainly made of wire	wire	17.276289170703027	1
+In the U.S. the five cent piece is made of nickel while pennies are mainly made of menus these days.	In the U.S. the five cent piece is made of nickel while pennies are mainly made of menus	menus	28.349912748259086	2
+Her parents were afraid she had joined some sort of strange cult while at college.	Her parents were afraid she had joined some sort of strange cult	cult	0.4049050910038612	1
+Her parents were afraid she had joined some sort of strange colt while at college.	Her parents were afraid she had joined some sort of strange colt	colt	23.978323387237314	2
+Her parents were afraid she had joined some sort of strange robe while at college.	Her parents were afraid she had joined some sort of strange robe	robe	19.088324306898063	1
+Her parents were afraid she had joined some sort of strange highway while at college.	Her parents were afraid she had joined some sort of strange highway	highway	20.88748842822864	1
+The teenager attended her prom without a date this year.	The teenager attended her prom without a date	date	0.26308108268031943	1
+The teenager attended her prom without a gate this year.	The teenager attended her prom without a gate	gate	20.728085083599552	1
+The teenager attended her prom without a time this year.	The teenager attended her prom without a time	time	14.727731449949314	1
+The teenager attended her prom without a majority this year.	The teenager attended her prom without a majority	majority	18.43572139930536	1
+When someone suffers a heart attack a few minutes can make the difference between recovery and death they say.	When someone suffers a heart attack a few minutes can make the difference between recovery and death	death	0.2992927545780024	1
+When someone suffers a heart attack a few minutes can make the difference between recovery and depth they say.	When someone suffers a heart attack a few minutes can make the difference between recovery and depth	depth	21.0493326034089	1
+When someone suffers a heart attack a few minutes can make the difference between recovery and certificates they say.	When someone suffers a heart attack a few minutes can make the difference between recovery and certificates	certificates	26.91647095265694	2
+When someone suffers a heart attack a few minutes can make the difference between recovery and ear they say.	When someone suffers a heart attack a few minutes can make the difference between recovery and ear	ear	22.27173162430548	1
+After missing lunch, he couldn't wait until it was time for dinner to eat something.	After missing lunch, he couldn't wait until it was time for dinner	dinner	2.2866488334108546	1
+After missing lunch, he couldn't wait until it was time for sinner to eat something.	After missing lunch, he couldn't wait until it was time for sinner	sinner	27.257584240064432	2
+After missing lunch, he couldn't wait until it was time for napkins to eat something.	After missing lunch, he couldn't wait until it was time for napkins	napkins	21.04800678712762	2
+After missing lunch, he couldn't wait until it was time for material to eat something.	After missing lunch, he couldn't wait until it was time for material	material	19.847000679928467	1
+The little puppy grew up to be a huge dog with big ears.	The little puppy grew up to be a huge dog	dog	2.3624035606511042	1
+The little puppy grew up to be a huge dot with big ears.	The little puppy grew up to be a huge dot	dot	18.424347659282617	1
+The little puppy grew up to be a huge collar with big ears.	The little puppy grew up to be a huge collar	collar	15.682293301077976	1
+The little puppy grew up to be a huge harp with big ears.	The little puppy grew up to be a huge harp	harp	18.434098896807328	2
+At night the old woman locked the door before bedtime.	At night the old woman locked the door	door	0.7178009526134875	1
+At night the old woman locked the poor before bedtime.	At night the old woman locked the poor	poor	12.523208811410749	1
+At night the old woman locked the mat before bedtime.	At night the old woman locked the mat	mat	15.768229641573534	1
+At night the old woman locked the mountain before bedtime.	At night the old woman locked the mountain	mountain	15.302909307949685	1
+Maria remembered to shut the front window and lock the back door before leaving.	Maria remembered to shut the front window and lock the back door	door	0.5314949016424082	1
+Maria remembered to shut the front window and lock the back doom before leaving.	Maria remembered to shut the front window and lock the back doom	doom	22.013109643885933	2
+Maria remembered to shut the front window and lock the back jamb before leaving.	Maria remembered to shut the front window and lock the back jamb	jamb	17.569313357304786	2
+Maria remembered to shut the front window and lock the back gin before leaving.	Maria remembered to shut the front window and lock the back gin	gin	27.067691427769052	1
+The mean boy on the other team was his sworn enemy since kindergarten.	The mean boy on the other team was his sworn enemy	enemy	0.1345859524653995	1
+The mean boy on the other team was his sworn enema since kindergarten.	The mean boy on the other team was his sworn enema	enema	18.49547196112379	2
+The mean boy on the other team was his sworn hate since kindergarten.	The mean boy on the other team was his sworn hate	hate	15.213854233223968	1
+The mean boy on the other team was his sworn shrub since kindergarten.	The mean boy on the other team was his sworn shrub	shrub	26.80027826877499	2
+The dog terrorized all the neighborhood cats after he jumped the picket fence and growled.	The dog terrorized all the neighborhood cats after he jumped the picket fence	fence	0.15794742487753777	1
+The dog terrorized all the neighborhood cats after he jumped the picket hence and growled.	The dog terrorized all the neighborhood cats after he jumped the picket hence	hence	25.66649124383345	1
+The dog terrorized all the neighborhood cats after he jumped the picket guard and growled.	The dog terrorized all the neighborhood cats after he jumped the picket guard	guard	14.47908032103011	1
+The dog terrorized all the neighborhood cats after he jumped the picket echo and growled.	The dog terrorized all the neighborhood cats after he jumped the picket echo	echo	27.62149094325888	1
+The goaltender kicked the ball down the field ten yards.	The goaltender kicked the ball down the field	field	5.120803889630047	1
+The goaltender kicked the ball down the yield ten yards.	The goaltender kicked the ball down the yield	yield	20.421379927572712	2
+The goaltender kicked the ball down the hay ten yards.	The goaltender kicked the ball down the hay	hay	18.61195274994108	1
+The goaltender kicked the ball down the tune ten yards.	The goaltender kicked the ball down the tune	tune	22.363479036000253	1
+The groom took the bride's hand and placed the ring on her finger very carefully.	The groom took the bride's hand and placed the ring on her finger	finger	0.26572131476643185	1
+The groom took the bride's hand and placed the ring on her ginger very carefully.	The groom took the bride's hand and placed the ring on her ginger	ginger	21.335209508988765	2
+The groom took the bride's hand and placed the ring on her grip very carefully.	The groom took the bride's hand and placed the ring on her grip	grip	18.312570811655693	1
+The groom took the bride's hand and placed the ring on her function very carefully.	The groom took the bride's hand and placed the ring on her function	function	24.578096976782298	1
+Harris saw smoke billowing out of his neighbors’ home and immediately got on the phone to report a fire to the authorities.	Harris saw smoke billowing out of his neighbors’ home and immediately got on the phone to report a fire	fire	1.3207222266822651	1
+Harris saw smoke billowing out of his neighbors’ home and immediately got on the phone to report a firm to the authorities.	Harris saw smoke billowing out of his neighbors’ home and immediately got on the phone to report a firm	firm	20.895724231327847	1
+Harris saw smoke billowing out of his neighbors’ home and immediately got on the phone to report a hose to the authorities.	Harris saw smoke billowing out of his neighbors’ home and immediately got on the phone to report a hose	hose	16.04706078089704	2
+Harris saw smoke billowing out of his neighbors’ home and immediately got on the phone to report a niece to the authorities.	Harris saw smoke billowing out of his neighbors’ home and immediately got on the phone to report a niece	niece	24.906173242062017	2
+Marge hated baiting the hook, but she knew that it was the only way to catch a fish without lures.	Marge hated baiting the hook, but she knew that it was the only way to catch a fish	fish	2.004862826531033	1
+Marge hated baiting the hook, but she knew that it was the only way to catch a wish without lures.	Marge hated baiting the hook, but she knew that it was the only way to catch a wish	wish	16.123817045808536	1
+Marge hated baiting the hook, but she knew that it was the only way to catch a scale without lures.	Marge hated baiting the hook, but she knew that it was the only way to catch a scale	scale	17.184561976183833	1
+Marge hated baiting the hook, but she knew that it was the only way to catch a hurricane without lures.	Marge hated baiting the hook, but she knew that it was the only way to catch a hurricane	hurricane	15.51800364951541	3
+While Natasha was strolling through the colorful gardens, she reached down and picked a flower for Mom.	While Natasha was strolling through the colorful gardens, she reached down and picked a flower	flower	2.8313933700442444	1
+While Natasha was strolling through the colorful gardens, she reached down and picked a slower for Mom.	While Natasha was strolling through the colorful gardens, she reached down and picked a slower	slower	21.845180954775394	2
+While Natasha was strolling through the colorful gardens, she reached down and picked a fragrance for Mom.	While Natasha was strolling through the colorful gardens, she reached down and picked a fragrance	fragrance	13.409582253883427	2
+While Natasha was strolling through the colorful gardens, she reached down and picked a profile for Mom.	While Natasha was strolling through the colorful gardens, she reached down and picked a profile	profile	19.437201631150845	1
+The ship disappeared into the thick fog at dusk.	The ship disappeared into the thick fog	fog	2.004262517360975	1
+The ship disappeared into the thick dog at dusk.	The ship disappeared into the thick dog	dog	17.46230809944907	1
+The ship disappeared into the thick visibility at dusk.	The ship disappeared into the thick visibility	visibility	16.060021018372865	2
+The ship disappeared into the thick punishment at dusk.	The ship disappeared into the thick punishment	punishment	23.509684529173946	1
+After realizing he forgot utensils for his salad, the doctor went back to get himself a fork and knife.	After realizing he forgot utensils for his salad, the doctor went back to get himself a fork	fork	7.361096525246067	2
+After realizing he forgot utensils for his salad, the doctor went back to get himself a cork and knife.	After realizing he forgot utensils for his salad, the doctor went back to get himself a cork	cork	17.941428742685368	2
+After realizing he forgot utensils for his salad, the doctor went back to get himself a tine and knife.	After realizing he forgot utensils for his salad, the doctor went back to get himself a tine	tine	21.450151186588243	1
+After realizing he forgot utensils for his salad, the doctor went back to get himself a friendship and knife.	After realizing he forgot utensils for his salad, the doctor went back to get himself a friendship	friendship	22.63911126601628	1
+Frank invited the lonely young soldier to a baseball game after work.	Frank invited the lonely young soldier to a baseball game	game	0.07729556423752329	1
+Frank invited the lonely young soldier to a baseball name after work.	Frank invited the lonely young soldier to a baseball name	name	21.963221533671064	1
+Frank invited the lonely young soldier to a baseball referee after work.	Frank invited the lonely young soldier to a baseball referee	referee	21.797722201160894	2
+Frank invited the lonely young soldier to a baseball walnut after work.	Frank invited the lonely young soldier to a baseball walnut	walnut	30.935218561487282	2
+Irene wanted to drive all the way to the Eastern shore by last night but her truck ran out of gas at midnight.	Irene wanted to drive all the way to the Eastern shore by last night but her truck ran out of gas	gas	0.1214360071441783	1
+Irene wanted to drive all the way to the Eastern shore by last night but her truck ran out of was at midnight.	Irene wanted to drive all the way to the Eastern shore by last night but her truck ran out of was	was	16.737499928546466	1
+Irene wanted to drive all the way to the Eastern shore by last night but her truck ran out of leaks at midnight.	Irene wanted to drive all the way to the Eastern shore by last night but her truck ran out of leaks	leaks	23.12701292068791	2
+Irene wanted to drive all the way to the Eastern shore by last night but her truck ran out of clown at midnight.	Irene wanted to drive all the way to the Eastern shore by last night but her truck ran out of clown	clown	25.309959732981387	2
+After the hurricane, the area around the window was filled with broken glass and debris.	After the hurricane, the area around the window was filled with broken glass	glass	0.11668792420767253	1
+After the hurricane, the area around the window was filled with broken class and debris.	After the hurricane, the area around the window was filled with broken class	class	22.031297967612403	1
+After the hurricane, the area around the window was filled with broken drinks and debris.	After the hurricane, the area around the window was filled with broken drinks	drinks	18.9369474690932	1
+After the hurricane, the area around the window was filled with broken honey and debris.	After the hurricane, the area around the window was filled with broken honey	honey	19.788382726843306	1
+Brad wasn't wearing shoes and stepped on a piece of broken glass and bled.	Brad wasn't wearing shoes and stepped on a piece of broken glass	glass	0.11865233401499718	1
+Brad wasn't wearing shoes and stepped on a piece of broken gloss and bled.	Brad wasn't wearing shoes and stepped on a piece of broken gloss	gloss	20.011984635356043	1
+Brad wasn't wearing shoes and stepped on a piece of broken view and bled.	Brad wasn't wearing shoes and stepped on a piece of broken view	view	19.35930900888236	1
+Brad wasn't wearing shoes and stepped on a piece of broken job and bled.	Brad wasn't wearing shoes and stepped on a piece of broken job	job	22.979058199042377	1
+Nicole could not read very well without her glasses at school.	Nicole could not read very well without her glasses	glasses	0.0588994540668628	1
+Nicole could not read very well without her classes at school.	Nicole could not read very well without her classes	classes	19.73805000826708	1
+Nicole could not read very well without her nerd at school.	Nicole could not read very well without her nerd	nerd	21.340938935094158	2
+Nicole could not read very well without her cereal at school.	Nicole could not read very well without her cereal	cereal	21.608757590760764	1
+He tried to put the pieces of the broken plate back together with glue and pressure.	He tried to put the pieces of the broken plate back together with glue	glue	8.167333664297036	2
+He tried to put the pieces of the broken plate back together with blue and pressure.	He tried to put the pieces of the broken plate back together with blue	blue	9.995021275758841	1
+He tried to put the pieces of the broken plate back together with paper and pressure.	He tried to put the pieces of the broken plate back together with paper	paper	9.939387014000141	1
+He tried to put the pieces of the broken plate back together with pasture and pressure.	He tried to put the pieces of the broken plate back together with pasture	pasture	28.603617260809447	2
+The Spanish conquerors searched the temple for silver and gold from Incas.	The Spanish conquerors searched the temple for silver and gold	gold	0.5396865987807069	1
+The Spanish conquerors searched the temple for silver and golf from Incas.	The Spanish conquerors searched the temple for silver and golf	golf	21.388860014983077	1
+The Spanish conquerors searched the temple for silver and chain from Incas.	The Spanish conquerors searched the temple for silver and chain	chain	16.30560172596358	1
+The Spanish conquerors searched the temple for silver and meeting from Incas.	The Spanish conquerors searched the temple for silver and meeting	meeting	19.99136330928821	1
+The men barbequed some burgers on the grill with onions.	The men barbequed some burgers on the grill	grill	1.104107938870661	1
+The men barbequed some burgers on the drill with onions.	The men barbequed some burgers on the drill	drill	17.657405100116442	1
+The men barbequed some burgers on the dad with onions.	The men barbequed some burgers on the dad	dad	18.761412601606317	1
+The men barbequed some burgers on the uncle with onions.	The men barbequed some burgers on the uncle	uncle	19.472728709177456	1
+The bride vowed her love to the groom for life.	The bride vowed her love to the groom	groom	0.44168641374876827	2
+The bride vowed her love to the broom for life.	The bride vowed her love to the broom	broom	21.375609750613762	2
+The bride vowed her love to the tuxedo for life.	The bride vowed her love to the tuxedo	tuxedo	15.738568507792221	3
+The bride vowed her love to the lantern for life.	The bride vowed her love to the lantern	lantern	20.768473703184654	2
+The fire broke out in the middle of the night and the house burnt to the ground and smoldered.	The fire broke out in the middle of the night and the house burnt to the ground	ground	0.01988265426966016	1
+The fire broke out in the middle of the night and the house burnt to the around and smoldered.	The fire broke out in the middle of the night and the house burnt to the around	around	24.146197800840906	1
+The fire broke out in the middle of the night and the house burnt to the worms and smoldered.	The fire broke out in the middle of the night and the house burnt to the worms	worms	25.37760324024807	2
+The fire broke out in the middle of the night and the house burnt to the drum and smoldered.	The fire broke out in the middle of the night and the house burnt to the drum	drum	21.116017530423605	1
+During the first week after he quit smoking, he found it helpful to chew gum when bored.	During the first week after he quit smoking, he found it helpful to chew gum	gum	2.0469403323147897	1
+During the first week after he quit smoking, he found it helpful to chew bum when bored.	During the first week after he quit smoking, he found it helpful to chew bum	bum	20.060975496081554	1
+During the first week after he quit smoking, he found it helpful to chew saliva when bored.	During the first week after he quit smoking, he found it helpful to chew saliva	saliva	13.610993846482668	2
+During the first week after he quit smoking, he found it helpful to chew stadium when bored.	During the first week after he quit smoking, he found it helpful to chew stadium	stadium	21.96316134723786	1
+The cop shot the assailant with his gun without thinking.	The cop shot the assailant with his gun	gun	4.032255004182757	1
+The cop shot the assailant with his fun without thinking.	The cop shot the assailant with his fun	fun	21.054741394897277	1
+The cop shot the assailant with his target without thinking.	The cop shot the assailant with his target	target	17.91012817667101	1
+The cop shot the assailant with his growth without thinking.	The cop shot the assailant with his growth	growth	25.68118898155249	1
+He pounded in the nails with a hammer from his toolbox.	He pounded in the nails with a hammer	hammer	3.224225573346024	1
+He pounded in the nails with a hamper from his toolbox.	He pounded in the nails with a hamper	hamper	21.316327606187443	2
+He pounded in the nails with a tack from his toolbox.	He pounded in the nails with a tack	tack	15.277921374159728	1
+He pounded in the nails with a summer from his toolbox.	He pounded in the nails with a summer	summer	17.938296238793026	1
+When the two met, one of them held out his hand and smiled.	When the two met, one of them held out his hand	hand	0.5617545986433762	1
+When the two met, one of them held out his land and smiled.	When the two met, one of them held out his land	land	15.839541645920079	1
+When the two met, one of them held out his touch and smiled.	When the two met, one of them held out his touch	touch	17.36914433130052	1
+When the two met, one of them held out his gang and smiled.	When the two met, one of them held out his gang	gang	16.18920040092347	1
+The magician pulled a rabbit from his hat at last.	The magician pulled a rabbit from his hat	hat	0.22508689440175841	1
+The magician pulled a rabbit from his oat at last.	The magician pulled a rabbit from his oat	oat	22.997865867473983	2
+The magician pulled a rabbit from his feather at last.	The magician pulled a rabbit from his feather	feather	16.735230021987114	2
+The magician pulled a rabbit from his protest at last.	The magician pulled a rabbit from his protest	protest	26.104023648802166	1
+The cardiologist performed an operation on my heart this morning.	The cardiologist performed an operation on my heart	heart	1.907544955239193	1
+The cardiologist performed an operation on my heard this morning.	The cardiologist performed an operation on my heard	heard	20.59749675676798	1
+The cardiologist performed an operation on my beat this morning.	The cardiologist performed an operation on my beat	beat	13.07238351147061	1
+The cardiologist performed an operation on my weather this morning.	The cardiologist performed an operation on my weather	weather	18.787686044779033	1
+Due to its rough terrain, stranded hikers on the mountain often send flares to call for help from afar.	Due to its rough terrain, stranded hikers on the mountain often send flares to call for help	help	0.18553360919530004	1
+Due to its rough terrain, stranded hikers on the mountain often send flares to call for heap from afar.	Due to its rough terrain, stranded hikers on the mountain often send flares to call for heap	heap	29.859072489253684	2
+Due to its rough terrain, stranded hikers on the mountain often send flares to call for harm from afar.	Due to its rough terrain, stranded hikers on the mountain often send flares to call for harm	harm	22.28607329804814	1
+Due to its rough terrain, stranded hikers on the mountain often send flares to call for expansion from afar.	Due to its rough terrain, stranded hikers on the mountain often send flares to call for expansion	expansion	26.152057689415134	1
+Many youngsters find it difficult to go away from home for camp.	Many youngsters find it difficult to go away from home	home	2.4502000590639494	1
+Many youngsters find it difficult to go away from hole for camp.	Many youngsters find it difficult to go away from hole	hole	21.120920023610882	1
+Many youngsters find it difficult to go away from comfort for camp.	Many youngsters find it difficult to go away from comfort	comfort	8.411677320107133	1
+Many youngsters find it difficult to go away from honeymoon for camp.	Many youngsters find it difficult to go away from honeymoon	honeymoon	19.52201880921998	2
+The equestrian positioned the saddle on the horse and set out.	The equestrian positioned the saddle on the horse	horse	2.4399678674439405	1
+The equestrian positioned the saddle on the worse and set out.	The equestrian positioned the saddle on the worse	worse	18.062142653699254	1
+The equestrian positioned the saddle on the neigh and set out.	The equestrian positioned the saddle on the neigh	neigh	20.622607251129217	2
+The equestrian positioned the saddle on the episode and set out.	The equestrian positioned the saddle on the episode	episode	19.863158730163388	1
+Tom's cat brought a lot of fleas into his house and shed a lot of fur.	Tom's cat brought a lot of fleas into his house	house	1.1897956351814782	1
+Tom's cat brought a lot of fleas into his horse and shed a lot of fur.	Tom's cat brought a lot of fleas into his horse	horse	14.937191633208633	1
+Tom's cat brought a lot of fleas into his mortgage and shed a lot of fur.	Tom's cat brought a lot of fleas into his mortgage	mortgage	18.973724956768372	1
+Tom's cat brought a lot of fleas into his matter and shed a lot of fur.	Tom's cat brought a lot of fleas into his matter	matter	20.731975215440997	1
+The bartender chilled the champagne over some ice before dinner.	The bartender chilled the champagne over some ice	ice	0.14579522566006328	1
+The bartender chilled the champagne over some mice before dinner.	The bartender chilled the champagne over some mice	mice	20.191695745952195	2
+The bartender chilled the champagne over some hockey before dinner.	The bartender chilled the champagne over some hockey	hockey	19.983421557877417	1
+The bartender chilled the champagne over some tricks before dinner.	The bartender chilled the champagne over some tricks	tricks	20.720649428120527	1
+The comedian broke the ice with a joke and some props.	The comedian broke the ice with a joke	joke	2.5954550452661116	1
+The comedian broke the ice with a woke and some props.	The comedian broke the ice with a woke	woke	19.488982916191766	2
+The comedian broke the ice with a wit and some props.	The comedian broke the ice with a wit	wit	7.912511907870842	1
+The comedian broke the ice with a native and some props.	The comedian broke the ice with a native	native	14.626958176416434	1
+You can't open the door with the wrong key or combination.	You can't open the door with the wrong key	key	0.570041534900225	1
+You can't open the door with the wrong hey or combination.	You can't open the door with the wrong hey	hey	22.172170046047732	1
+You can't open the door with the wrong jingle or combination.	You can't open the door with the wrong jingle	jingle	17.284320114346407	2
+You can't open the door with the wrong stew or combination.	You can't open the door with the wrong stew	stew	24.285073221982415	2
+The head of a monarchy, and husband to the queen, is the king and ruler.	The head of a monarchy, and husband to the queen, is the king	king	4.4263964940528915	1
+The head of a monarchy, and husband to the queen, is the kind and ruler.	The head of a monarchy, and husband to the queen, is the kind	kind	10.739938738683508	1
+The head of a monarchy, and husband to the queen, is the chess and ruler.	The head of a monarchy, and husband to the queen, is the chess	chess	19.769861303936825	3
+The head of a monarchy, and husband to the queen, is the sofa and ruler.	The head of a monarchy, and husband to the queen, is the sofa	sofa	20.667876697071588	1
+The day was breezy so the boy went outside to fly a kite with some friends.	The day was breezy so the boy went outside to fly a kite	kite	0.021409367154137122	1
+The day was breezy so the boy went outside to fly a bite with some friends.	The day was breezy so the boy went outside to fly a bite	bite	23.810509154326798	1
+The day was breezy so the boy went outside to fly a tail with some friends.	The day was breezy so the boy went outside to fly a tail	tail	18.92290526262103	1
+The day was breezy so the boy went outside to fly a harvest with some friends.	The day was breezy so the boy went outside to fly a harvest	harvest	22.964573288147136	1
+You can't turn left at that intersection because it is against the law in our town.	You can't turn left at that intersection because it is against the law	law	0.4963942952876981	1
+You can't turn left at that intersection because it is against the jaw in our town.	You can't turn left at that intersection because it is against the jaw	jaw	24.019961209758055	1
+You can't turn left at that intersection because it is against the justice in our town.	You can't turn left at that intersection because it is against the justice	justice	19.041071749612534	1
+You can't turn left at that intersection because it is against the orange in our town.	You can't turn left at that intersection because it is against the orange	orange	12.92450175434788	1
+The mechanic said radar guns should be against the law in this country.	The mechanic said radar guns should be against the law	law	5.534396729587079	1
+The mechanic said radar guns should be against the lap in this country.	The mechanic said radar guns should be against the lap	lap	14.266748366425926	1
+The mechanic said radar guns should be against the enforcement in this country.	The mechanic said radar guns should be against the enforcement	enforcement	16.04501185472641	1
+The mechanic said radar guns should be against the bargain in this country.	The mechanic said radar guns should be against the bargain	bargain	17.842765896225185	2
+Anthony tore some cartilage in his knee and got a big cast around his whole leg for several months.	Anthony tore some cartilage in his knee and got a big cast around his whole leg	leg	1.2822495372384897	1
+Anthony tore some cartilage in his knee and got a big cast around his whole let for several months.	Anthony tore some cartilage in his knee and got a big cast around his whole let	let	19.872174716979625	1
+Anthony tore some cartilage in his knee and got a big cast around his whole drumstick for several months.	Anthony tore some cartilage in his knee and got a big cast around his whole drumstick	drumstick	22.200578454789454	2
+Anthony tore some cartilage in his knee and got a big cast around his whole antenna for several months.	Anthony tore some cartilage in his knee and got a big cast around his whole antenna	antenna	24.736303402612855	2
+Angela knew she couldn't use the camera with the shattered lens to take pictures.	Angela knew she couldn't use the camera with the shattered lens	lens	1.4367440168244452	1
+Angela knew she couldn't use the camera with the shattered lent to take pictures.	Angela knew she couldn't use the camera with the shattered lent	lent	17.907309143850448	1
+Angela knew she couldn't use the camera with the shattered eye to take pictures.	Angela knew she couldn't use the camera with the shattered eye	eye	8.141411950824125	1
+Angela knew she couldn't use the camera with the shattered princess to take pictures.	Angela knew she couldn't use the camera with the shattered princess	princess	17.698813915159846	1
+When you go to bed turn off the lights before sleeping.	When you go to bed turn off the lights	lights	1.8691633326231518	1
+When you go to bed turn off the fights before sleeping.	When you go to bed turn off the fights	fights	21.125245619933782	2
+When you go to bed turn off the darkness before sleeping.	When you go to bed turn off the darkness	darkness	16.475407712443094	1
+When you go to bed turn off the robbery before sleeping.	When you go to bed turn off the robbery	robbery	21.94438210006169	2
+I added my name to the list at work.	I added my name to the list	list	1.295364297854292	1
+I added my name to the fist at work.	I added my name to the fist	fist	16.78601505297337	1
+I added my name to the shopping at work.	I added my name to the shopping	shopping	14.752225142812875	1
+I added my name to the peach at work.	I added my name to the peach	peach	17.996094351528136	2
+The cyclist secured her bike with a lock before leaving.	The cyclist secured her bike with a lock	lock	4.548737062372401	1
+The cyclist secured her bike with a sock before leaving.	The cyclist secured her bike with a sock	sock	13.055198412330533	1
+The cyclist secured her bike with a jail before leaving.	The cyclist secured her bike with a jail	jail	17.2058166853308	1
+The cyclist secured her bike with a nature before leaving.	The cyclist secured her bike with a nature	nature	19.100892050199292	1
+He shouted at the top of his lungs to everyone.	He shouted at the top of his lungs	lungs	0.8707381498462324	2
+He shouted at the top of his rungs to everyone.	He shouted at the top of his rungs	rungs	26.07818337274826	2
+He shouted at the top of his air to everyone.	He shouted at the top of his air	air	15.7805123888999	1
+He shouted at the top of his decoration to everyone.	He shouted at the top of his decoration	decoration	27.047971011057093	1
+There were no real letters, only catalogs and a lot of junk mail this time.	There were no real letters, only catalogs and a lot of junk mail	mail	1.4133763010503873	1
+There were no real letters, only catalogs and a lot of junk fail this time.	There were no real letters, only catalogs and a lot of junk fail	fail	24.52333721910982	1
+There were no real letters, only catalogs and a lot of junk fraud this time.	There were no real letters, only catalogs and a lot of junk fraud	fraud	21.47841884866899	1
+There were no real letters, only catalogs and a lot of junk island this time.	There were no real letters, only catalogs and a lot of junk island	island	22.33299915384423	1
+The traveler located the sites on the map with help.	The traveler located the sites on the map	map	1.3499483656900544	1
+The traveler located the sites on the may with help.	The traveler located the sites on the may	may	17.7133216875837	1
+The traveler located the sites on the direction with help.	The traveler located the sites on the direction	direction	13.77294040192355	1
+The traveler located the sites on the pain with help.	The traveler located the sites on the pain	pain	16.805825538846044	1
+To help everyone find her house, Lilly drew a map for them.	To help everyone find her house, Lilly drew a map	map	1.3299307603452242	1
+To help everyone find her house, Lilly drew a gap for them.	To help everyone find her house, Lilly drew a gap	gap	17.819002625306144	1
+To help everyone find her house, Lilly drew a world for them.	To help everyone find her house, Lilly drew a world	world	12.024175292023012	1
+To help everyone find her house, Lilly drew a gust for them.	To help everyone find her house, Lilly drew a gust	gust	20.218350534188524	1
+The partygoer disguised her face behind a mask before entering.	The partygoer disguised her face behind a mask	mask	2.481033313345034	1
+The partygoer disguised her face behind a mass before entering.	The partygoer disguised her face behind a mass	mass	12.983105699647155	1
+The partygoer disguised her face behind a robbery before entering.	The partygoer disguised her face behind a robbery	robbery	17.294766146763482	2
+The partygoer disguised her face behind a seed before entering.	The partygoer disguised her face behind a seed	seed	18.714175770981864	1
+When I called his house Nolan was not home, but his mother said she could relay a message to him.	When I called his house Nolan was not home, but his mother said she could relay a message	message	0.3063658660922482	1
+When I called his house Nolan was not home, but his mother said she could relay a massage to him.	When I called his house Nolan was not home, but his mother said she could relay a massage	massage	16.524781140126322	1
+When I called his house Nolan was not home, but his mother said she could relay a bottle to him.	When I called his house Nolan was not home, but his mother said she could relay a bottle	bottle	17.016178231475596	1
+When I called his house Nolan was not home, but his mother said she could relay a nation to him.	When I called his house Nolan was not home, but his mother said she could relay a nation	nation	21.082599327934922	1
+Joan fed her baby some warm milk and rocked her to sleep.	Joan fed her baby some warm milk	milk	1.059296951567346	1
+Joan fed her baby some warm mild and rocked her to sleep.	Joan fed her baby some warm mild	mild	18.087555118268014	1
+Joan fed her baby some warm calcium and rocked her to sleep.	Joan fed her baby some warm calcium	calcium	17.74087655912007	1
+Joan fed her baby some warm plans and rocked her to sleep.	Joan fed her baby some warm plans	plans	20.738504025024564	1
+The farmer said he had no use for a cow that didn't give any milk at all.	The farmer said he had no use for a cow that didn't give any milk	milk	0.1270702285533637	1
+The farmer said he had no use for a cow that didn't give any silk at all.	The farmer said he had no use for a cow that didn't give any silk	silk	17.03292628426654	1
+The farmer said he had no use for a cow that didn't give any shakes at all.	The farmer said he had no use for a cow that didn't give any shakes	shakes	22.816687902625834	2
+The farmer said he had no use for a cow that didn't give any pants at all.	The farmer said he had no use for a cow that didn't give any pants	pants	22.89482424491866	1
+The drive only takes ten minutes with no traffic.	The drive only takes ten minutes	minutes	0.17765051507025062	1
+The drive only takes ten minuses with no traffic.	The drive only takes ten minuses	minuses	23.126531348820954	2
+The drive only takes ten clocks with no traffic.	The drive only takes ten clocks	clocks	19.09832764331615	2
+The drive only takes ten shields with no traffic.	The drive only takes ten shields	shields	23.88091919772378	3
+Polly was annoyed at the wealthy stockbroker who she saw as a man in it just for the money and fame.	Polly was annoyed at the wealthy stockbroker who she saw as a man in it just for the money	money	0.4729656044156976	1
+Polly was annoyed at the wealthy stockbroker who she saw as a man in it just for the honey and fame.	Polly was annoyed at the wealthy stockbroker who she saw as a man in it just for the honey	honey	14.71855693990103	1
+Polly was annoyed at the wealthy stockbroker who she saw as a man in it just for the wallet and fame.	Polly was annoyed at the wealthy stockbroker who she saw as a man in it just for the wallet	wallet	13.285245163882479	2
+Polly was annoyed at the wealthy stockbroker who she saw as a man in it just for the rust and fame.	Polly was annoyed at the wealthy stockbroker who she saw as a man in it just for the rust	rust	20.923309805408703	1
+Marco will snap your head off when he is in a bad mood these days.	Marco will snap your head off when he is in a bad mood	mood	0.00973162400910141	1
+Marco will snap your head off when he is in a bad hood these days.	Marco will snap your head off when he is in a bad hood	hood	22.79243302006493	1
+Marco will snap your head off when he is in a bad expression these days.	Marco will snap your head off when he is in a bad expression	expression	20.57394899957103	1
+Marco will snap your head off when he is in a bad load these days.	Marco will snap your head off when he is in a bad load	load	24.51483512618731	1
+The sailor swabbed the deck with a mop before dawn.	The sailor swabbed the deck with a mop	mop	7.39893987489586	2
+The sailor swabbed the deck with a hop before dawn.	The sailor swabbed the deck with a hop	hop	16.73137019710691	1
+The sailor swabbed the deck with a mess before dawn.	The sailor swabbed the deck with a mess	mess	15.570135240254661	1
+The sailor swabbed the deck with a pyramid before dawn.	The sailor swabbed the deck with a pyramid	pyramid	20.233736393207295	1
+She promised to start first thing in the morning on Monday.	She promised to start first thing in the morning	morning	0.04983855836803362	1
+She promised to start first thing in the moaning on Monday.	She promised to start first thing in the moaning	moaning	25.86411114218786	2
+She promised to start first thing in the breakfast on Monday.	She promised to start first thing in the breakfast	breakfast	16.474699046754942	1
+She promised to start first thing in the sunburn on Monday.	She promised to start first thing in the sunburn	sunburn	28.13993321773024	2
+Tim drove his jeep right through the swamp and his wheel got stuck in the mud and stalled.	Tim drove his jeep right through the swamp and his wheel got stuck in the mud	mud	0.39222710784175435	1
+Tim drove his jeep right through the swamp and his wheel got stuck in the bud and stalled.	Tim drove his jeep right through the swamp and his wheel got stuck in the bud	bud	18.67483456139992	1
+Tim drove his jeep right through the swamp and his wheel got stuck in the pie and stalled.	Tim drove his jeep right through the swamp and his wheel got stuck in the pie	pie	18.66315079461058	1
+Tim drove his jeep right through the swamp and his wheel got stuck in the sound and stalled.	Tim drove his jeep right through the swamp and his wheel got stuck in the sound	sound	16.355182128662786	1
+Many people have a bad habit of chewing their nails when nervous.	Many people have a bad habit of chewing their nails	nails	1.843430309630588	2
+Many people have a bad habit of chewing their sails when nervous.	Many people have a bad habit of chewing their sails	sails	23.32611822435031	2
+Many people have a bad habit of chewing their clippers when nervous.	Many people have a bad habit of chewing their clippers	clippers	20.814442561601076	2
+Many people have a bad habit of chewing their shortage when nervous.	Many people have a bad habit of chewing their shortage	shortage	25.140650358395803	2
+I could not remember his name when asked.	I could not remember his name	name	0.46982575651623276	1
+I could not remember his lame when asked.	I could not remember his lame	lame	18.377871525460293	1
+I could not remember his maiden when asked.	I could not remember his maiden	maiden	12.663250266692629	2
+I could not remember his noon when asked.	I could not remember his noon	noon	20.426301736820488	1
+The teacher saw that some students were cheating and wrote down their names and numbers.	The teacher saw that some students were cheating and wrote down their names	names	0.8406111997440052	1
+The teacher saw that some students were cheating and wrote down their games and numbers.	The teacher saw that some students were cheating and wrote down their games	games	14.509918877675288	1
+The teacher saw that some students were cheating and wrote down their directory and numbers.	The teacher saw that some students were cheating and wrote down their directory	directory	20.506498524457456	1
+The teacher saw that some students were cheating and wrote down their recitals and numbers.	The teacher saw that some students were cheating and wrote down their recitals	recitals	22.957155225810247	2
+Margaret thought with her new dress and fancy belt, the scarf would look marvelous around her neck with some pearls.	Margaret thought with her new dress and fancy belt, the scarf would look marvelous around her neck	neck	1.0705713615131673	1
+Margaret thought with her new dress and fancy belt, the scarf would look marvelous around her deck with some pearls.	Margaret thought with her new dress and fancy belt, the scarf would look marvelous around her deck	deck	21.6374633811835	1
+Margaret thought with her new dress and fancy belt, the scarf would look marvelous around her pain with some pearls.	Margaret thought with her new dress and fancy belt, the scarf would look marvelous around her pain	pain	18.48657611173167	1
+Margaret thought with her new dress and fancy belt, the scarf would look marvelous around her generation with some pearls.	Margaret thought with her new dress and fancy belt, the scarf would look marvelous around her generation	generation	25.286245892605077	1
+The vampire bit his victim on the neck with glee.	The vampire bit his victim on the neck	neck	1.6681537834765023	1
+The vampire bit his victim on the peck with glee.	The vampire bit his victim on the peck	peck	17.944958225050065	2
+The vampire bit his victim on the strain with glee.	The vampire bit his victim on the strain	strain	20.07232266293138	1
+The vampire bit his victim on the half with glee.	The vampire bit his victim on the half	half	14.526765564660204	1
+The bird laid her eggs in the nest up high.	The bird laid her eggs in the nest	nest	3.268888794019854	1
+The bird laid her eggs in the vest up high.	The bird laid her eggs in the vest	vest	16.522114040762396	1
+The bird laid her eggs in the twig up high.	The bird laid her eggs in the twig	twig	16.950330497666883	2
+The bird laid her eggs in the inch up high.	The bird laid her eggs in the inch	inch	17.283983355879744	1
+He knew that he could call Chris even if it was the middle of the night in London.	He knew that he could call Chris even if it was the middle of the night	night	0.1178155817460711	1
+He knew that he could call Chris even if it was the middle of the tight in London.	He knew that he could call Chris even if it was the middle of the tight	tight	24.352680689770352	1
+He knew that he could call Chris even if it was the middle of the moon in London.	He knew that he could call Chris even if it was the middle of the moon	moon	15.057155952019645	1
+He knew that he could call Chris even if it was the middle of the master in London.	He knew that he could call Chris even if it was the middle of the master	master	21.424798471947426	1
+The perfumer sniffed the scent with his nose and smiled.	The perfumer sniffed the scent with his nose	nose	0.6794558595606147	1
+The perfumer sniffed the scent with his lose and smiled.	The perfumer sniffed the scent with his lose	lose	21.86122167883601	1
+The perfumer sniffed the scent with his sneeze and smiled.	The perfumer sniffed the scent with his sneeze	sneeze	14.573182713267311	2
+The perfumer sniffed the scent with his ship and smiled.	The perfumer sniffed the scent with his ship	ship	19.247342606168964	1
+Paul painted the clown's suit blue and gave him a big red nose and hat.	Paul painted the clown's suit blue and gave him a big red nose	nose	0.5206162851456143	1
+Paul painted the clown's suit blue and gave him a big red dose and hat.	Paul painted the clown's suit blue and gave him a big red dose	dose	21.323351609421536	1
+Paul painted the clown's suit blue and gave him a big red sniff and hat.	Paul painted the clown's suit blue and gave him a big red sniff	sniff	23.03633786559158	2
+Paul painted the clown's suit blue and gave him a big red hero and hat.	Paul painted the clown's suit blue and gave him a big red hero	hero	19.650754142165347	1
+In caring for hospitalized patients, a doctor often needs the help of a nurse or some aides.	In caring for hospitalized patients, a doctor often needs the help of a nurse	nurse	0.835953171002619	1
+In caring for hospitalized patients, a doctor often needs the help of a purse or some aides.	In caring for hospitalized patients, a doctor often needs the help of a purse	purse	19.019774410324228	2
+In caring for hospitalized patients, a doctor often needs the help of a needle or some aides.	In caring for hospitalized patients, a doctor often needs the help of a needle	needle	16.252219946633513	2
+In caring for hospitalized patients, a doctor often needs the help of a nickel or some aides.	In caring for hospitalized patients, a doctor often needs the help of a nickel	nickel	21.12420971998144	2
+Nora couldn't take the message because she didn't have a pencil or a piece of paper close by.	Nora couldn't take the message because she didn't have a pencil or a piece of paper	paper	0.021438168831405525	1
+Nora couldn't take the message because she didn't have a pencil or a piece of piper close by.	Nora couldn't take the message because she didn't have a pencil or a piece of piper	piper	33.08923587293352	1
+Nora couldn't take the message because she didn't have a pencil or a piece of clip close by.	Nora couldn't take the message because she didn't have a pencil or a piece of clip	clip	17.66331679595866	1
+Nora couldn't take the message because she didn't have a pencil or a piece of hotel close by.	Nora couldn't take the message because she didn't have a pencil or a piece of hotel	hotel	22.90690535394523	1
+The dispute was settled by a third party after years in court.	The dispute was settled by a third party	party	0.6647695437217608	1
+The dispute was settled by a third parts after years in court.	The dispute was settled by a third parts	parts	19.190294958396372	1
+The dispute was settled by a third opposition after years in court.	The dispute was settled by a third opposition	opposition	15.657220927377692	1
+The dispute was settled by a third stump after years in court.	The dispute was settled by a third stump	stump	20.484859455263322	2
+The bad thing about a banana is that somebody could come along and slip on the peel and fall.	The bad thing about a banana is that somebody could come along and slip on the peel	peel	3.166715240092104	1
+The bad thing about a banana is that somebody could come along and slip on the feel and fall.	The bad thing about a banana is that somebody could come along and slip on the feel	feel	19.494682099445694	1
+The bad thing about a banana is that somebody could come along and slip on the orange and fall.	The bad thing about a banana is that somebody could come along and slip on the orange	orange	10.544853416885115	1
+The bad thing about a banana is that somebody could come along and slip on the lodge and fall.	The bad thing about a banana is that somebody could come along and slip on the lodge	lodge	21.915628862401235	2
+The actress signed her autograph with my pen and posed.	The actress signed her autograph with my pen	pen	7.604870831092215	1
+The actress signed her autograph with my pea and posed.	The actress signed her autograph with my pea	pea	16.6884261430528	1
+The actress signed her autograph with my cap and posed.	The actress signed her autograph with my cap	cap	12.562437255426552	1
+The actress signed her autograph with my diver and posed.	The actress signed her autograph with my diver	diver	21.691748027933535	2
+Although she heard it ringing, Nancy was too busy cleaning the chimney to get the phone right now.	Although she heard it ringing, Nancy was too busy cleaning the chimney to get the phone	phone	4.015112830329742	1
+Although she heard it ringing, Nancy was too busy cleaning the chimney to get the shone right now.	Although she heard it ringing, Nancy was too busy cleaning the chimney to get the shone	shone	23.937308833116745	2
+Although she heard it ringing, Nancy was too busy cleaning the chimney to get the booth right now.	Although she heard it ringing, Nancy was too busy cleaning the chimney to get the booth	booth	17.42671883079167	1
+Although she heard it ringing, Nancy was too busy cleaning the chimney to get the haul right now.	Although she heard it ringing, Nancy was too busy cleaning the chimney to get the haul	haul	15.699662019908509	2
+The thespian rehearsed a scene from the play on Broadway.	The thespian rehearsed a scene from the play	play	1.3708536379516088	1
+The thespian rehearsed a scene from the pray on Broadway.	The thespian rehearsed a scene from the pray	pray	22.428010402395422	1
+The thespian rehearsed a scene from the costume on Broadway.	The thespian rehearsed a scene from the costume	costume	14.51863696898887	1
+The thespian rehearsed a scene from the sauce on Broadway.	The thespian rehearsed a scene from the sauce	sauce	19.86832245696252	1
+The kangaroo carries its young in a pouch for months.	The kangaroo carries its young in a pouch	pouch	0.24152733523466993	2
+The kangaroo carries its young in a touch for months.	The kangaroo carries its young in a touch	touch	21.21609204183576	1
+The kangaroo carries its young in a zipper for months.	The kangaroo carries its young in a zipper	zipper	15.220719737793786	2
+The kangaroo carries its young in a monument for months.	The kangaroo carries its young in a monument	monument	22.3232695165668	1
+The woman stashed her wallet in her purse for safety.	The woman stashed her wallet in her purse	purse	2.2014924320306726	2
+The woman stashed her wallet in her nurse for safety.	The woman stashed her wallet in her nurse	nurse	15.439693640880302	1
+The woman stashed her wallet in her snatcher for safety.	The woman stashed her wallet in her snatcher	snatcher	23.103337401174773	3
+The woman stashed her wallet in her guest for safety.	The woman stashed her wallet in her guest	guest	15.192990657043147	1
+The umbrella protected the walkers from the rain and wind.	The umbrella protected the walkers from the rain	rain	1.6239207261046433	1
+The umbrella protected the walkers from the main and wind.	The umbrella protected the walkers from the main	main	11.987346138141234	1
+The umbrella protected the walkers from the tropics and wind.	The umbrella protected the walkers from the tropics	tropics	16.617133172526895	3
+The umbrella protected the walkers from the payment and wind.	The umbrella protected the walkers from the payment	payment	22.843297043920103	1
+Eva put the whiskey bottle up high out of the baby's reach as a precaution.	Eva put the whiskey bottle up high out of the baby's reach	reach	0.14232371914188674	1
+Eva put the whiskey bottle up high out of the baby's beach as a precaution.	Eva put the whiskey bottle up high out of the baby's beach	beach	21.865672549321587	1
+Eva put the whiskey bottle up high out of the baby's goal as a precaution.	Eva put the whiskey bottle up high out of the baby's goal	goal	20.360224436380904	1
+Eva put the whiskey bottle up high out of the baby's performer as a precaution.	Eva put the whiskey bottle up high out of the baby's performer	performer	30.219015670245064	1
+The contractor replaced the shingles on the roof this week.	The contractor replaced the shingles on the roof	roof	1.14843451371904	1
+The contractor replaced the shingles on the hoof this week.	The contractor replaced the shingles on the hoof	hoof	23.153241842868752	1
+The contractor replaced the shingles on the protection this week.	The contractor replaced the shingles on the protection	protection	16.12234337728776	1
+The contractor replaced the shingles on the problem this week.	The contractor replaced the shingles on the problem	problem	16.86435646321468	1
+Not wanting to be too romantic, Arthur brought his mother a daisy instead of a beautiful red rose on Valentine's Day.	Not wanting to be too romantic, Arthur brought his mother a daisy instead of a beautiful red rose	rose	0.05458241964647311	1
+Not wanting to be too romantic, Arthur brought his mother a daisy instead of a beautiful red rope on Valentine's Day.	Not wanting to be too romantic, Arthur brought his mother a daisy instead of a beautiful red rope	rope	21.52290977329693	1
+Not wanting to be too romantic, Arthur brought his mother a daisy instead of a beautiful red garden on Valentine's Day.	Not wanting to be too romantic, Arthur brought his mother a daisy instead of a beautiful red garden	garden	13.866715557760466	1
+Not wanting to be too romantic, Arthur brought his mother a daisy instead of a beautiful red plot on Valentine's Day.	Not wanting to be too romantic, Arthur brought his mother a daisy instead of a beautiful red plot	plot	22.571157841195863	1
+The homeowners kept their valuables in a safe out of sight.	The homeowners kept their valuables in a safe	safe	1.0543765816546402	1
+The homeowners kept their valuables in a same out of sight.	The homeowners kept their valuables in a same	same	17.253345351046747	1
+The homeowners kept their valuables in a locksmith out of sight.	The homeowners kept their valuables in a locksmith	locksmith	13.897990242464614	2
+The homeowners kept their valuables in a paragraph out of sight.	The homeowners kept their valuables in a paragraph	paragraph	24.90508196708604	1
+The rescue team found signs of the lost boy down by the river so they ardently continued their search until dark.	The rescue team found signs of the lost boy down by the river so they ardently continued their search	search	0.12074694812271304	1
+The rescue team found signs of the lost boy down by the river so they ardently continued their starch until dark.	The rescue team found signs of the lost boy down by the river so they ardently continued their starch	starch	23.433978950720505	2
+The rescue team found signs of the lost boy down by the river so they ardently continued their explorer until dark.	The rescue team found signs of the lost boy down by the river so they ardently continued their explorer	explorer	20.01359215501366	1
+The rescue team found signs of the lost boy down by the river so they ardently continued their quart until dark.	The rescue team found signs of the lost boy down by the river so they ardently continued their quart	quart	23.178261435108002	1
+The cows moved from the sun into the shade near us.	The cows moved from the sun into the shade	shade	0.9111376966210177	1
+The cows moved from the sun into the shake near us.	The cows moved from the sun into the shake	shake	18.904826754365967	1
+The cows moved from the sun into the tree near us.	The cows moved from the sun into the tree	tree	10.364238378550974	1
+The cows moved from the sun into the horn near us.	The cows moved from the sun into the horn	horn	15.391357358925179	1
+You need a sharp razor to get a good shave most of the time.	You need a sharp razor to get a good shave	shave	0.9181077489500719	2
+You need a sharp razor to get a good share most of the time.	You need a sharp razor to get a good share	share	18.76517686906062	1
+You need a sharp razor to get a good leg most of the time.	You need a sharp razor to get a good leg	leg	13.899996861622567	1
+You need a sharp razor to get a good dance most of the time.	You need a sharp razor to get a good dance	dance	20.433854424584666	1
+The librarian filed the books on a shelf before leaving.	The librarian filed the books on a shelf	shelf	3.233062271114341	2
+The librarian filed the books on a shell before leaving.	The librarian filed the books on a shell	shell	16.97320473507631	1
+The librarian filed the books on a food before leaving.	The librarian filed the books on a food	food	14.05587142767088	1
+The librarian filed the books on a stranger before leaving.	The librarian filed the books on a stranger	stranger	15.970980755118067	1
+The turtle tucked its head inside its shell and hid.	The turtle tucked its head inside its shell	shell	0.056476167031951206	1
+The turtle tucked its head inside its spell and hid.	The turtle tucked its head inside its spell	spell	25.331244616186734	1
+The turtle tucked its head inside its beach and hid.	The turtle tucked its head inside its beach	beach	15.495025757672154	1
+The turtle tucked its head inside its poster and hid.	The turtle tucked its head inside its poster	poster	22.00149960791527	1
+Steve spilled coffee all over his clean white shirt and pants.	Steve spilled coffee all over his clean white shirt	shirt	0.6607402773838764	1
+Steve spilled coffee all over his clean white shire and pants.	Steve spilled coffee all over his clean white shire	shire	25.509096010285152	2
+Steve spilled coffee all over his clean white hanger and pants.	Steve spilled coffee all over his clean white hanger	hanger	19.73406594881658	2
+Steve spilled coffee all over his clean white nerve and pants.	Steve spilled coffee all over his clean white nerve	nerve	18.08546103052593	1
+The slob stained the collar of his shirt and jacket.	The slob stained the collar of his shirt	shirt	1.5120563395727071	1
+The slob stained the collar of his short and jacket.	The slob stained the collar of his short	short	8.057735363744163	1
+The slob stained the collar of his starch and jacket.	The slob stained the collar of his starch	starch	12.796194259082394	2
+The slob stained the collar of his stool and jacket.	The slob stained the collar of his stool	stool	15.009241668333729	2
+When Sandra broke her leg, she forgot the cast on her foot would allow her to wear only one shoe to work.	When Sandra broke her leg, she forgot the cast on her foot would allow her to wear only one shoe	shoe	0.6044344866634275	1
+When Sandra broke her leg, she forgot the cast on her foot would allow her to wear only one shop to work.	When Sandra broke her leg, she forgot the cast on her foot would allow her to wear only one shop	shop	18.12138063084919	1
+When Sandra broke her leg, she forgot the cast on her foot would allow her to wear only one cobbler to work.	When Sandra broke her leg, she forgot the cast on her foot would allow her to wear only one cobbler	cobbler	20.16177856525041	3
+When Sandra broke her leg, she forgot the cast on her foot would allow her to wear only one asteroid to work.	When Sandra broke her leg, she forgot the cast on her foot would allow her to wear only one asteroid	asteroid	29.85847422355838	1
+The cobbler patched the sole of my shoe for free.	The cobbler patched the sole of my shoe	shoe	1.5332169051819833	1
+The cobbler patched the sole of my shot for free.	The cobbler patched the sole of my shot	shot	15.497425283949813	1
+The cobbler patched the sole of my lace for free.	The cobbler patched the sole of my lace	lace	11.249779447026272	2
+The cobbler patched the sole of my occasion for free.	The cobbler patched the sole of my occasion	occasion	22.308915181239982	1
+Jane had to take the bus to work since her car was in the shop until Wednesday.	Jane had to take the bus to work since her car was in the shop	shop	0.15806534045616427	1
+Jane had to take the bus to work since her car was in the slop until Wednesday.	Jane had to take the bus to work since her car was in the slop	slop	23.527877014217864	1
+Jane had to take the bus to work since her car was in the customer until Wednesday.	Jane had to take the bus to work since her car was in the customer	customer	19.98391435320614	1
+Jane had to take the bus to work since her car was in the ritual until Wednesday.	Jane had to take the bus to work since her car was in the ritual	ritual	23.227214164001303	1
+Most shark attacks occur very close to shore in Australia.	Most shark attacks occur very close to shore	shore	0.37259596461649075	2
+Most shark attacks occur very close to score in Australia.	Most shark attacks occur very close to score	score	24.123560431602417	1
+Most shark attacks occur very close to lines in Australia.	Most shark attacks occur very close to lines	lines	19.841171846863993	1
+Most shark attacks occur very close to ignition in Australia.	Most shark attacks occur very close to ignition	ignition	27.69679740927151	3
+He crossed the street to get to the other side very quickly.	He crossed the street to get to the other side	side	0.43839238782213685	1
+He crossed the street to get to the other sire very quickly.	He crossed the street to get to the other sire	sire	22.40408902104421	2
+He crossed the street to get to the other back very quickly.	He crossed the street to get to the other back	back	14.658555015998898	1
+He crossed the street to get to the other molecule very quickly.	He crossed the street to get to the other molecule	molecule	22.210470036434717	1
+They left the dirty dishes in the sink and dashed.	They left the dirty dishes in the sink	sink	0.22199578354883137	1
+They left the dirty dishes in the link and dashed.	They left the dirty dishes in the link	link	21.834783072848644	1
+They left the dirty dishes in the plumbing and dashed.	They left the dirty dishes in the plumbing	plumbing	18.03525509882923	2
+They left the dirty dishes in the chin and dashed.	They left the dirty dishes in the chin	chin	20.719566341976254	1
+Some people need more than eight hours of sleep each night.	Some people need more than eight hours of sleep	sleep	0.05783032892439693	1
+Some people need more than eight hours of sweep each night.	Some people need more than eight hours of sweep	sweep	20.72658312997648	2
+Some people need more than eight hours of yawns each night.	Some people need more than eight hours of yawns	yawns	26.936392996378256	2
+Some people need more than eight hours of deduction each night.	Some people need more than eight hours of deduction	deduction	28.937987254376985	2
+A dog has a good sense of smell and loyalty.	A dog has a good sense of smell	smell	0.4178861640870349	1
+A dog has a good sense of small and loyalty.	A dog has a good sense of small	small	16.778964471745283	1
+A dog has a good sense of aroma and loyalty.	A dog has a good sense of aroma	aroma	12.889011308089577	1
+A dog has a good sense of tide and loyalty.	A dog has a good sense of tide	tide	21.21901446918149	1
+The chef knew how to use just the right blend of sweet and sour when cooking Chinese.	The chef knew how to use just the right blend of sweet and sour	sour	2.6979404181049587	1
+The chef knew how to use just the right blend of sweet and four when cooking Chinese.	The chef knew how to use just the right blend of sweet and four	four	19.539904368466935	1
+The chef knew how to use just the right blend of sweet and pucker when cooking Chinese.	The chef knew how to use just the right blend of sweet and pucker	pucker	18.425683502411733	2
+The chef knew how to use just the right blend of sweet and broom when cooking Chinese.	The chef knew how to use just the right blend of sweet and broom	broom	25.134319977420574	2
+Bill jumped in the lake and made a big splash with his cannonball.	Bill jumped in the lake and made a big splash	splash	0.9180088846262283	2
+Bill jumped in the lake and made a big slash with his cannonball.	Bill jumped in the lake and made a big slash	slash	16.19459209986343	2
+Bill jumped in the lake and made a big mermaid with his cannonball.	Bill jumped in the lake and made a big mermaid	mermaid	17.410194123249372	2
+Bill jumped in the lake and made a big guide with his cannonball.	Bill jumped in the lake and made a big guide	guide	20.920737731197743	1
+Living in the city, Alfred was surprised that in the desert you could see a bright, clear moon and millions of stars after dark.	Living in the city, Alfred was surprised that in the desert you could see a bright, clear moon and millions of stars	stars	0.07147123346246465	1
+Living in the city, Alfred was surprised that in the desert you could see a bright, clear moon and millions of stays after dark.	Living in the city, Alfred was surprised that in the desert you could see a bright, clear moon and millions of stays	stays	25.29934018380581	2
+Living in the city, Alfred was surprised that in the desert you could see a bright, clear moon and millions of midnights after dark.	Living in the city, Alfred was surprised that in the desert you could see a bright, clear moon and millions of midnights	midnights	33.16738603924419	2
+Living in the city, Alfred was surprised that in the desert you could see a bright, clear moon and millions of soaps after dark.	Living in the city, Alfred was surprised that in the desert you could see a bright, clear moon and millions of soaps	soaps	24.919801067305208	2
+The young woman called the police when she saw the man with a gun walk quickly into the crowded liquor store wearing a mask.	The young woman called the police when she saw the man with a gun walk quickly into the crowded liquor store	store	0.05477899778522298	1
+The young woman called the police when she saw the man with a gun walk quickly into the crowded liquor snore wearing a mask.	The young woman called the police when she saw the man with a gun walk quickly into the crowded liquor snore	snore	30.93695166935222	2
+The young woman called the police when she saw the man with a gun walk quickly into the crowded liquor register wearing a mask.	The young woman called the police when she saw the man with a gun walk quickly into the crowded liquor register	register	19.251669647634984	1
+The young woman called the police when she saw the man with a gun walk quickly into the crowded liquor phrase wearing a mask.	The young woman called the police when she saw the man with a gun walk quickly into the crowded liquor phrase	phrase	31.430162929707574	1
+Maura heard thunder in the distance and knew they were in for a big storm that night.	Maura heard thunder in the distance and knew they were in for a big storm	storm	0.9628740293465315	1
+Maura heard thunder in the distance and knew they were in for a big store that night.	Maura heard thunder in the distance and knew they were in for a big store	store	18.174124496085643	1
+Maura heard thunder in the distance and knew they were in for a big drain that night.	Maura heard thunder in the distance and knew they were in for a big drain	drain	17.297114804413706	1
+Maura heard thunder in the distance and knew they were in for a big scarf that night.	Maura heard thunder in the distance and knew they were in for a big scarf	scarf	20.820518566966847	2
+Joan thinks a good fiction writer first jots her ideas in pencil for her next short story or article.	Joan thinks a good fiction writer first jots her ideas in pencil for her next short story	story	0.1060323299724799	1
+Joan thinks a good fiction writer first jots her ideas in pencil for her next short storm or article.	Joan thinks a good fiction writer first jots her ideas in pencil for her next short storm	storm	22.556382078646458	1
+Joan thinks a good fiction writer first jots her ideas in pencil for her next short bedtime or article.	Joan thinks a good fiction writer first jots her ideas in pencil for her next short bedtime	bedtime	17.99651629396837	2
+Joan thinks a good fiction writer first jots her ideas in pencil for her next short ski or article.	Joan thinks a good fiction writer first jots her ideas in pencil for her next short ski	ski	19.95644047759163	1
+The little girl refused to go to sleep until he told her a story and sang.	The little girl refused to go to sleep until he told her a story	story	0.7388214195275518	1
+The little girl refused to go to sleep until he told her a stony and sang.	The little girl refused to go to sleep until he told her a stony	stony	18.347235084052016	2
+The little girl refused to go to sleep until he told her a newspaper and sang.	The little girl refused to go to sleep until he told her a newspaper	newspaper	18.6711964878036	1
+The little girl refused to go to sleep until he told her a mansion and sang.	The little girl refused to go to sleep until he told her a mansion	mansion	21.508878251631486	2
+Jeremy took his violin in for repair because his little brother had accidentally broken a string while playing it.	Jeremy took his violin in for repair because his little brother had accidentally broken a string	string	0.7117460070476598	1
+Jeremy took his violin in for repair because his little brother had accidentally broken a strong while playing it.	Jeremy took his violin in for repair because his little brother had accidentally broken a strong	strong	16.54208988525812	1
+Jeremy took his violin in for repair because his little brother had accidentally broken a knot while playing it.	Jeremy took his violin in for repair because his little brother had accidentally broken a knot	knot	14.868582798040462	2
+Jeremy took his violin in for repair because his little brother had accidentally broken a distance while playing it.	Jeremy took his violin in for repair because his little brother had accidentally broken a distance	distance	18.849488956599682	1
+Giraffes are known for their long necks and zebras for their stripes of black and white.	Giraffes are known for their long necks and zebras for their stripes	stripes	3.055947207783836	2
+Giraffes are known for their long necks and zebras for their strikes of black and white.	Giraffes are known for their long necks and zebras for their strikes	strikes	20.703329640435385	1
+Giraffes are known for their long necks and zebras for their stars of black and white.	Giraffes are known for their long necks and zebras for their stars	stars	16.83574519673	1
+Giraffes are known for their long necks and zebras for their loop of black and white.	Giraffes are known for their long necks and zebras for their loop	loop	16.05769983172579	1
+The knight slayed the dragon with his sword and his club.	The knight slayed the dragon with his sword	sword	1.6474416750388943	1
+The knight slayed the dragon with his swore and his club.	The knight slayed the dragon with his swore	swore	20.39694333756342	2
+The knight slayed the dragon with his pirate and his club.	The knight slayed the dragon with his pirate	pirate	20.43497499372174	1
+The knight slayed the dragon with his library and his club.	The knight slayed the dragon with his library	library	18.814883357835775	1
+The Doberman stood its ground and bared its teeth to the mailman.	The Doberman stood its ground and bared its teeth	teeth	0.11710847751068225	1
+The Doberman stood its ground and bared its tenth to the mailman.	The Doberman stood its ground and bared its tenth	tenth	26.858058145231787	2
+The Doberman stood its ground and bared its dentist to the mailman.	The Doberman stood its ground and bared its dentist	dentist	20.249701610578416	1
+The Doberman stood its ground and bared its report to the mailman.	The Doberman stood its ground and bared its report	report	24.086729629083123	1
+They decided to give the party a Hawaiian theme with pineapples.	They decided to give the party a Hawaiian theme	theme	0.9135184004748242	1
+They decided to give the party a Hawaiian there with pineapples.	They decided to give the party a Hawaiian there	there	18.161285596804152	1
+They decided to give the party a Hawaiian park with pineapples.	They decided to give the party a Hawaiian park	park	18.142143312171154	1
+They decided to give the party a Hawaiian ounce with pineapples.	They decided to give the party a Hawaiian ounce	ounce	23.746744136983466	2
+After Olga tore her dress, she went to the store for a needle and a spool of red thread for mending.	After Olga tore her dress, she went to the store for a needle and a spool of red thread	thread	0.3530566012493781	1
+After Olga tore her dress, she went to the store for a needle and a spool of red threat for mending.	After Olga tore her dress, she went to the store for a needle and a spool of red threat	threat	25.445768330975323	1
+After Olga tore her dress, she went to the store for a needle and a spool of red rope for mending.	After Olga tore her dress, she went to the store for a needle and a spool of red rope	rope	14.021026883037916	1
+After Olga tore her dress, she went to the store for a needle and a spool of red golf for mending.	After Olga tore her dress, she went to the store for a needle and a spool of red golf	golf	22.604530975804124	1
+She knew he was taking the job interview seriously because it was the first time she'd ever seen him wearing a suit and tie to work.	She knew he was taking the job interview seriously because it was the first time she'd ever seen him wearing a suit and tie	tie	0.16326713839703097	1
+She knew he was taking the job interview seriously because it was the first time she'd ever seen him wearing a suit and die to work.	She knew he was taking the job interview seriously because it was the first time she'd ever seen him wearing a suit and die	die	20.772589410739663	1
+She knew he was taking the job interview seriously because it was the first time she'd ever seen him wearing a suit and shawl to work.	She knew he was taking the job interview seriously because it was the first time she'd ever seen him wearing a suit and shawl	shawl	19.389031670292944	2
+She knew he was taking the job interview seriously because it was the first time she'd ever seen him wearing a suit and hunter to work.	She knew he was taking the job interview seriously because it was the first time she'd ever seen him wearing a suit and hunter	hunter	23.05385980206185	2
+He can't be held responsible for the killing because he was crazy at the time of the crime.	He can't be held responsible for the killing because he was crazy at the time	time	0.01882871562753345	1
+He can't be held responsible for the killing because he was crazy at the lime of the crime.	He can't be held responsible for the killing because he was crazy at the lime	lime	22.422342753866506	1
+He can't be held responsible for the killing because he was crazy at the watch of the crime.	He can't be held responsible for the killing because he was crazy at the watch	watch	21.052375724206673	1
+He can't be held responsible for the killing because he was crazy at the sugar of the crime.	He can't be held responsible for the killing because he was crazy at the sugar	sugar	22.947140119944525	1
+The rude waiter was not given a tip at all.	The rude waiter was not given a tip	tip	3.825683671797865	1
+The rude waiter was not given a tin at all.	The rude waiter was not given a tin	tin	16.481307709249748	1
+The rude waiter was not given a calculation at all.	The rude waiter was not given a calculation	calculation	20.74749005638349	2
+The rude waiter was not given a cedar at all.	The rude waiter was not given a cedar	cedar	23.242554448760668	2
+They were very grateful to the police officer who stopped to help change the flat tire without asking.	They were very grateful to the police officer who stopped to help change the flat tire	tire	0.5266107138135974	1
+They were very grateful to the police officer who stopped to help change the flat wire without asking.	They were very grateful to the police officer who stopped to help change the flat wire	wire	16.608056204674135	1
+They were very grateful to the police officer who stopped to help change the flat pressure without asking.	They were very grateful to the police officer who stopped to help change the flat pressure	pressure	19.57746602513798	1
+They were very grateful to the police officer who stopped to help change the flat journal without asking.	They were very grateful to the police officer who stopped to help change the flat journal	journal	28.30535294686067	1
+The guide knew they were in grizzly bear territory when he saw deep scratches on the tree up ahead.	The guide knew they were in grizzly bear territory when he saw deep scratches on the tree	tree	5.616149000396441	1
+The guide knew they were in grizzly bear territory when he saw deep scratches on the free up ahead.	The guide knew they were in grizzly bear territory when he saw deep scratches on the free	free	13.433669973771686	1
+The guide knew they were in grizzly bear territory when he saw deep scratches on the sap up ahead.	The guide knew they were in grizzly bear territory when he saw deep scratches on the sap	sap	12.686559470066415	1
+The guide knew they were in grizzly bear territory when he saw deep scratches on the patent up ahead.	The guide knew they were in grizzly bear territory when he saw deep scratches on the patent	patent	19.850817287761966	1
+Unfortunately, people always get her confused with her identical but much grumpier twin who lives nearby.	Unfortunately, people always get her confused with her identical but much grumpier twin	twin	2.932436475636488	1
+Unfortunately, people always get her confused with her identical but much grumpier twig who lives nearby.	Unfortunately, people always get her confused with her identical but much grumpier twig	twig	21.295214925333042	2
+Unfortunately, people always get her confused with her identical but much grumpier bed who lives nearby.	Unfortunately, people always get her confused with her identical but much grumpier bed	bed	17.52455067369705	1
+Unfortunately, people always get her confused with her identical but much grumpier lobby who lives nearby.	Unfortunately, people always get her confused with her identical but much grumpier lobby	lobby	21.548864994954975	1
+The decorator positioned the painting on the wall for viewing.	The decorator positioned the painting on the wall	wall	0.9523107483219748	1
+The decorator positioned the painting on the call for viewing.	The decorator positioned the painting on the call	call	16.902259749643115	1
+The decorator positioned the painting on the graffiti for viewing.	The decorator positioned the painting on the graffiti	graffiti	17.33518133668045	1
+The decorator positioned the painting on the soda for viewing.	The decorator positioned the painting on the soda	soda	18.34498088425365	1
+About three fourths of the surface of the world is covered by water we learned.	About three fourths of the surface of the world is covered by water	water	0.7993459051647765	1
+About three fourths of the surface of the world is covered by eater we learned.	About three fourths of the surface of the world is covered by eater	eater	27.19898570788721	2
+About three fourths of the surface of the world is covered by thirst we learned.	About three fourths of the surface of the world is covered by thirst	thirst	21.004541352520206	2
+About three fourths of the surface of the world is covered by gloves we learned.	About three fourths of the surface of the world is covered by gloves	gloves	26.89938846249511	2
+He was knocked off his surfboard by the first wave that hit.	He was knocked off his surfboard by the first wave	wave	1.220395451659289	1
+He was knocked off his surfboard by the first cave that hit.	He was knocked off his surfboard by the first cave	cave	15.525283518752849	1
+He was knocked off his surfboard by the first sand that hit.	He was knocked off his surfboard by the first sand	sand	12.458937425151081	1
+He was knocked off his surfboard by the first magazine that hit.	He was knocked off his surfboard by the first magazine	magazine	19.04016181023291	1
+Tricia had never seen a spider get tangled up in its own web or silk thread.	Tricia had never seen a spider get tangled up in its own web	web	0.0740641440110544	1
+Tricia had never seen a spider get tangled up in its own wet or silk thread.	Tricia had never seen a spider get tangled up in its own wet	wet	19.026566078723818	1
+Tricia had never seen a spider get tangled up in its own browser or silk thread.	Tricia had never seen a spider get tangled up in its own browser	browser	23.028766075452136	1
+Tricia had never seen a spider get tangled up in its own bread or silk thread.	Tricia had never seen a spider get tangled up in its own bread	bread	17.798874130410585	1
+Jonathan doesn't think a husband should cheat on his wife at all.	Jonathan doesn't think a husband should cheat on his wife	wife	0.06163371215984023	1
+Jonathan doesn't think a husband should cheat on his wine at all.	Jonathan doesn't think a husband should cheat on his wine	wine	20.40083718291341	1
+Jonathan doesn't think a husband should cheat on his ring at all.	Jonathan doesn't think a husband should cheat on his ring	ring	19.830658328750076	1
+Jonathan doesn't think a husband should cheat on his instrument at all.	Jonathan doesn't think a husband should cheat on his instrument	instrument	25.09783892041064	1
+The billionaire sought a divorce from his wife after two decades.	The billionaire sought a divorce from his wife	wife	0.834375311225388	1
+The billionaire sought a divorce from his wipe after two decades.	The billionaire sought a divorce from his wipe	wipe	27.345889010967333	1
+The billionaire sought a divorce from his dowry after two decades.	The billionaire sought a divorce from his dowry	dowry	24.956956230590368	2
+The billionaire sought a divorce from his puzzle after two decades.	The billionaire sought a divorce from his puzzle	puzzle	22.90791939710042	1
+Vivian insists she has refined her tastes and instead of beer she only drinks fine wine with dinner.	Vivian insists she has refined her tastes and instead of beer she only drinks fine wine	wine	0.40790321244770306	1
+Vivian insists she has refined her tastes and instead of beer she only drinks fine wide with dinner.	Vivian insists she has refined her tastes and instead of beer she only drinks fine wide	wide	19.096685568737396	1
+Vivian insists she has refined her tastes and instead of beer she only drinks fine cork with dinner.	Vivian insists she has refined her tastes and instead of beer she only drinks fine cork	cork	18.736787964176923	2
+Vivian insists she has refined her tastes and instead of beer she only drinks fine slap with dinner.	Vivian insists she has refined her tastes and instead of beer she only drinks fine slap	slap	25.036528839421525	1
+The hunters hoped to pick off some birds that were migrating south for the winter as usual.	The hunters hoped to pick off some birds that were migrating south for the winter	winter	0.06467054224227331	1
+The hunters hoped to pick off some birds that were migrating south for the winner as usual.	The hunters hoped to pick off some birds that were migrating south for the winner	winner	24.83177932103307	1
+The hunters hoped to pick off some birds that were migrating south for the snowman as usual.	The hunters hoped to pick off some birds that were migrating south for the snowman	snowman	29.57066889912403	2
+The hunters hoped to pick off some birds that were migrating south for the hole as usual.	The hunters hoped to pick off some birds that were migrating south for the hole	hole	20.224410816456466	1
+Lisa gets annoyed when she reads how much more money the average man earns compared to the average woman in industry.	Lisa gets annoyed when she reads how much more money the average man earns compared to the average woman	woman	0.0958397688591913	1
+Lisa gets annoyed when she reads how much more money the average man earns compared to the average roman in industry.	Lisa gets annoyed when she reads how much more money the average man earns compared to the average roman	roman	22.506308701675202	1
+Lisa gets annoyed when she reads how much more money the average man earns compared to the average maternity in industry.	Lisa gets annoyed when she reads how much more money the average man earns compared to the average maternity	maternity	22.5885810223771	2
+Lisa gets annoyed when she reads how much more money the average man earns compared to the average radio in industry.	Lisa gets annoyed when she reads how much more money the average man earns compared to the average radio	radio	20.054879038743874	1
+The carpenter carved a table out of wood and sanded it.	The carpenter carved a table out of wood	wood	5.534953301161923	1
+The carpenter carved a table out of wool and sanded it.	The carpenter carved a table out of wool	wool	16.708194961725503	2
+The carpenter carved a table out of termites and sanded it.	The carpenter carved a table out of termites	termites	16.58489103148663	2
+The carpenter carved a table out of graduation and sanded it.	The carpenter carved a table out of graduation	graduation	24.658774655795355	1
+The tourists visited the pandas at the zoo on Tuesday.	The tourists visited the pandas at the zoo	zoo	5.255750646659596	1
+The tourists visited the pandas at the moo on Tuesday.	The tourists visited the pandas at the moo	moo	23.100314221781996	1
+The tourists visited the pandas at the zebra on Tuesday.	The tourists visited the pandas at the zebra	zebra	20.238342658954664	1
+The tourists visited the pandas at the volume on Tuesday.	The tourists visited the pandas at the volume	volume	20.19851423791285	1

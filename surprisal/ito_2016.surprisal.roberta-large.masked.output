@@ -1,0 +1,641 @@
+FullSentence	Sentence	TargetWords	Surprisal	NumTokens
+The student is going to the library to borrow a book tomorrow.	The student is going to the library to borrow a book	 book	0.6860989552169915	1
+The student is going to the library to borrow a hook tomorrow.	The student is going to the library to borrow a hook	 hook	17.655007947293587	1
+The student is going to the library to borrow a page tomorrow.	The student is going to the library to borrow a page	 page	11.723582344181516	1
+The student is going to the library to borrow a sofa tomorrow.	The student is going to the library to borrow a sofa	 sofa	18.077457969613626	1
+Living alone is too expensive, so the students will share a flat together.	Living alone is too expensive, so the students will share a flat	 flat	4.099081888851633	1
+Living alone is too expensive, so the students will share a flag together.	Living alone is too expensive, so the students will share a flag	 flag	20.955203518198843	1
+Living alone is too expensive, so the students will share a wall together.	Living alone is too expensive, so the students will share a wall	 wall	12.817688702694028	1
+Living alone is too expensive, so the students will share a bell together.	Living alone is too expensive, so the students will share a bell	 bell	17.802857713132585	1
+The family enjoyed the sunny day, but there will be rain tomorrow.	The family enjoyed the sunny day, but there will be rain	 rain	5.606612685046891	1
+The family enjoyed the sunny day, but there will be pain tomorrow.	The family enjoyed the sunny day, but there will be pain	 pain	9.493569044093386	1
+The family enjoyed the sunny day, but there will be sky tomorrow.	The family enjoyed the sunny day, but there will be sky	 sky	16.62827891452659	1
+The family enjoyed the sunny day, but there will be loss tomorrow.	The family enjoyed the sunny day, but there will be loss	 loss	12.96073937721717	1
+Jack studied medicine in a university and works as a doctor now.	Jack studied medicine in a university and works as a doctor	 doctor	2.3940436614625384	1
+Jack studied medicine in a university and works as a factor now.	Jack studied medicine in a university and works as a factor	 factor	20.133803782634956	1
+Jack studied medicine in a university and works as a patient now.	Jack studied medicine in a university and works as a patient	 patient	10.797253645708038	1
+Jack studied medicine in a university and works as a tenant now.	Jack studied medicine in a university and works as a tenant	 tenant	18.410757816323667	1
+Amelia got a driving licence, and will buy her own car soon.	Amelia got a driving licence, and will buy her own car	 car	0.6791071992930001	1
+Amelia got a driving licence, and will buy her own jar soon.	Amelia got a driving licence, and will buy her own jar	 jar	18.462229079419412	1
+Amelia got a driving licence, and will buy her own tyre soon.	Amelia got a driving licence, and will buy her own tyre	 tyre	12.752305822520022	1
+Amelia got a driving licence, and will buy her own rat soon.	Amelia got a driving licence, and will buy her own rat	 rat	19.767464305631805	1
+Oliver doesn't have a watch, so he doesn't know the time now.	Oliver doesn't have a watch, so he doesn't know the time	 time	0.06912454160590296	1
+Oliver doesn't have a watch, so he doesn't know the lime now.	Oliver doesn't have a watch, so he doesn't know the lime	 lime	21.95032590991453	1
+Oliver doesn't have a watch, so he doesn't know the rest now.	Oliver doesn't have a watch, so he doesn't know the rest	 rest	16.453952907395184	1
+Oliver doesn't have a watch, so he doesn't know the bean now.	Oliver doesn't have a watch, so he doesn't know the bean	 bean	23.584045393825438	1
+Rachel will go to the cinema to watch a new film tomorrow.	Rachel will go to the cinema to watch a new film	 film	1.080488320678109	1
+Rachel will go to the cinema to watch a new firm tomorrow.	Rachel will go to the cinema to watch a new firm	 firm	19.767815076912658	1
+Rachel will go to the cinema to watch a new camera tomorrow.	Rachel will go to the cinema to watch a new camera	 camera	16.046952413952763	1
+Rachel will go to the cinema to watch a new bird tomorrow.	Rachel will go to the cinema to watch a new bird	 bird	16.578750423188932	1
+Paul is trying to stand on one leg now.	Paul is trying to stand on one leg	 leg	1.05305964585009	1
+Paul is trying to stand on one lag now.	Paul is trying to stand on one lag	 lag	25.045773154693997	1
+Paul is trying to stand on one hip now.	Paul is trying to stand on one hip	 hip	13.599185824977498	1
+Paul is trying to stand on one kid now.	Paul is trying to stand on one kid	 kid	18.165421513270793	1
+The gambler kept losing, so he doesn't have any money left.	The gambler kept losing, so he doesn't have any money	 money	0.8628753255942371	1
+The gambler kept losing, so he doesn't have any honey left.	The gambler kept losing, so he doesn't have any honey	 honey	15.703772859451554	1
+The gambler kept losing, so he doesn't have any wallet left.	The gambler kept losing, so he doesn't have any wallet	 wallet	13.685461561852257	1
+The gambler kept losing, so he doesn't have any candle left.	The gambler kept losing, so he doesn't have any candle	 candle	19.254122091751608	1
+Harry intends to propose to Emily and give her the ring tomorrow.	Harry intends to propose to Emily and give her the ring	 ring	1.0130193536979233	1
+Harry intends to propose to Emily and give her the wing tomorrow.	Harry intends to propose to Emily and give her the wing	 wing	19.180903333034564	1
+Harry intends to propose to Emily and give her the finger tomorrow.	Harry intends to propose to Emily and give her the finger	 finger	9.507377360463353	1
+Harry intends to propose to Emily and give her the memo tomorrow.	Harry intends to propose to Emily and give her the memo	 memo	17.369802209627498	1
+John nervously asked the attractive girl out on a date yesterday.	John nervously asked the attractive girl out on a date	 date	0.02447385818525439	1
+John nervously asked the attractive girl out on a gate yesterday.	John nervously asked the attractive girl out on a gate	 gate	28.221307418262782	1
+John nervously asked the attractive girl out on a cancel yesterday.	John nervously asked the attractive girl out on a cancel	 cancel	28.85111058761245	1
+John nervously asked the attractive girl out on a pin yesterday.	John nervously asked the attractive girl out on a pin	 pin	24.344207482655484	1
+As a lifetime vegetarian, Olivia doesn't miss eating meat now.	As a lifetime vegetarian, Olivia doesn't miss eating meat	 meat	0.8285476841111327	1
+As a lifetime vegetarian, Olivia doesn't miss eating mean now.	As a lifetime vegetarian, Olivia doesn't miss eating mean	 mean	20.96824445521582	1
+As a lifetime vegetarian, Olivia doesn't miss eating flour now.	As a lifetime vegetarian, Olivia doesn't miss eating flour	 flour	12.666732707991866	1
+As a lifetime vegetarian, Olivia doesn't miss eating soil now.	As a lifetime vegetarian, Olivia doesn't miss eating soil	 soil	20.659165420364413	1
+Dylan got lost today, so he will use a map tomorrow.	Dylan got lost today, so he will use a map	 map	3.0578356099237367	1
+Dylan got lost today, so he will use a cap tomorrow.	Dylan got lost today, so he will use a cap	 cap	13.090786253871864	1
+Dylan got lost today, so he will use a globe tomorrow.	Dylan got lost today, so he will use a globe	 globe	12.867054454818382	1
+Dylan got lost today, so he will use a job tomorrow.	Dylan got lost today, so he will use a job	 job	13.129767086885339	1
+The comedian was funny, despite a bad joke yesterday.	The comedian was funny, despite a bad joke	 joke	4.351991937644625	1
+The comedian was funny, despite a bad coke yesterday.	The comedian was funny, despite a bad coke	 coke	24.222650263408458	2
+The comedian was funny, despite a bad laugh yesterday.	The comedian was funny, despite a bad laugh	 laugh	9.933370915855054	1
+The comedian was funny, despite a bad beef yesterday.	The comedian was funny, despite a bad beef	 beef	15.086774741552672	1
+Jacob found he misspelled the word earlier.	Jacob found he misspelled the word	 word	1.3078722624454329	1
+Jacob found he misspelled the lord earlier.	Jacob found he misspelled the lord	 lord	17.40069890744636	1
+Jacob found he misspelled the usage earlier.	Jacob found he misspelled the usage	 usage	14.956333018885038	1
+Jacob found he misspelled the oven earlier.	Jacob found he misspelled the oven	 oven	18.481949850763634	1
+Oscar opened the postbox, and found a letter there.	Oscar opened the postbox, and found a letter	 letter	1.9484649351466314	1
+Oscar opened the postbox, and found a litter there.	Oscar opened the postbox, and found a litter	 litter	15.78382802011294	1
+Oscar opened the postbox, and found a heading there.	Oscar opened the postbox, and found a heading	 heading	17.627168542005215	1
+Oscar opened the postbox, and found a birth there.	Oscar opened the postbox, and found a birth	 birth	17.280605538527627	1
+After struggling with the question, Jessica got the answer finally.	After struggling with the question, Jessica got the answer	 answer	0.6194949410521182	1
+After struggling with the question, Jessica got the dancer finally.	After struggling with the question, Jessica got the dancer	 dancer	18.736785826169026	1
+After struggling with the question, Jessica got the inquiry finally.	After struggling with the question, Jessica got the inquiry	 inquiry	18.263973771256772	1
+After struggling with the question, Jessica got the pension finally.	After struggling with the question, Jessica got the pension	 pension	20.321557713303143	1
+At the airport, James checked in for his flight earlier.	At the airport, James checked in for his flight	 flight	0.6012714405761325	1
+At the airport, James checked in for his sight earlier.	At the airport, James checked in for his sight	 sight	18.54452690658416	1
+At the airport, James checked in for his rocket earlier.	At the airport, James checked in for his rocket	 rocket	19.040943024852826	1
+At the airport, James checked in for his machine earlier.	At the airport, James checked in for his machine	 machine	16.95033837210506	1
+The lottery gave Emily a car as a prize yesterday.	The lottery gave Emily a car as a prize	 prize	4.257440350757654	1
+The lottery gave Emily a car as a price yesterday.	The lottery gave Emily a car as a price	 price	13.98634201485097	1
+The lottery gave Emily a car as a medal yesterday.	The lottery gave Emily a car as a medal	 medal	12.61411851429494	1
+The lottery gave Emily a car as a child yesterday.	The lottery gave Emily a car as a child	 child	2.776666992830524	1
+Sophie couldn't recall the recent event, and blamed her bad memory yesterday.	Sophie couldn't recall the recent event, and blamed her bad memory	 memory	1.9623615587502587	1
+Sophie couldn't recall the recent event, and blamed her bad melody yesterday.	Sophie couldn't recall the recent event, and blamed her bad melody	 melody	22.283429814261673	1
+Sophie couldn't recall the recent event, and blamed her bad storage yesterday.	Sophie couldn't recall the recent event, and blamed her bad storage	 storage	17.798518568376327	1
+Sophie couldn't recall the recent event, and blamed her bad eraser yesterday.	Sophie couldn't recall the recent event, and blamed her bad eraser	 eraser	25.561858051077053	2
+The shoes were small, so Lily asked for the largest size available.	The shoes were small, so Lily asked for the largest size	 size	4.837045566483491	1
+The shoes were small, so Lily asked for the largest sign available.	The shoes were small, so Lily asked for the largest sign	 sign	18.14035204495599	1
+The shoes were small, so Lily asked for the largest height available.	The shoes were small, so Lily asked for the largest height	 height	14.931067756757345	1
+The shoes were small, so Lily asked for the largest flip available.	The shoes were small, so Lily asked for the largest flip	 flip	23.31899466888828	1
+To view the 3D image, people wore special glasses yesterday.	To view the 3D image, people wore special glasses	 glasses	0.5055005853638905	1
+To view the 3D image, people wore special classes yesterday.	To view the 3D image, people wore special classes	 classes	22.145579664337717	1
+To view the 3D image, people wore special eyes yesterday.	To view the 3D image, people wore special eyes	 eyes	13.95266720098228	1
+To view the 3D image, people wore special markets yesterday.	To view the 3D image, people wore special markets	 markets	27.655815587717793	1
+At the football match, Bob scored a goal yesterday.	At the football match, Bob scored a goal	 goal	0.3110251525348284	1
+At the football match, Bob scored a coal yesterday.	At the football match, Bob scored a coal	 coal	22.547892136868402	1
+At the football match, Bob scored a team yesterday.	At the football match, Bob scored a team	 team	12.686671023121677	1
+At the football match, Bob scored a bear yesterday.	At the football match, Bob scored a bear	 bear	18.05325637349455	1
+Grace put too much dressing on her salad yesterday.	Grace put too much dressing on her salad	 salad	6.082348575180847	1
+Grace put too much dressing on her ballad yesterday.	Grace put too much dressing on her ballad	 ballad	22.47946569496078	2
+Grace put too much dressing on her refrigerator yesterday.	Grace put too much dressing on her refrigerator	 refrigerator	12.35897249034861	1
+Grace put too much dressing on her movie yesterday.	Grace put too much dressing on her movie	 movie	13.525686042827054	1
+Chloe couldn't afford the necklace because of its high price sadly.	Chloe couldn't afford the necklace because of its high price	 price	0.2926343375304654	1
+Chloe couldn't afford the necklace because of its high pride sadly.	Chloe couldn't afford the necklace because of its high pride	 pride	18.51059421993631	1
+Chloe couldn't afford the necklace because of its high seller sadly.	Chloe couldn't afford the necklace because of its high seller	 seller	17.652018346503155	1
+Chloe couldn't afford the necklace because of its high radio sadly.	Chloe couldn't afford the necklace because of its high radio	 radio	25.999830607033864	1
+The family went to the sea to catch some fish together.	The family went to the sea to catch some fish	 fish	2.235098248171212	1
+The family went to the sea to catch some wish together.	The family went to the sea to catch some wish	 wish	21.148897126688006	1
+The family went to the sea to catch some pond together.	The family went to the sea to catch some pond	 pond	22.170650337847043	1
+The family went to the sea to catch some echo together.	The family went to the sea to catch some echo	 echo	21.138418649842496	1
+Noah missed the final bus, and needed to take a taxi yesterday.	Noah missed the final bus, and needed to take a taxi	 taxi	2.2439654856758398	1
+Noah missed the final bus, and needed to take a tax yesterday.	Noah missed the final bus, and needed to take a tax	 tax	22.471761482394033	1
+Noah missed the final bus, and needed to take a fare yesterday.	Noah missed the final bus, and needed to take a fare	 fare	16.995431985046057	1
+Noah missed the final bus, and needed to take a seed yesterday.	Noah missed the final bus, and needed to take a seed	 seed	22.334164358984147	1
+The workers reported the difficult problem to their boss yesterday.	The workers reported the difficult problem to their boss	 boss	2.315448152851927	1
+The workers reported the difficult problem to their bass yesterday.	The workers reported the difficult problem to their bass	 bass	27.659141792259064	1
+The workers reported the difficult problem to their job yesterday.	The workers reported the difficult problem to their job	 job	13.258514291721104	1
+The workers reported the difficult problem to their port yesterday.	The workers reported the difficult problem to their port	 port	15.054150684820218	1
+Freya had a serious car accident and is afraid of driving now.	Freya had a serious car accident and is afraid of driving	 driving	1.650740776692052	1
+Freya had a serious car accident and is afraid of thriving now.	Freya had a serious car accident and is afraid of thriving	 thriving	19.22625047400365	1
+Freya had a serious car accident and is afraid of licences now.	Freya had a serious car accident and is afraid of licences	 licences	19.803319687753834	1
+Freya had a serious car accident and is afraid of finding now.	Freya had a serious car accident and is afraid of finding	 finding	14.88822054052837	1
+The man was convicted for murder and is in prison now.	The man was convicted for murder and is in prison	 prison	0.34250316123531027	1
+The man was convicted for murder and is in poison now.	The man was convicted for murder and is in poison	 poison	24.74886118249647	1
+The man was convicted for murder and is in crime now.	The man was convicted for murder and is in crime	 crime	19.234580142622267	1
+The man was convicted for murder and is in image now.	The man was convicted for murder and is in image	 image	24.673513456484507	1
+Beth loved cooking, and has become a world famous chef now.	Beth loved cooking, and has become a world famous chef	 chef	0.7864915401234279	1
+Beth loved cooking, and has become a world famous shelf now.	Beth loved cooking, and has become a world famous shelf	 shelf	21.858125177538103	1
+Beth loved cooking, and has become a world famous buffet now.	Beth loved cooking, and has become a world famous buffet	 buffet	17.796395696495054	1
+Beth loved cooking, and has become a world famous aunt now.	Beth loved cooking, and has become a world famous aunt	 aunt	11.70102779291975	1
+Kyle asked the dentist to pull out the painful tooth gently.	Kyle asked the dentist to pull out the painful tooth	 tooth	1.090728012395145	1
+Kyle asked the dentist to pull out the painful booth gently.	Kyle asked the dentist to pull out the painful booth	 booth	17.68604126284702	1
+Kyle asked the dentist to pull out the painful brush gently.	Kyle asked the dentist to pull out the painful brush	 brush	12.79954360864392	1
+Kyle asked the dentist to pull out the painful grade gently.	Kyle asked the dentist to pull out the painful grade	 grade	14.838437672462028	1
+Having high blood pressure, George reduced his intake of salt considerably.	Having high blood pressure, George reduced his intake of salt	 salt	2.2818615184365583	1
+Having high blood pressure, George reduced his intake of malt considerably.	Having high blood pressure, George reduced his intake of malt	 malt	17.294945412078693	1
+Having high blood pressure, George reduced his intake of sea considerably.	Having high blood pressure, George reduced his intake of sea	 sea	17.130915187243712	1
+Having high blood pressure, George reduced his intake of bond considerably.	Having high blood pressure, George reduced his intake of bond	 bond	24.826244645427128	1
+Children were excited to see the first snow this winter yesterday.	Children were excited to see the first snow this winter	 winter	2.090085131448589	1
+Children were excited to see the first snow this printer yesterday.	Children were excited to see the first snow this printer	 printer	27.479644369873203	1
+Children were excited to see the first snow this summer yesterday.	Children were excited to see the first snow this summer	 summer	7.921205010500952	1
+Children were excited to see the first snow this effect yesterday.	Children were excited to see the first snow this effect	 effect	18.945133403473104	1
+To see the new-born panda, Lucy will go to the zoo tomorrow.	To see the new-born panda, Lucy will go to the zoo	 zoo	1.3679191357020941	1
+To see the new-born panda, Lucy will go to the loo tomorrow.	To see the new-born panda, Lucy will go to the loo	 loo	13.684730795843297	2
+To see the new-born panda, Lucy will go to the lion tomorrow.	To see the new-born panda, Lucy will go to the lion	 lion	10.778441050747933	1
+To see the new-born panda, Lucy will go to the end tomorrow.	To see the new-born panda, Lucy will go to the end	 end	11.273619150598675	1
+The country girl was overwhelmed to see streets full of people yesterday.	The country girl was overwhelmed to see streets full of people	 people	3.0735815658374466	1
+The country girl was overwhelmed to see streets full of purple yesterday.	The country girl was overwhelmed to see streets full of purple	 purple	12.718065870884285	1
+The country girl was overwhelmed to see streets full of customs yesterday.	The country girl was overwhelmed to see streets full of customs	 customs	16.44677090559809	1
+The country girl was overwhelmed to see streets full of length yesterday.	The country girl was overwhelmed to see streets full of length	 length	23.227515770105043	1
+Daisy is nine months pregnant and will have her first baby soon.	Daisy is nine months pregnant and will have her first baby	 baby	1.3614901746363113	1
+Daisy is nine months pregnant and will have her first bay soon.	Daisy is nine months pregnant and will have her first bay	 bay	22.1894201285008	1
+Daisy is nine months pregnant and will have her first nappy soon.	Daisy is nine months pregnant and will have her first nappy	 nappy	21.776176211693986	2
+Daisy is nine months pregnant and will have her first agent soon.	Daisy is nine months pregnant and will have her first agent	 agent	19.888232000139745	1
+Students at the train station are rushing to buy a ticket now.	Students at the train station are rushing to buy a ticket	 ticket	0.1793062407819805	1
+Students at the train station are rushing to buy a thicket now.	Students at the train station are rushing to buy a thicket	 thicket	35.73607226156851	2
+Students at the train station are rushing to buy a platform now.	Students at the train station are rushing to buy a platform	 platform	16.099335659309045	1
+Students at the train station are rushing to buy a major now.	Students at the train station are rushing to buy a major	 major	17.70565914770699	1
+Feeling stressed at his workplace, Max relaxed at home completely.	Feeling stressed at his workplace, Max relaxed at home	 home	0.11542755828416994	1
+Feeling stressed at his workplace, Max relaxed at dome completely.	Feeling stressed at his workplace, Max relaxed at dome	 dome	22.684873246549344	1
+Feeling stressed at his workplace, Max relaxed at laundry completely.	Feeling stressed at his workplace, Max relaxed at laundry	 laundry	19.725874551877368	1
+Feeling stressed at his workplace, Max relaxed at beer completely.	Feeling stressed at his workplace, Max relaxed at beer	 beer	15.5998978985845	1
+Isabella dyed her hair, but she doesn't like the colour now.	Isabella dyed her hair, but she doesn't like the colour	 colour	7.123989084392313	1
+Isabella dyed her hair, but she doesn't like the cutter now.	Isabella dyed her hair, but she doesn't like the cutter	 cutter	20.344342413177234	1
+Isabella dyed her hair, but she doesn't like the paint now.	Isabella dyed her hair, but she doesn't like the paint	 paint	16.60021111377629	1
+Isabella dyed her hair, but she doesn't like the grape now.	Isabella dyed her hair, but she doesn't like the grape	 grape	25.873372715281498	1
+For parking illegally, William was charged a fine yesterday.	For parking illegally, William was charged a fine	 fine	1.2074768739760302	1
+For parking illegally, William was charged a line yesterday.	For parking illegally, William was charged a line	 line	15.911591847206095	1
+For parking illegally, William was charged a court yesterday.	For parking illegally, William was charged a court	 court	11.327943112146189	1
+For parking illegally, William was charged a rest yesterday.	For parking illegally, William was charged a rest	 rest	22.660636828366005	1
+Jim will go swimming and get a suntan at the beach tomorrow.	Jim will go swimming and get a suntan at the beach	 beach	0.5971614957611808	1
+Jim will go swimming and get a suntan at the peach tomorrow.	Jim will go swimming and get a suntan at the peach	 peach	20.345073506227152	1
+Jim will go swimming and get a suntan at the coconut tomorrow.	Jim will go swimming and get a suntan at the coconut	 coconut	23.38031140016381	1
+Jim will go swimming and get a suntan at the drama tomorrow.	Jim will go swimming and get a suntan at the drama	 drama	23.80197978398741	1
+The house is haunted by ghosts now.	The house is haunted by ghosts	 ghosts	1.4313634271646847	1
+The house is haunted by boasts now.	The house is haunted by boasts	 boasts	23.41049320024294	1
+The house is haunted by halloween now.	The house is haunted by halloween	 halloween	28.999917363246006	3
+The house is haunted by eagles now.	The house is haunted by eagles	 eagles	14.574868498588657	2
+The juice isn't cold enough, so Alice is adding some ice now.	The juice isn't cold enough, so Alice is adding some ice	 ice	2.3099631185510394	1
+The juice isn't cold enough, so Alice is adding some dice now.	The juice isn't cold enough, so Alice is adding some dice	 dice	15.790029403286473	1
+The juice isn't cold enough, so Alice is adding some cube now.	The juice isn't cold enough, so Alice is adding some cube	 cube	14.203903438759609	1
+The juice isn't cold enough, so Alice is adding some wine now.	The juice isn't cold enough, so Alice is adding some wine	 wine	8.77160168717005	1
+The restaurant is always busy, so Leo will book a table now.	The restaurant is always busy, so Leo will book a table	 table	1.6401906652960632	1
+The restaurant is always busy, so Leo will book a label now.	The restaurant is always busy, so Leo will book a label	 label	16.823028259072952	1
+The restaurant is always busy, so Leo will book a chair now.	The restaurant is always busy, so Leo will book a chair	 chair	10.805280862511776	1
+The restaurant is always busy, so Leo will book a field now.	The restaurant is always busy, so Leo will book a field	 field	12.99846965041134	1
+The baby is hungry and needs to drink some milk now.	The baby is hungry and needs to drink some milk	 milk	1.039945642494378	1
+The baby is hungry and needs to drink some silk now.	The baby is hungry and needs to drink some silk	 silk	18.899945032313948	1
+The baby is hungry and needs to drink some cow now.	The baby is hungry and needs to drink some cow	 cow	18.564157962339536	1
+The baby is hungry and needs to drink some debt now.	The baby is hungry and needs to drink some debt	 debt	24.544668765792544	1
+Before sending the letter, Daniel licked a stamp quickly.	Before sending the letter, Daniel licked a stamp	 stamp	9.010544343642588	1
+Before sending the letter, Daniel licked a stump quickly.	Before sending the letter, Daniel licked a stump	 stump	12.228815833974368	1
+Before sending the letter, Daniel licked a payment quickly.	Before sending the letter, Daniel licked a payment	 payment	18.48100426836425	1
+Before sending the letter, Daniel licked a juice quickly.	Before sending the letter, Daniel licked a juice	 juice	12.27540787778789	1
+The waiter got a generous tip because of his good service yesterday.	The waiter got a generous tip because of his good service	 service	5.284156852401851	1
+The waiter got a generous tip because of his good surface yesterday.	The waiter got a generous tip because of his good surface	 surface	20.241017535128268	1
+The waiter got a generous tip because of his good complaints yesterday.	The waiter got a generous tip because of his good complaints	 complaints	15.923047597873929	1
+The waiter got a generous tip because of his good million yesterday.	The waiter got a generous tip because of his good million	 million	23.370369790152004	1
+For their mother's birthday, the children will hold a party tomorrow.	For their mother's birthday, the children will hold a party	 party	1.9941712596153165	1
+For their mother's birthday, the children will hold a pasty tomorrow.	For their mother's birthday, the children will hold a pasty	 pasty	23.244246915168038	2
+For their mother's birthday, the children will hold a guest tomorrow.	For their mother's birthday, the children will hold a guest	 guest	14.547749080452432	1
+For their mother's birthday, the children will hold a scene tomorrow.	For their mother's birthday, the children will hold a scene	 scene	15.796133916684068	1
+Only one cake is left, so Lilly doesn't have a choice anyway.	Only one cake is left, so Lilly doesn't have a choice	 choice	1.5064383012688178	1
+Only one cake is left, so Lilly doesn't have a voice anyway.	Only one cake is left, so Lilly doesn't have a voice	 voice	13.234295870786326	1
+Only one cake is left, so Lilly doesn't have a future anyway.	Only one cake is left, so Lilly doesn't have a future	 future	13.862547102576832	1
+Only one cake is left, so Lilly doesn't have a minute anyway.	Only one cake is left, so Lilly doesn't have a minute	 minute	10.362521298558944	1
+The men are watching football and drinking beer in the pub together.	The men are watching football and drinking beer in the pub	 pub	4.587301597159412	1
+The men are watching football and drinking beer in the rub together.	The men are watching football and drinking beer in the rub	 rub	21.773316023277477	1
+The men are watching football and drinking beer in the owner together.	The men are watching football and drinking beer in the owner	 owner	22.60113329704612	1
+The men are watching football and drinking beer in the let together.	The men are watching football and drinking beer in the let	 let	21.43041854719972	1
+The plane crash was avoided by the experienced pilot yesterday.	The plane crash was avoided by the experienced pilot	 pilot	0.7297598605435909	1
+The plane crash was avoided by the experienced pallet yesterday.	The plane crash was avoided by the experienced pallet	 pallet	32.35244991193082	2
+The plane crash was avoided by the experienced flight yesterday.	The plane crash was avoided by the experienced flight	 flight	6.901053108794929	1
+The plane crash was avoided by the experienced mail yesterday.	The plane crash was avoided by the experienced mail	 mail	21.350446680771395	1
+The bus driver charged Rosie a regular fare yesterday.	The bus driver charged Rosie a regular fare	 fare	0.2539839579960335	1
+The bus driver charged Rosie a regular care yesterday.	The bus driver charged Rosie a regular care	 care	19.746293871675253	1
+The bus driver charged Rosie a regular cash yesterday.	The bus driver charged Rosie a regular cash	 cash	15.68419577140491	1
+The bus driver charged Rosie a regular twin yesterday.	The bus driver charged Rosie a regular twin	 twin	27.001716375541672	1
+Henry was seriously injured but the doctor saved his life successfully.	Henry was seriously injured but the doctor saved his life	 life	0.029504278934291674	1
+Henry was seriously injured but the doctor saved his knife successfully.	Henry was seriously injured but the doctor saved his knife	 knife	18.189248736158348	1
+Henry was seriously injured but the doctor saved his death successfully.	Henry was seriously injured but the doctor saved his death	 death	13.642065892147512	1
+Henry was seriously injured but the doctor saved his corn successfully.	Henry was seriously injured but the doctor saved his corn	 corn	24.835665545151844	1
+Joseph used a lighter to make a fire easily.	Joseph used a lighter to make a fire	 fire	1.897382526788771	1
+Joseph used a lighter to make a hire easily.	Joseph used a lighter to make a hire	 hire	20.372611953749722	1
+Joseph used a lighter to make a chimney easily.	Joseph used a lighter to make a chimney	 chimney	18.823386792158537	2
+Joseph used a lighter to make a statue easily.	Joseph used a lighter to make a statue	 statue	12.557835926534564	1
+The famous dancer performed on the stage yesterday.	The famous dancer performed on the stage	 stage	2.9734730116409445	1
+The famous dancer performed on the state yesterday.	The famous dancer performed on the state	 state	15.220189787659226	1
+The famous dancer performed on the actor yesterday.	The famous dancer performed on the actor	 actor	15.425528773412218	1
+The famous dancer performed on the cloud yesterday.	The famous dancer performed on the cloud	 cloud	15.079725387631203	1
+The girls are going to have cocktails and dance in a club together.	The girls are going to have cocktails and dance in a club	 club	4.251039125174578	1
+The girls are going to have cocktails and dance in a crab together.	The girls are going to have cocktails and dance in a crab	 crab	20.52759287361113	1
+The girls are going to have cocktails and dance in a sport together.	The girls are going to have cocktails and dance in a sport	 sport	16.584093862926558	1
+The girls are going to have cocktails and dance in a mist together.	The girls are going to have cocktails and dance in a mist	 mist	16.658594108893485	1
+The supporters wished the team good luck yesterday.	The supporters wished the team good luck	 luck	0.13863721434983528	1
+The supporters wished the team good duck yesterday.	The supporters wished the team good duck	 duck	20.10054534381744	1
+The supporters wished the team good yell yesterday.	The supporters wished the team good yell	 yell	27.250053871578302	1
+The supporters wished the team good view yesterday.	The supporters wished the team good view	 view	21.133905021800068	1
+The cricket player wants his own glove, ball and bat now.	The cricket player wants his own glove, ball and bat	 bat	0.6960814632907757	1
+The cricket player wants his own glove, ball and rat now.	The cricket player wants his own glove, ball and rat	 rat	20.03282564271614	1
+The cricket player wants his own glove, ball and hit now.	The cricket player wants his own glove, ball and hit	 hit	13.394394452198458	1
+The cricket player wants his own glove, ball and sneeze now.	The cricket player wants his own glove, ball and sneeze	 sneeze	35.23726020032351	3
+Hannah bought a calendar and hung it on the wall yesterday.	Hannah bought a calendar and hung it on the wall	 wall	0.37713914961313516	1
+Hannah bought a calendar and hung it on the mall yesterday.	Hannah bought a calendar and hung it on the mall	 mall	19.91283291829014	1
+Hannah bought a calendar and hung it on the floor yesterday.	Hannah bought a calendar and hung it on the floor	 floor	12.940738892725363	1
+Hannah bought a calendar and hung it on the fruit yesterday.	Hannah bought a calendar and hung it on the fruit	 fruit	22.23092247508459	1
+The man with the history of self-harm cut his wrist suddenly.	The man with the history of self-harm cut his wrist	 wrist	3.055401061380663	1
+The man with the history of self-harm cut his list suddenly.	The man with the history of self-harm cut his list	 list	16.088857111686735	1
+The man with the history of self-harm cut his grip suddenly.	The man with the history of self-harm cut his grip	 grip	15.483709278923186	1
+The man with the history of self-harm cut his sky suddenly.	The man with the history of self-harm cut his sky	 sky	14.990958370997125	1
+Susan felt tears coming as she sliced the onion carefully.	Susan felt tears coming as she sliced the onion	 onion	5.162108695399047	1
+Susan felt tears coming as she sliced the union carefully.	Susan felt tears coming as she sliced the union	 union	16.04205043331317	1
+Susan felt tears coming as she sliced the flavour carefully.	Susan felt tears coming as she sliced the flavour	 flavour	16.727840108655833	1
+Susan felt tears coming as she sliced the error carefully.	Susan felt tears coming as she sliced the error	 error	18.282744880738186	1
+The woman was hit by a truck when crossing the road yesterday.	The woman was hit by a truck when crossing the road	 road	0.8154757098886597	1
+The woman was hit by a truck when crossing the load yesterday.	The woman was hit by a truck when crossing the load	 load	24.351331707411408	1
+The woman was hit by a truck when crossing the cyclist yesterday.	The woman was hit by a truck when crossing the cyclist	 cyclist	22.40440559196666	1
+The woman was hit by a truck when crossing the math yesterday.	The woman was hit by a truck when crossing the math	 math	26.996342441721897	1
+Tyler knows many cocktail recipes because he works in a bar now.	Tyler knows many cocktail recipes because he works in a bar	 bar	0.19198461921194135	1
+Tyler knows many cocktail recipes because he works in a war now.	Tyler knows many cocktail recipes because he works in a war	 war	22.829590471039047	1
+Tyler knows many cocktail recipes because he works in a pint now.	Tyler knows many cocktail recipes because he works in a pint	 pint	22.47049068693128	1
+Tyler knows many cocktail recipes because he works in a joy now.	Tyler knows many cocktail recipes because he works in a joy	 joy	28.088010951950245	1
+Kate didn't like coffee, so she ordered a cup of tea instead.	Kate didn't like coffee, so she ordered a cup of tea	 tea	0.3690286059619838	1
+Kate didn't like coffee, so she ordered a cup of team instead.	Kate didn't like coffee, so she ordered a cup of team	 team	26.87317297980144	1
+Kate didn't like coffee, so she ordered a cup of mug instead.	Kate didn't like coffee, so she ordered a cup of mug	 mug	14.241066621696394	1
+Kate didn't like coffee, so she ordered a cup of myth instead.	Kate didn't like coffee, so she ordered a cup of myth	 myth	23.38344981015615	1
+Sam plays guitar in a popular band now.	Sam plays guitar in a popular band	 band	1.9107869922453184	1
+Sam plays guitar in a popular sand now.	Sam plays guitar in a popular sand	 sand	19.917381516047957	1
+Sam plays guitar in a popular music now.	Sam plays guitar in a popular music	 music	10.771168101296995	1
+Sam plays guitar in a popular hero now.	Sam plays guitar in a popular hero	 hero	16.895737190625766	1
+As the trousers were loose, Tony tightened up his belt yesterday.	As the trousers were loose, Tony tightened up his belt	 belt	1.8997765598089509	1
+As the trousers were loose, Tony tightened up his beat yesterday.	As the trousers were loose, Tony tightened up his beat	 beat	16.595372153255315	1
+As the trousers were loose, Tony tightened up his helmet yesterday.	As the trousers were loose, Tony tightened up his helmet	 helmet	12.362463589200695	1
+As the trousers were loose, Tony tightened up his tube yesterday.	As the trousers were loose, Tony tightened up his tube	 tube	16.387149158823906	1
+Meg will go to the park to walk her dog tomorrow.	Meg will go to the park to walk her dog	 dog	0.3077505986538469	1
+Meg will go to the park to walk her fog tomorrow.	Meg will go to the park to walk her fog	 fog	22.800802901607053	1
+Meg will go to the park to walk her tail tomorrow.	Meg will go to the park to walk her tail	 tail	17.453815570898804	1
+Meg will go to the park to walk her tyre tomorrow.	Meg will go to the park to walk her tyre	 tyre	25.834059639654267	1
+The terrorist shot and killed five people using a gun yesterday.	The terrorist shot and killed five people using a gun	 gun	3.4445923042231397	1
+The terrorist shot and killed five people using a gum yesterday.	The terrorist shot and killed five people using a gum	 gum	29.708484008525694	1
+The terrorist shot and killed five people using a grip yesterday.	The terrorist shot and killed five people using a grip	 grip	18.599753110050536	1
+The terrorist shot and killed five people using a rib yesterday.	The terrorist shot and killed five people using a rib	 rib	21.240052708325567	1
+The mole was digging a hole yesterday.	The mole was digging a hole	 hole	0.9712744127723304	1
+The mole was digging a pole yesterday.	The mole was digging a pole	 pole	14.54912592704669	1
+The mole was digging a drill yesterday.	The mole was digging a drill	 drill	12.473584221619145	1
+The mole was digging a mass yesterday.	The mole was digging a mass	 mass	14.401319888600797	1
+The horse went outside the course, and didn't win the race understandably.	The horse went outside the course, and didn't win the race	 race	0.39506598420983	1
+The horse went outside the course, and didn't win the lace understandably.	The horse went outside the course, and didn't win the lace	 lace	19.797824001839775	1
+The horse went outside the course, and didn't win the bike understandably.	The horse went outside the course, and didn't win the bike	 bike	16.4793237760627	1
+The horse went outside the course, and didn't win the snap understandably.	The horse went outside the course, and didn't win the snap	 snap	17.94228238102591	1
+Emma loves a bargain, and everything she bought was on sale actually.	Emma loves a bargain, and everything she bought was on sale	 sale	0.1854291705192771	1
+Emma loves a bargain, and everything she bought was on safe actually.	Emma loves a bargain, and everything she bought was on safe	 safe	25.796171993510477	1
+Emma loves a bargain, and everything she bought was on refunds actually.	Emma loves a bargain, and everything she bought was on refunds	 refunds	21.85582100594935	1
+Emma loves a bargain, and everything she bought was on noon actually.	Emma loves a bargain, and everything she bought was on noon	 noon	28.527773740237613	1
+The king's throne was taken by his first-born son yesterday.	The king's throne was taken by his first-born son	 son	0.5287435422576465	1
+The king's throne was taken by his first-born ton yesterday.	The king's throne was taken by his first-born ton	 ton	24.08814888190052	1
+The king's throne was taken by his first-born father yesterday.	The king's throne was taken by his first-born father	 father	11.945695108788081	1
+The king's throne was taken by his first-born fox yesterday.	The king's throne was taken by his first-born fox	 fox	25.27789468387166	1
+The camp leader taught children how to pitch a tent yesterday.	The camp leader taught children how to pitch a tent	 tent	10.124440548962134	1
+The camp leader taught children how to pitch a cent yesterday.	The camp leader taught children how to pitch a cent	 cent	18.73150368771559	1
+The camp leader taught children how to pitch a cave yesterday.	The camp leader taught children how to pitch a cave	 cave	18.51173459267896	1
+The camp leader taught children how to pitch a flaw yesterday.	The camp leader taught children how to pitch a flaw	 flaw	17.84806308699692	1
+He enjoys hiking in the woods because of the fresh air outside.	He enjoys hiking in the woods because of the fresh air	 air	0.08329317685576117	1
+He enjoys hiking in the woods because of the fresh hair outside.	He enjoys hiking in the woods because of the fresh hair	 hair	17.927222647640388	1
+He enjoys hiking in the woods because of the fresh dust outside.	He enjoys hiking in the woods because of the fresh dust	 dust	18.30255175170734	1
+He enjoys hiking in the woods because of the fresh ray outside.	He enjoys hiking in the woods because of the fresh ray	 ray	27.20906839889758	1
+All the colleagues have savings accounts at the same bank somehow.	All the colleagues have savings accounts at the same bank	 bank	0.4354223953556191	1
+All the colleagues have savings accounts at the same back somehow.	All the colleagues have savings accounts at the same back	 back	14.60017774262926	1
+All the colleagues have savings accounts at the same receipt somehow.	All the colleagues have savings accounts at the same receipt	 receipt	19.601653328199184	1
+All the colleagues have savings accounts at the same lake somehow.	All the colleagues have savings accounts at the same lake	 lake	17.572148054896637	1
+Ben went to the gym to swim in the pool earlier.	Ben went to the gym to swim in the pool	 pool	1.2361533502107667	1
+Ben went to the gym to swim in the tool earlier.	Ben went to the gym to swim in the tool	 tool	22.322327020799666	1
+Ben went to the gym to swim in the sink earlier.	Ben went to the gym to swim in the sink	 sink	9.948205748241602	1
+Ben went to the gym to swim in the lump earlier.	Ben went to the gym to swim in the lump	 lump	21.018065824883063	1
+Adam keeps different breeds of cows in his farm now.	Adam keeps different breeds of cows in his farm	 farm	4.356585584339052	1
+Adam keeps different breeds of cows in his harm now.	Adam keeps different breeds of cows in his harm	 harm	24.97390989087632	1
+Adam keeps different breeds of cows in his yields now.	Adam keeps different breeds of cows in his yields	 yields	21.94894676154916	1
+Adam keeps different breeds of cows in his navy now.	Adam keeps different breeds of cows in his navy	 navy	21.211969547215848	1
+For relaxation, Matilda soaked in a hot bath yesterday.	For relaxation, Matilda soaked in a hot bath	 bath	1.4214702116598346	1
+For relaxation, Matilda soaked in a hot path yesterday.	For relaxation, Matilda soaked in a hot path	 path	20.364332909369733	1
+For relaxation, Matilda soaked in a hot soap yesterday.	For relaxation, Matilda soaked in a hot soap	 soap	18.55675947522552	1
+For relaxation, Matilda soaked in a hot loaf yesterday.	For relaxation, Matilda soaked in a hot loaf	 loaf	19.572486120280256	1
+Lewis lost his memory because of the damage to his brain yesterday.	Lewis lost his memory because of the damage to his brain	 brain	0.3859636426881106	1
+Lewis lost his memory because of the damage to his grain yesterday.	Lewis lost his memory because of the damage to his grain	 grain	22.35121904747238	1
+Lewis lost his memory because of the damage to his surgeries yesterday.	Lewis lost his memory because of the damage to his surgeries	 surgeries	19.225845849712716	1
+Lewis lost his memory because of the damage to his nation yesterday.	Lewis lost his memory because of the damage to his nation	 nation	21.504888266813566	1
+After shuffling, the croupier asked the guest to select one card only.	After shuffling, the croupier asked the guest to select one card	 card	10.957004600222021	1
+After shuffling, the croupier asked the guest to select one cart only.	After shuffling, the croupier asked the guest to select one cart	 cart	19.72058566131616	1
+After shuffling, the croupier asked the guest to select one swap only.	After shuffling, the croupier asked the guest to select one swap	 swap	20.13618936669629	1
+After shuffling, the croupier asked the guest to select one roll only.	After shuffling, the croupier asked the guest to select one roll	 roll	19.287926885405188	1
+Nobody knows the time as this room has no clock now.	Nobody knows the time as this room has no clock	 clock	0.4225973351748008	1
+Nobody knows the time as this room has no clerk now.	Nobody knows the time as this room has no clerk	 clerk	20.16264491913961	1
+Nobody knows the time as this room has no alarm now.	Nobody knows the time as this room has no alarm	 alarm	12.308992519721349	1
+Nobody knows the time as this room has no scarf now.	Nobody knows the time as this room has no scarf	 scarf	27.322219613433646	1
+Ryan refused to invest to avoid taking a risk yesterday.	Ryan refused to invest to avoid taking a risk	 risk	3.8418338141163098	1
+Ryan refused to invest to avoid taking a disc yesterday.	Ryan refused to invest to avoid taking a disc	 disc	27.37717801562093	1
+Ryan refused to invest to avoid taking a benefit yesterday.	Ryan refused to invest to avoid taking a benefit	 benefit	14.487702954711308	1
+Ryan refused to invest to avoid taking a door yesterday.	Ryan refused to invest to avoid taking a door	 door	21.517836447880175	1
+The client immediately signed the contract because it was a good deal indeed.	The client immediately signed the contract because it was a good deal	 deal	1.8433349975368807	1
+The client immediately signed the contract because it was a good meal indeed.	The client immediately signed the contract because it was a good meal	 meal	15.303902572125486	1
+The client immediately signed the contract because it was a good trust indeed.	The client immediately signed the contract because it was a good trust	 trust	16.037451139462107	1
+The client immediately signed the contract because it was a good flower indeed.	The client immediately signed the contract because it was a good flower	 flower	22.718038853499397	1
+By closely examining a painting, one can see all the detail clearly.	By closely examining a painting, one can see all the detail	 detail	4.239284518737438	1
+By closely examining a painting, one can see all the retail clearly.	By closely examining a painting, one can see all the retail	 retail	22.686215315432833	1
+By closely examining a painting, one can see all the paragraphs clearly.	By closely examining a painting, one can see all the paragraphs	 paragraphs	18.076342549669075	1
+By closely examining a painting, one can see all the syrup clearly.	By closely examining a painting, one can see all the syrup	 syrup	22.20143871275614	1
+Toby used to walk to school, but now he takes a bus often.	Toby used to walk to school, but now he takes a bus	 bus	0.3577736400979381	1
+Toby used to walk to school, but now he takes a bug often.	Toby used to walk to school, but now he takes a bug	 bug	17.939111481210546	1
+Toby used to walk to school, but now he takes a seat often.	Toby used to walk to school, but now he takes a seat	 seat	12.268758148759746	1
+Toby used to walk to school, but now he takes a use often.	Toby used to walk to school, but now he takes a use	 use	24.046317110337412	1
+In the class, Bella whispered in her friend's ear quickly.	In the class, Bella whispered in her friend's ear	 ear	0.013365090193994445	1
+In the class, Bella whispered in her friend's rear quickly.	In the class, Bella whispered in her friend's rear	 rear	22.836624111555356	1
+In the class, Bella whispered in her friend's sound quickly.	In the class, Bella whispered in her friend's sound	 sound	23.178156840474344	1
+In the class, Bella whispered in her friend's kin quickly.	In the class, Bella whispered in her friend's kin	 kin	30.82891378053336	1
+Two dogs injured each other when they had a fight yesterday.	Two dogs injured each other when they had a fight	 fight	0.5770884332411771	1
+Two dogs injured each other when they had a light yesterday.	Two dogs injured each other when they had a light	 light	16.77000610571456	1
+Two dogs injured each other when they had a troop yesterday.	Two dogs injured each other when they had a troop	 troop	22.884773740322974	1
+Two dogs injured each other when they had a piano yesterday.	Two dogs injured each other when they had a piano	 piano	23.885228401485215	1
+To make meringue, she separated the whites from five eggs carefully.	To make meringue, she separated the whites from five eggs	 eggs	2.1974210214565004	1
+To make meringue, she separated the whites from five pegs carefully.	To make meringue, she separated the whites from five pegs	 pegs	19.749949773011153	2
+To make meringue, she separated the whites from five nests carefully.	To make meringue, she separated the whites from five nests	 nests	12.945037875715775	1
+To make meringue, she separated the whites from five toes carefully.	To make meringue, she separated the whites from five toes	 toes	10.805997521327791	1
+To make two groups, the lecturer split the class in half quickly.	To make two groups, the lecturer split the class in half	 half	2.3241494337139432	1
+To make two groups, the lecturer split the class in calf quickly.	To make two groups, the lecturer split the class in calf	 calf	22.35078889249326	1
+To make two groups, the lecturer split the class in dozen quickly.	To make two groups, the lecturer split the class in dozen	 dozen	20.22006968863466	1
+To make two groups, the lecturer split the class in lake quickly.	To make two groups, the lecturer split the class in lake	 lake	24.223611146397698	1
+Seeing buds on trees heralds the arrival of spring surely.	Seeing buds on trees heralds the arrival of spring	 spring	0.5162833496390479	1
+Seeing buds on trees heralds the arrival of sprint surely.	Seeing buds on trees heralds the arrival of sprint	 sprint	25.266920319840143	1
+Seeing buds on trees heralds the arrival of winter surely.	Seeing buds on trees heralds the arrival of winter	 winter	5.3485117135063875	1
+Seeing buds on trees heralds the arrival of power surely.	Seeing buds on trees heralds the arrival of power	 power	19.279007232539616	1
+The store was so busy that the clerk needed help yesterday.	The store was so busy that the clerk needed help	 help	4.429472895972614	1
+The store was so busy that the clerk needed heap yesterday.	The store was so busy that the clerk needed heap	 heap	25.298541234526756	1
+The store was so busy that the clerk needed lifeguards yesterday.	The store was so busy that the clerk needed lifeguards	 lifeguards	26.638026395683898	2
+The store was so busy that the clerk needed fog yesterday.	The store was so busy that the clerk needed fog	 fog	16.974531240410688	1
+The solution didn't work, and Harley lost all hope yesterday.	The solution didn't work, and Harley lost all hope	 hope	3.7435939029584127	1
+The solution didn't work, and Harley lost all hose yesterday.	The solution didn't work, and Harley lost all hose	 hose	20.078429063363124	1
+The solution didn't work, and Harley lost all regret yesterday.	The solution didn't work, and Harley lost all regret	 regret	13.886453666563547	1
+The solution didn't work, and Harley lost all nails yesterday.	The solution didn't work, and Harley lost all nails	 nails	20.058803701938004	1
+To remember to buy everything she wanted, Gracie made a list quickly.	To remember to buy everything she wanted, Gracie made a list	 list	0.560871572527008	1
+To remember to buy everything she wanted, Gracie made a lift quickly.	To remember to buy everything she wanted, Gracie made a lift	 lift	24.014451088774152	1
+To remember to buy everything she wanted, Gracie made a volume quickly.	To remember to buy everything she wanted, Gracie made a volume	 volume	20.505394140197474	1
+To remember to buy everything she wanted, Gracie made a disc quickly.	To remember to buy everything she wanted, Gracie made a disc	 disc	19.209415449327146	1
+The computer pointer doesn't move though Tommy is moving the mouse now.	The computer pointer doesn't move though Tommy is moving the mouse	 mouse	0.9983442416317274	1
+The computer pointer doesn't move though Tommy is moving the mouth now.	The computer pointer doesn't move though Tommy is moving the mouth	 mouth	13.000256706943722	1
+The computer pointer doesn't move though Tommy is moving the click now.	The computer pointer doesn't move though Tommy is moving the click	 click	13.1624102726695	1
+The computer pointer doesn't move though Tommy is moving the lemon now.	The computer pointer doesn't move though Tommy is moving the lemon	 lemon	18.153335656978584	1
+Katie looks much younger than her actual age now.	Katie looks much younger than her actual age	 age	0.00906758621769469	1
+Katie looks much younger than her actual ace now.	Katie looks much younger than her actual ace	 ace	28.69810726262082	1
+Katie looks much younger than her actual birth now.	Katie looks much younger than her actual birth	 birth	17.619788390927113	1
+Katie looks much younger than her actual oak now.	Katie looks much younger than her actual oak	 oak	31.647342811719728	1
+After the meal, Matthew asked a waiter to bring the bill quickly.	After the meal, Matthew asked a waiter to bring the bill	 bill	5.0634887581067565	1
+After the meal, Matthew asked a waiter to bring the pill quickly.	After the meal, Matthew asked a waiter to bring the pill	 pill	11.970697100148652	1
+After the meal, Matthew asked a waiter to bring the tip quickly.	After the meal, Matthew asked a waiter to bring the tip	 tip	10.427525739598202	1
+After the meal, Matthew asked a waiter to bring the mess quickly.	After the meal, Matthew asked a waiter to bring the mess	 mess	12.35286187939496	1
+Hearing the noise outside the classroom, the lecturer closed the door immediately.	Hearing the noise outside the classroom, the lecturer closed the door	 door	0.4408215577539745	1
+Hearing the noise outside the classroom, the lecturer closed the donor immediately.	Hearing the noise outside the classroom, the lecturer closed the donor	 donor	25.53684909860769	1
+Hearing the noise outside the classroom, the lecturer closed the knob immediately.	Hearing the noise outside the classroom, the lecturer closed the knob	 knob	17.320354538166317	1
+Hearing the noise outside the classroom, the lecturer closed the loan immediately.	Hearing the noise outside the classroom, the lecturer closed the loan	 loan	20.6436812940204	1
+Elizabeth doesn't believe Matt since he has told lies before.	Elizabeth doesn't believe Matt since he has told lies	 lies	4.487889259658108	1
+Elizabeth doesn't believe Matt since he has told pies before.	Elizabeth doesn't believe Matt since he has told pies	 pies	19.428074380795234	1
+Elizabeth doesn't believe Matt since he has told truth before.	Elizabeth doesn't believe Matt since he has told truth	 truth	11.461051281921332	1
+Elizabeth doesn't believe Matt since he has told ways before.	Elizabeth doesn't believe Matt since he has told ways	 ways	15.435815032497041	1
+The thief stole the bike easily as it had no lock yesterday.	The thief stole the bike easily as it had no lock	 lock	2.2945011251377436	1
+The thief stole the bike easily as it had no look yesterday.	The thief stole the bike easily as it had no look	 look	14.202965186718863	1
+The thief stole the bike easily as it had no door yesterday.	The thief stole the bike easily as it had no door	 door	12.406734382581863	1
+The thief stole the bike easily as it had no sum yesterday.	The thief stole the bike easily as it had no sum	 sum	20.121815466777893	1
+Anna brings a sandwich and a salad for her lunch usually.	Anna brings a sandwich and a salad for her lunch	 lunch	6.537322875888054	1
+Anna brings a sandwich and a salad for her punch usually.	Anna brings a sandwich and a salad for her punch	 punch	21.96350607010598	1
+Anna brings a sandwich and a salad for her kitchen usually.	Anna brings a sandwich and a salad for her kitchen	 kitchen	12.866499025250357	1
+Anna brings a sandwich and a salad for her issue usually.	Anna brings a sandwich and a salad for her issue	 issue	19.48818872442778	1
+People saw the first spaceship that landed on the moon together.	People saw the first spaceship that landed on the moon	 moon	0.586342891715932	1
+People saw the first spaceship that landed on the mood together.	People saw the first spaceship that landed on the mood	 mood	26.90816369979721	1
+People saw the first spaceship that landed on the orbit together.	People saw the first spaceship that landed on the orbit	 orbit	19.4058073139118	1
+People saw the first spaceship that landed on the heel together.	People saw the first spaceship that landed on the heel	 heel	24.707275644981273	1
+Children made a wish when they saw a shooting star yesterday.	Children made a wish when they saw a shooting star	 star	8.363971865986418	1
+Children made a wish when they saw a shooting scar yesterday.	Children made a wish when they saw a shooting scar	 scar	15.057101915284147	1
+Children made a wish when they saw a shooting galaxy yesterday.	Children made a wish when they saw a shooting galaxy	 galaxy	24.326163229477196	1
+Children made a wish when they saw a shooting devil yesterday.	Children made a wish when they saw a shooting devil	 devil	23.523205227529196	1
+Maya got a cold and has a runny nose now.	Maya got a cold and has a runny nose	 nose	0.0019183654785548082	1
+Maya got a cold and has a runny pose now.	Maya got a cold and has a runny pose	 pose	30.076918110414486	1
+Maya got a cold and has a runny chin now.	Maya got a cold and has a runny chin	 chin	18.44181007032407	1
+Maya got a cold and has a runny term now.	Maya got a cold and has a runny term	 term	31.315649875990037	1
+The country has no war and people live in peace today.	The country has no war and people live in peace	 peace	0.10940822109860973	1
+The country has no war and people live in peak today.	The country has no war and people live in peak	 peak	23.332718206415894	1
+The country has no war and people live in treaty today.	The country has no war and people live in treaty	 treaty	24.864046371854016	1
+The country has no war and people live in yacht today.	The country has no war and people live in yacht	 yacht	28.057530059829134	1
+To make the garden more green, Amy is growing various plants now.	To make the garden more green, Amy is growing various plants	 plants	2.343848711827737	1
+To make the garden more green, Amy is growing various planets now.	To make the garden more green, Amy is growing various planets	 planets	17.67943423797023	1
+To make the garden more green, Amy is growing various sunlight now.	To make the garden more green, Amy is growing various sunlight	 sunlight	18.44419294249829	1
+To make the garden more green, Amy is growing various limits now.	To make the garden more green, Amy is growing various limits	 limits	19.610653694723375	1
+To prevent spreading her cold, Jane is wearing a mask now.	To prevent spreading her cold, Jane is wearing a mask	 mask	3.3509465937825915	1
+To prevent spreading her cold, Jane is wearing a task now.	To prevent spreading her cold, Jane is wearing a task	 task	23.586700442893438	1
+To prevent spreading her cold, Jane is wearing a face now.	To prevent spreading her cold, Jane is wearing a face	 face	14.655594772411325	1
+To prevent spreading her cold, Jane is wearing a pane now.	To prevent spreading her cold, Jane is wearing a pane	 pane	20.240303377305096	1
+The leaking rain was due to a hole in the roof yesterday.	The leaking rain was due to a hole in the roof	 roof	0.4987527227883045	1
+The leaking rain was due to a hole in the root yesterday.	The leaking rain was due to a hole in the root	 root	16.686728325438835	1
+The leaking rain was due to a hole in the floor yesterday.	The leaking rain was due to a hole in the floor	 floor	8.291861748417364	1
+The leaking rain was due to a hole in the pain yesterday.	The leaking rain was due to a hole in the pain	 pain	26.066502665092315	1
+The fisherman was trying to catch fish in a net earlier.	The fisherman was trying to catch fish in a net	 net	2.915806345161397	1
+The fisherman was trying to catch fish in a jet earlier.	The fisherman was trying to catch fish in a jet	 jet	14.060304041159851	1
+The fisherman was trying to catch fish in a gross earlier.	The fisherman was trying to catch fish in a gross	 gross	18.143480434993634	1
+The fisherman was trying to catch fish in a man earlier.	The fisherman was trying to catch fish in a man	 man	15.872263808267087	1
+The plant lacks sunlight because it's placed in the shade now.	The plant lacks sunlight because it's placed in the shade	 shade	0.698785301846743	1
+The plant lacks sunlight because it's placed in the shape now.	The plant lacks sunlight because it's placed in the shape	 shape	15.810122066231479	1
+The plant lacks sunlight because it's placed in the grass now.	The plant lacks sunlight because it's placed in the grass	 grass	12.728044488945708	1
+The plant lacks sunlight because it's placed in the broom now.	The plant lacks sunlight because it's placed in the broom	 broom	25.580651838601913	1
+Sophia cannot find a suitable lotion because of her delicate skin now.	Sophia cannot find a suitable lotion because of her delicate skin	 skin	0.18708954524940705	1
+Sophia cannot find a suitable lotion because of her delicate spin now.	Sophia cannot find a suitable lotion because of her delicate spin	 spin	22.20476519571731	1
+Sophia cannot find a suitable lotion because of her delicate sweat now.	Sophia cannot find a suitable lotion because of her delicate sweat	 sweat	16.625362044449194	1
+Sophia cannot find a suitable lotion because of her delicate copy now.	Sophia cannot find a suitable lotion because of her delicate copy	 copy	20.970194141573142	1
+The driver was stopped as he exceeded the specified speed yesterday.	The driver was stopped as he exceeded the specified speed	 speed	1.9444848661706962	1
+The driver was stopped as he exceeded the specified speech yesterday.	The driver was stopped as he exceeded the specified speech	 speech	19.45198315635448	1
+The driver was stopped as he exceeded the specified jet yesterday.	The driver was stopped as he exceeded the specified jet	 jet	23.015061996565187	1
+The driver was stopped as he exceeded the specified tablet yesterday.	The driver was stopped as he exceeded the specified tablet	 tablet	25.73140817285718	1
+Conner went down the stairs and sat on the bottom step slowly.	Conner went down the stairs and sat on the bottom step	 step	2.547937017770952	1
+Conner went down the stairs and sat on the bottom stem slowly.	Conner went down the stairs and sat on the bottom stem	 stem	18.34027014780457	1
+Conner went down the stairs and sat on the bottom process slowly.	Conner went down the stairs and sat on the bottom process	 process	23.824447403794444	1
+Conner went down the stairs and sat on the bottom jail slowly.	Conner went down the stairs and sat on the bottom jail	 jail	23.958104104788188	1
+With a high salary, he needs to pay more tax accordingly.	With a high salary, he needs to pay more tax	 tax	6.785614320553383	1
+With a high salary, he needs to pay more wax accordingly.	With a high salary, he needs to pay more wax	 wax	24.74066905980309	1
+With a high salary, he needs to pay more income accordingly.	With a high salary, he needs to pay more income	 income	13.172939952756677	1
+With a high salary, he needs to pay more ash accordingly.	With a high salary, he needs to pay more ash	 ash	22.29552724245625	1
+Tilly's sister did the cleaning today, so tomorrow it's her turn naturally.	Tilly's sister did the cleaning today, so tomorrow it's her turn	 turn	1.8379103645572608	1
+Tilly's sister did the cleaning today, so tomorrow it's her turf naturally.	Tilly's sister did the cleaning today, so tomorrow it's her turf	 turf	16.688824191476414	1
+Tilly's sister did the cleaning today, so tomorrow it's her gear naturally.	Tilly's sister did the cleaning today, so tomorrow it's her gear	 gear	19.432274928240265	1
+Tilly's sister did the cleaning today, so tomorrow it's her acid naturally.	Tilly's sister did the cleaning today, so tomorrow it's her acid	 acid	25.316409506958212	1
+There was a recycling campaign to reduce the amount of waste more.	There was a recycling campaign to reduce the amount of waste	 waste	1.7767989954600019	1
+There was a recycling campaign to reduce the amount of paste more.	There was a recycling campaign to reduce the amount of paste	 paste	15.524217100714727	1
+There was a recycling campaign to reduce the amount of toilets more.	There was a recycling campaign to reduce the amount of toilets	 toilets	13.376129000748412	1
+There was a recycling campaign to reduce the amount of relief more.	There was a recycling campaign to reduce the amount of relief	 relief	19.051655406244528	1
+Jamie bravely stopped the robbery without feeling any fear yesterday.	Jamie bravely stopped the robbery without feeling any fear	 fear	1.7665924317222488	1
+Jamie bravely stopped the robbery without feeling any year yesterday.	Jamie bravely stopped the robbery without feeling any year	 year	23.181420747941285	1
+Jamie bravely stopped the robbery without feeling any escape yesterday.	Jamie bravely stopped the robbery without feeling any escape	 escape	18.268270069083652	1
+Jamie bravely stopped the robbery without feeling any dirt yesterday.	Jamie bravely stopped the robbery without feeling any dirt	 dirt	18.612950725648215	1
+The attendees can't miss the meeting without a good excuse tomorrow.	The attendees can't miss the meeting without a good excuse	 excuse	2.0959085100787203	1
+The attendees can't miss the meeting without a good excise tomorrow.	The attendees can't miss the meeting without a good excise	 excise	32.753854965441604	1
+The attendees can't miss the meeting without a good doubt tomorrow.	The attendees can't miss the meeting without a good doubt	 doubt	16.892767596672716	1
+The attendees can't miss the meeting without a good style tomorrow.	The attendees can't miss the meeting without a good style	 style	18.90458478677688	1
+Frank will double-check the notification in case there is any change tomorrow.	Frank will double-check the notification in case there is any change	 change	3.7474148298564263	1
+Frank will double-check the notification in case there is any range tomorrow.	Frank will double-check the notification in case there is any range	 range	18.57688716825795	1
+Frank will double-check the notification in case there is any same tomorrow.	Frank will double-check the notification in case there is any same	 same	13.999033609260692	1
+Frank will double-check the notification in case there is any land tomorrow.	Frank will double-check the notification in case there is any land	 land	19.495841243484076	1
+Finishing his study abroad, David will return to his own country finally.	Finishing his study abroad, David will return to his own country	 country	1.7065261059335317	1
+Finishing his study abroad, David will return to his own counter finally.	Finishing his study abroad, David will return to his own counter	 counter	19.356293731851867	1
+Finishing his study abroad, David will return to his own import finally.	Finishing his study abroad, David will return to his own import	 import	19.76956391017643	1
+Finishing his study abroad, David will return to his own puzzle finally.	Finishing his study abroad, David will return to his own puzzle	 puzzle	19.210050715157006	1
+The businessman left his laptop on his desk yesterday.	The businessman left his laptop on his desk	 desk	0.6395808668902164	1
+The businessman left his laptop on his dusk yesterday.	The businessman left his laptop on his dusk	 dusk	29.95451627659216	1
+The businessman left his laptop on his receptionist yesterday.	The businessman left his laptop on his receptionist	 receptionist	20.926194296778167	2
+The businessman left his laptop on his pine yesterday.	The businessman left his laptop on his pine	 pine	22.674460390834582	1
+Rose couldn't eat noodles using chopsticks, so used a fork instead.	Rose couldn't eat noodles using chopsticks, so used a fork	 fork	1.6112770006688673	1
+Rose couldn't eat noodles using chopsticks, so used a fort instead.	Rose couldn't eat noodles using chopsticks, so used a fort	 fort	21.220028823189644	1
+Rose couldn't eat noodles using chopsticks, so used a cup instead.	Rose couldn't eat noodles using chopsticks, so used a cup	 cup	9.236338105349725	1
+Rose couldn't eat noodles using chopsticks, so used a peer instead.	Rose couldn't eat noodles using chopsticks, so used a peer	 peer	22.569027761522406	1
+The bird cannot fly because it injured its wing earlier.	The bird cannot fly because it injured its wing	 wing	1.132785087520615	1
+The bird cannot fly because it injured its ring earlier.	The bird cannot fly because it injured its ring	 ring	17.253448263610046	1
+The bird cannot fly because it injured its glide earlier.	The bird cannot fly because it injured its glide	 glide	19.904732892525864	1
+The bird cannot fly because it injured its frog earlier.	The bird cannot fly because it injured its frog	 frog	16.985898289630263	1
+Eliza worried about her breath, so she took an extra mint yesterday.	Eliza worried about her breath, so she took an extra mint	 mint	7.349966449347183	1
+Eliza worried about her breath, so she took an extra hint yesterday.	Eliza worried about her breath, so she took an extra hint	 hint	13.773862582982675	1
+Eliza worried about her breath, so she took an extra herb yesterday.	Eliza worried about her breath, so she took an extra herb	 herb	11.777977683659106	1
+Eliza worried about her breath, so she took an extra toll yesterday.	Eliza worried about her breath, so she took an extra toll	 toll	18.053550488972448	1
+Changing majors required students to fill out a twenty-page long form usually.	Changing majors required students to fill out a twenty-page long form	 form	0.9985033236661913	1
+Changing majors required students to fill out a twenty-page long norm usually.	Changing majors required students to fill out a twenty-page long norm	 norm	23.45409355540169	1
+Changing majors required students to fill out a twenty-page long example usually.	Changing majors required students to fill out a twenty-page long example	 example	21.124166391806327	1
+Changing majors required students to fill out a twenty-page long rival usually.	Changing majors required students to fill out a twenty-page long rival	 rival	28.2629267143173	1
+Violet left the dirty plates and cups in the sink today.	Violet left the dirty plates and cups in the sink	 sink	1.6606799198938582	1
+Violet left the dirty plates and cups in the link today.	Violet left the dirty plates and cups in the link	 link	19.411254373923615	1
+Violet left the dirty plates and cups in the towel today.	Violet left the dirty plates and cups in the towel	 towel	14.810110155155812	1
+Violet left the dirty plates and cups in the army today.	Violet left the dirty plates and cups in the army	 army	20.690964752455834	1
+To increase her hair volume, the woman wears a wig usually.	To increase her hair volume, the woman wears a wig	 wig	1.0260637530650059	1
+To increase her hair volume, the woman wears a pig usually.	To increase her hair volume, the woman wears a pig	 pig	13.544468962803332	1
+To increase her hair volume, the woman wears a comb usually.	To increase her hair volume, the woman wears a comb	 comb	5.722571548285626	1
+To increase her hair volume, the woman wears a pea usually.	To increase her hair volume, the woman wears a pea	 pea	20.846620134353213	2
+Eleanor covered the old ugly floor with a large rug completely.	Eleanor covered the old ugly floor with a large rug	 rug	0.6946068775267082	1
+Eleanor covered the old ugly floor with a large rum completely.	Eleanor covered the old ugly floor with a large rum	 rum	20.97332071762666	1
+Eleanor covered the old ugly floor with a large tie completely.	Eleanor covered the old ugly floor with a large tie	 tie	19.690286076499365	1
+Eleanor covered the old ugly floor with a large ham completely.	Eleanor covered the old ugly floor with a large ham	 ham	18.122877380118414	1
+The room with bad ventilation got a ceiling fan finally.	The room with bad ventilation got a ceiling fan	 fan	0.022525809242236	1
+The room with bad ventilation got a ceiling fat finally.	The room with bad ventilation got a ceiling fat	 fat	25.19000466282925	1
+The room with bad ventilation got a ceiling air finally.	The room with bad ventilation got a ceiling air	 air	18.38206727963637	1
+The room with bad ventilation got a ceiling kit finally.	The room with bad ventilation got a ceiling kit	 kit	17.557585184743253	1
+For a removal, Cameron packed the TV into its original box carefully.	For a removal, Cameron packed the TV into its original box	 box	1.6983688679075089	1
+For a removal, Cameron packed the TV into its original boa carefully.	For a removal, Cameron packed the TV into its original boa	 boa	26.411590352367742	2
+For a removal, Cameron packed the TV into its original lid carefully.	For a removal, Cameron packed the TV into its original lid	 lid	12.76908741148656	1
+For a removal, Cameron packed the TV into its original oil carefully.	For a removal, Cameron packed the TV into its original oil	 oil	15.946093999347307	1
+Selling drugs is against the law today.	Selling drugs is against the law	 law	0.022509213881759766	1
+Selling drugs is against the saw today.	Selling drugs is against the saw	 saw	29.850486834625663	1
+Selling drugs is against the jury today.	Selling drugs is against the jury	 jury	27.1394347965374	1
+Selling drugs is against the fee today.	Selling drugs is against the fee	 fee	23.1055747458194	1
+The waiter wasn't polite, so he didn't receive a good tip yesterday.	The waiter wasn't polite, so he didn't receive a good tip	 tip	1.8184112499521117	1
+The waiter wasn't polite, so he didn't receive a good lip yesterday.	The waiter wasn't polite, so he didn't receive a good lip	 lip	18.070034524019704	1
+The waiter wasn't polite, so he didn't receive a good thumb yesterday.	The waiter wasn't polite, so he didn't receive a good thumb	 thumb	20.44358212007886	1
+The waiter wasn't polite, so he didn't receive a good van yesterday.	The waiter wasn't polite, so he didn't receive a good van	 van	18.880972458475714	1
+For Christmas, the children are hanging bells on the tree happily.	For Christmas, the children are hanging bells on the tree	 tree	3.100865583237557	1
+For Christmas, the children are hanging bells on the treat happily.	For Christmas, the children are hanging bells on the treat	 treat	20.63924345137473	1
+For Christmas, the children are hanging bells on the squirrel happily.	For Christmas, the children are hanging bells on the squirrel	 squirrel	16.538082092374538	1
+For Christmas, the children are hanging bells on the inch happily.	For Christmas, the children are hanging bells on the inch	 inch	19.968979003030437	1
+To expand their market, the project team made a rough plan together.	To expand their market, the project team made a rough plan	 plan	3.4619368495361615	1
+To expand their market, the project team made a rough plank together.	To expand their market, the project team made a rough plank	 plank	17.82723740195802	1
+To expand their market, the project team made a rough future together.	To expand their market, the project team made a rough future	 future	16.92780948429375	1
+To expand their market, the project team made a rough rifle together.	To expand their market, the project team made a rough rifle	 rifle	17.89440139562327	1
+Because of the storm, the ocean has big waves now.	Because of the storm, the ocean has big waves	 waves	0.40593126843216354	1
+Because of the storm, the ocean has big caves now.	Because of the storm, the ocean has big caves	 caves	13.577028653711958	1
+Because of the storm, the ocean has big surfers now.	Because of the storm, the ocean has big surfers	 surfers	19.87294566325371	2
+Because of the storm, the ocean has big heads now.	Because of the storm, the ocean has big heads	 heads	14.022136130693232	1
+The sales staff forgot to attach the price tag again.	The sales staff forgot to attach the price tag	 tag	2.614536337490492	1
+The sales staff forgot to attach the price tug again.	The sales staff forgot to attach the price tug	 tug	26.364217790692887	1
+The sales staff forgot to attach the price name again.	The sales staff forgot to attach the price name	 name	14.359971797162158	1
+The sales staff forgot to attach the price eve again.	The sales staff forgot to attach the price eve	 eve	24.207791959827286	1
+To make a pancake easily, Julia used a pancake mix yesterday.	To make a pancake easily, Julia used a pancake mix	 mix	3.2575610315552286	1
+To make a pancake easily, Julia used a pancake fix yesterday.	To make a pancake easily, Julia used a pancake fix	 fix	16.365522933362445	1
+To make a pancake easily, Julia used a pancake digestion yesterday.	To make a pancake easily, Julia used a pancake digestion	 digestion	21.205841182295664	1
+To make a pancake easily, Julia used a pancake bid yesterday.	To make a pancake easily, Julia used a pancake bid	 bid	23.716463102036894	1
+The new variety show appointed the entertainer as a host yesterday.	The new variety show appointed the entertainer as a host	 host	2.010149747234085	1
+The new variety show appointed the entertainer as a post yesterday.	The new variety show appointed the entertainer as a post	 post	17.3643646793142	1
+The new variety show appointed the entertainer as a meeting yesterday.	The new variety show appointed the entertainer as a meeting	 meeting	22.4804934363396	1
+The new variety show appointed the entertainer as a drill yesterday.	The new variety show appointed the entertainer as a drill	 drill	24.204067764960076	1
+Nigel's son should inherit the estate according to his will naturally.	Nigel's son should inherit the estate according to his will	 will	0.38036008978184854	1
+Nigel's son should inherit the estate according to his pill naturally.	Nigel's son should inherit the estate according to his pill	 pill	22.562897027828427	1
+Nigel's son should inherit the estate according to his fact naturally.	Nigel's son should inherit the estate according to his fact	 fact	19.336662321854114	1
+Nigel's son should inherit the estate according to his site naturally.	Nigel's son should inherit the estate according to his site	 site	16.536498326668507	1
+It's expected to snow as it will get very cold tomorrow.	It's expected to snow as it will get very cold	 cold	0.1522208016883558	1
+It's expected to snow as it will get very old tomorrow.	It's expected to snow as it will get very old	 old	15.013024212873788	1
+It's expected to snow as it will get very hot tomorrow.	It's expected to snow as it will get very hot	 hot	9.093364970314394	1
+It's expected to snow as it will get very tall tomorrow.	It's expected to snow as it will get very tall	 tall	19.348082145959832	1
+The explorer in the desert hopes to ride the camel tomorrow.	The explorer in the desert hopes to ride the camel	 camel	7.136663100190795	1
+The explorer in the desert hopes to ride the caramel tomorrow.	The explorer in the desert hopes to ride the caramel	 caramel	22.28426764142218	1
+The explorer in the desert hopes to ride the oasis tomorrow.	The explorer in the desert hopes to ride the oasis	 oasis	20.489434156967796	2
+The explorer in the desert hopes to ride the user tomorrow.	The explorer in the desert hopes to ride the user	 user	20.155210444407917	1
+For the parade, the king's servants will refurbish the entire castle perfectly.	For the parade, the king's servants will refurbish the entire castle	 castle	5.752233978252009	1
+For the parade, the king's servants will refurbish the entire cattle perfectly.	For the parade, the king's servants will refurbish the entire cattle	 cattle	21.85558851928789	1
+For the parade, the king's servants will refurbish the entire lords perfectly.	For the parade, the king's servants will refurbish the entire lords	 lords	23.75612073087425	1
+For the parade, the king's servants will refurbish the entire depth perfectly.	For the parade, the king's servants will refurbish the entire depth	 depth	23.02459736055589	1
+Making traditional Indian curry requires using several types of spice together.	Making traditional Indian curry requires using several types of spice	 spice	5.6598734924976375	1
+Making traditional Indian curry requires using several types of space together.	Making traditional Indian curry requires using several types of space	 space	20.31379679633592	1
+Making traditional Indian curry requires using several types of orient together.	Making traditional Indian curry requires using several types of orient	 orient	30.012583656279443	1
+Making traditional Indian curry requires using several types of excess together.	Making traditional Indian curry requires using several types of excess	 excess	22.788635379478848	1
+To finish the cake, Scarlet spread the whipped cream generously.	To finish the cake, Scarlet spread the whipped cream	 cream	0.17865302691177565	1
+To finish the cake, Scarlet spread the whipped dream generously.	To finish the cake, Scarlet spread the whipped dream	 dream	24.62486137744303	1
+To finish the cake, Scarlet spread the whipped pizzas generously.	To finish the cake, Scarlet spread the whipped pizzas	 pizzas	30.455789883321998	2
+To finish the cake, Scarlet spread the whipped fibre generously.	To finish the cake, Scarlet spread the whipped fibre	 fibre	25.95765812328164	1
+Students learned how to convert kilometres to miles yesterday.	Students learned how to convert kilometres to miles	 miles	2.15379573087996	1
+Students learned how to convert kilometres to piles yesterday.	Students learned how to convert kilometres to piles	 piles	17.697169501076576	1
+Students learned how to convert kilometres to riders yesterday.	Students learned how to convert kilometres to riders	 riders	14.739155964631466	1
+Students learned how to convert kilometres to veins yesterday.	Students learned how to convert kilometres to veins	 veins	18.937629355128063	1
+To compress the air, the machine applies high pressure constantly.	To compress the air, the machine applies high pressure	 pressure	0.3732647326093303	1
+To compress the air, the machine applies high pleasure constantly.	To compress the air, the machine applies high pleasure	 pleasure	26.385962631379666	1
+To compress the air, the machine applies high relief constantly.	To compress the air, the machine applies high relief	 relief	17.439436258264422	1
+To compress the air, the machine applies high session constantly.	To compress the air, the machine applies high session	 session	26.78344891215203	1
+Before exchanging money, Rebecca asks the exchange rate usually.	Before exchanging money, Rebecca asks the exchange rate	 rate	5.216088146285159	1
+Before exchanging money, Rebecca asks the exchange fate usually.	Before exchanging money, Rebecca asks the exchange fate	 fate	19.083960198400202	1
+Before exchanging money, Rebecca asks the exchange pace usually.	Before exchanging money, Rebecca asks the exchange pace	 pace	20.080909183668584	1
+Before exchanging money, Rebecca asks the exchange exit usually.	Before exchanging money, Rebecca asks the exchange exit	 exit	20.364479699006246	1
+Lydia cannot eat anymore as she is so full now.	Lydia cannot eat anymore as she is so full	 full	5.620930123248633	1
+Lydia cannot eat anymore as she is so dull now.	Lydia cannot eat anymore as she is so dull	 dull	15.010093286162187	1
+Lydia cannot eat anymore as she is so half now.	Lydia cannot eat anymore as she is so half	 half	16.68237540704422	1
+Lydia cannot eat anymore as she is so mild now.	Lydia cannot eat anymore as she is so mild	 mild	18.353650483980005	1
+Dogs have a good sense of smell naturally.	Dogs have a good sense of smell	 smell	0.4224800078319037	1
+Dogs have a good sense of shell naturally.	Dogs have a good sense of shell	 shell	24.87655283025083	1
+Dogs have a good sense of nose naturally.	Dogs have a good sense of nose	 nose	15.181629345831348	1
+Dogs have a good sense of cash naturally.	Dogs have a good sense of cash	 cash	20.940142319479232	1
+Laura will eat the ice cream quickly before it melts down.	Laura will eat the ice cream quickly before it melts	 melts	2.2553504947777903	1
+Laura will eat the ice cream quickly before it meets down.	Laura will eat the ice cream quickly before it meets	 meets	14.185272428904872	1
+Laura will eat the ice cream quickly before it boils down.	Laura will eat the ice cream quickly before it boils	 boils	10.925092220193616	1
+Laura will eat the ice cream quickly before it opens down.	Laura will eat the ice cream quickly before it opens	 opens	10.88776223069873	1
+After the main course, Sara checked the dessert menu excitedly.	After the main course, Sara checked the dessert menu	 menu	6.2513433997436785	1
+After the main course, Sara checked the dessert venue excitedly.	After the main course, Sara checked the dessert venue	 venue	17.479510081072387	1
+After the main course, Sara checked the dessert chef excitedly.	After the main course, Sara checked the dessert chef	 chef	15.40593856020621	1
+After the main course, Sara checked the dessert bond excitedly.	After the main course, Sara checked the dessert bond	 bond	20.953086336878503	1
+Andrew was late because his train had a delay again.	Andrew was late because his train had a delay	 delay	2.731344499797861	1
+Andrew was late because his train had a decay again.	Andrew was late because his train had a decay	 decay	21.431450167805686	1
+Andrew was late because his train had a time again.	Andrew was late because his train had a time	 time	16.221036273468	1
+Andrew was late because his train had a tone again.	Andrew was late because his train had a tone	 tone	23.71837922463916	1
+The bomb expert pinpointed a switch to make the bomb explode finally.	The bomb expert pinpointed a switch to make the bomb explode	 explode	0.9658789440625409	1
+The bomb expert pinpointed a switch to make the bomb explore finally.	The bomb expert pinpointed a switch to make the bomb explore	 explore	22.51513446139159	1
+The bomb expert pinpointed a switch to make the bomb pour finally.	The bomb expert pinpointed a switch to make the bomb pour	 pour	15.239541957807358	1
+The bomb expert pinpointed a switch to make the bomb stretch finally.	The bomb expert pinpointed a switch to make the bomb stretch	 stretch	16.315784623495908	1
+Immigration exposed Lisa to a different culture naturally.	Immigration exposed Lisa to a different culture	 culture	3.0902473352772843	1
+Immigration exposed Lisa to a different vulture naturally.	Immigration exposed Lisa to a different vulture	 vulture	27.685073050097287	2
+Immigration exposed Lisa to a different sociology naturally.	Immigration exposed Lisa to a different sociology	 sociology	17.11602405388988	1
+Immigration exposed Lisa to a different ginger naturally.	Immigration exposed Lisa to a different ginger	 ginger	22.66955574352315	1
+The bridge was washed away by the flood yesterday.	The bridge was washed away by the flood	 flood	3.024544966970058	1
+The bridge was washed away by the blood yesterday.	The bridge was washed away by the blood	 blood	17.67483634601151	1
+The bridge was washed away by the soil yesterday.	The bridge was washed away by the soil	 soil	15.604209108989538	1
+The bridge was washed away by the glove yesterday.	The bridge was washed away by the glove	 glove	29.303103237866473	1
+The story was far from logical and didn't make any sense completely.	The story was far from logical and didn't make any sense	 sense	0.006127752367550742	1
+The story was far from logical and didn't make any fence completely.	The story was far from logical and didn't make any fence	 fence	30.276934474775487	1
+The story was far from logical and didn't make any taste completely.	The story was far from logical and didn't make any taste	 taste	23.09745403005908	1
+The story was far from logical and didn't make any button completely.	The story was far from logical and didn't make any button	 button	27.689974325678246	1
+Having no ink or paper, the office workers couldn't print anything.	Having no ink or paper, the office workers couldn't print	 print	3.039547960787337	1
+Having no ink or paper, the office workers couldn't point anything.	Having no ink or paper, the office workers couldn't point	 point	13.42704123956521	1
+Having no ink or paper, the office workers couldn't erase anything.	Having no ink or paper, the office workers couldn't erase	 erase	9.326402468968027	1
+Having no ink or paper, the office workers couldn't move anything.	Having no ink or paper, the office workers couldn't move	 move	7.709281383086412	1
+In the tennis lesson, Lauren hit the ball with her racket well.	In the tennis lesson, Lauren hit the ball with her racket	 racket	6.087826060583406	1
+In the tennis lesson, Lauren hit the ball with her rocket well.	In the tennis lesson, Lauren hit the ball with her rocket	 rocket	13.868552451748378	1
+In the tennis lesson, Lauren hit the ball with her game well.	In the tennis lesson, Lauren hit the ball with her game	 game	11.791436682025987	1
+In the tennis lesson, Lauren hit the ball with her area well.	In the tennis lesson, Lauren hit the ball with her area	 area	17.550698053645732	1
+Joe has grown his moustache, but will give it a shave tomorrow.	Joe has grown his moustache, but will give it a shave	 shave	4.445649455454872	1
+Joe has grown his moustache, but will give it a share tomorrow.	Joe has grown his moustache, but will give it a share	 share	18.930451896099864	1
+Joe has grown his moustache, but will give it a hair tomorrow.	Joe has grown his moustache, but will give it a hair	 hair	13.122281320704936	1
+Joe has grown his moustache, but will give it a turtle tomorrow.	Joe has grown his moustache, but will give it a turtle	 turtle	17.11768878122498	1
+It's so itchy that Chris can't help scratching the mosquito bite constantly.	It's so itchy that Chris can't help scratching the mosquito bite	 bite	4.369878548269102	1
+It's so itchy that Chris can't help scratching the mosquito bike constantly.	It's so itchy that Chris can't help scratching the mosquito bike	 bike	19.742750001804705	1
+It's so itchy that Chris can't help scratching the mosquito chew constantly.	It's so itchy that Chris can't help scratching the mosquito chew	 chew	19.465414988749497	1
+It's so itchy that Chris can't help scratching the mosquito tape constantly.	It's so itchy that Chris can't help scratching the mosquito tape	 tape	13.510032759812779	1

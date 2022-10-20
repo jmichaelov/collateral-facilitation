@@ -1,0 +1,641 @@
+Frame	Condition	FullSentence	TargetWord
+Frame0	pred	You could tell he had grown up in the South by his accent and clothes.	accent
+Frame0	orth	You could tell he had grown up in the South by his accept and clothes.	accept
+Frame0	sem	You could tell he had grown up in the South by his foreigner and clothes.	foreigner
+Frame0	unrel	You could tell he had grown up in the South by his quarter and clothes.	quarter
+Frame2	pred	Josie found she could not bend the elbow of her broken arm very far.	arm
+Frame2	orth	Josie found she could not bend the elbow of her broken art very far.	art
+Frame2	sem	Josie found she could not bend the elbow of her broken tone very far.	tone
+Frame2	unrel	Josie found she could not bend the elbow of her broken lunch very far.	lunch
+Frame3	pred	The lumberjack chopped the wood with his ax after sorting it.	ax
+Frame3	orth	The lumberjack chopped the wood with his ox after sorting it.	ox
+Frame3	sem	The lumberjack chopped the wood with his blood after sorting it.	blood
+Frame3	unrel	The lumberjack chopped the wood with his appointment after sorting it.	appointment
+Frame4	pred	Vicki was packing for a day at the beach with some friends.	beach
+Frame4	orth	Vicki was packing for a day at the belch with some friends.	belch
+Frame4	sem	Vicki was packing for a day at the blanket with some friends.	blanket
+Frame4	unrel	Vicki was packing for a day at the prune with some friends.	prune
+Frame5	pred	The lifeguards patrolled a stretch of the beach before dusk.	beach
+Frame5	orth	The lifeguards patrolled a stretch of the peach before dusk.	peach
+Frame5	sem	The lifeguards patrolled a stretch of the bum before dusk.	bum
+Frame5	unrel	The lifeguards patrolled a stretch of the fortune before dusk.	fortune
+Frame6	pred	After weeks backpacking, Victor was ready for a good night's sleep in a comfortable bed with a pillow.	bed
+Frame6	orth	After weeks backpacking, Victor was ready for a good night's sleep in a comfortable red with a pillow.	red
+Frame6	sem	After weeks backpacking, Victor was ready for a good night's sleep in a comfortable spring with a pillow.	spring
+Frame6	unrel	After weeks backpacking, Victor was ready for a good night's sleep in a comfortable brain with a pillow.	brain
+Frame8	pred	You never forget how to ride a bike once you have learned.	bike
+Frame8	orth	You never forget how to ride a like once you have learned.	like
+Frame8	sem	You never forget how to ride a gear once you have learned.	gear
+Frame8	unrel	You never forget how to ride a link once you have learned.	link
+Frame9	pred	The cut in his finger was so deep you could see the bone through the tissue.	bone
+Frame9	orth	The cut in his finger was so deep you could see the none through the tissue.	none
+Frame9	sem	The cut in his finger was so deep you could see the skull through the tissue.	skull
+Frame9	unrel	The cut in his finger was so deep you could see the grade through the tissue.	grade
+Frame11	pred	He is planning on quitting his job because he can't stand his condescending boss at all.	boss
+Frame11	orth	He is planning on quitting his job because he can't stand his condescending moss at all.	moss
+Frame11	sem	He is planning on quitting his job because he can't stand his condescending promotion at all.	promotion
+Frame11	unrel	He is planning on quitting his job because he can't stand his condescending curtain at all.	curtain
+Frame13	pred	The waiter ladled some soup into the bowl for us.	bowl
+Frame13	orth	The waiter ladled some soup into the howl for us.	howl
+Frame13	sem	The waiter ladled some soup into the wood for us.	wood
+Frame13	unrel	The waiter ladled some soup into the day for us.	day
+Frame14	pred	The matador waved his cape at the bull with zeal.	bull
+Frame14	orth	The matador waved his cape at the pull with zeal.	pull
+Frame14	sem	The matador waved his cape at the frog with zeal.	frog
+Frame14	unrel	The matador waved his cape at the height with zeal.	height
+Frame15	pred	The grade-schoolers rode to school on the bus every day.	bus
+Frame15	orth	The grade-schoolers rode to school on the bun every day.	bun
+Frame15	sem	The grade-schoolers rode to school on the station every day.	station
+Frame15	unrel	The grade-schoolers rode to school on the lotion every day.	lotion
+Frame17	pred	When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour bus he was on.	bus
+Frame17	orth	When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour buy he was on.	buy
+Frame17	sem	When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour fare he was on.	fare
+Frame17	unrel	When they came to Florida, Arthur couldn't see the swamp from the back of the crowded tour graph he was on.	graph
+Frame19	pred	For his second birthday, Leonard got a stuffed sheep and his mother baked him a big chocolate cake with frosting.	cake
+Frame19	orth	For his second birthday, Leonard got a stuffed sheep and his mother baked him a big chocolate cage with frosting.	cage
+Frame19	sem	For his second birthday, Leonard got a stuffed sheep and his mother baked him a big chocolate mix with frosting.	mix
+Frame19	unrel	For his second birthday, Leonard got a stuffed sheep and his mother baked him a big chocolate wig with frosting.	wig
+Frame21	pred	The commuter drove to work in her car after breakfast.	car
+Frame21	orth	The commuter drove to work in her can after breakfast.	can
+Frame21	sem	The commuter drove to work in her brakes after breakfast.	brakes
+Frame21	unrel	The commuter drove to work in her poetry after breakfast.	poetry
+Frame22	pred	He stalled in the middle of the intersection and had to get out and push the car one block.	car
+Frame22	orth	He stalled in the middle of the intersection and had to get out and push the jar one block.	jar
+Frame22	sem	He stalled in the middle of the intersection and had to get out and push the license one block.	license
+Frame22	unrel	He stalled in the middle of the intersection and had to get out and push the refrain one block.	refrain
+Frame23	pred	Alfonso has started biking to work instead of driving his car each way.	car
+Frame23	orth	Alfonso has started biking to work instead of driving his caw each way.	caw
+Frame23	sem	Alfonso has started biking to work instead of driving his bumper each way.	bumper
+Frame23	unrel	Alfonso has started biking to work instead of driving his picture each way.	picture
+Frame25	pred	For the snowman’s eyes the children used two pieces of coal, and for its nose they used a carrot and some olives.	carrot
+Frame25	orth	For the snowman’s eyes the children used two pieces of coal, and for its nose they used a parrot and some olives.	parrot
+Frame25	sem	For the snowman’s eyes the children used two pieces of coal, and for its nose they used a salad and some olives.	salad
+Frame25	unrel	For the snowman’s eyes the children used two pieces of coal, and for its nose they used a tornado and some olives.	tornado
+Frame27	pred	Lillian explained how she thought dogs were so much friendlier than cats or birds.	cats
+Frame27	orth	Lillian explained how she thought dogs were so much friendlier than hats or birds.	hats
+Frame27	sem	Lillian explained how she thought dogs were so much friendlier than litter or birds.	litter
+Frame27	unrel	Lillian explained how she thought dogs were so much friendlier than equipment or birds.	equipment
+Frame28	pred	The bear hibernated for winter in its cave without food.	cave
+Frame28	orth	The bear hibernated for winter in its came without food.	came
+Frame28	sem	The bear hibernated for winter in its bat without food.	bat
+Frame28	unrel	The bear hibernated for winter in its bun without food.	bun
+Frame29	pred	His office was stacked with books from floor to ceiling every semester.	ceiling
+Frame29	orth	His office was stacked with books from floor to coiling every semester.	coiling
+Frame29	sem	His office was stacked with books from floor to plaster every semester.	plaster
+Frame29	unrel	His office was stacked with books from floor to laughter every semester.	laughter
+Frame30	pred	Most bus drivers will accept only correct change from passengers.	change
+Frame30	orth	Most bus drivers will accept only correct chance from passengers.	chance
+Frame30	sem	Most bus drivers will accept only correct pockets from passengers.	pockets
+Frame30	unrel	Most bus drivers will accept only correct knees from passengers.	knees
+Frame31	pred	The crowd was uncontrollable, and it was utter chaos amidst the rioters.	chaos
+Frame31	orth	The crowd was uncontrollable, and it was utter chaps amidst the rioters.	chaps
+Frame31	sem	The crowd was uncontrollable, and it was utter order amidst the rioters.	order
+Frame31	unrel	The crowd was uncontrollable, and it was utter boards amidst the rioters.	boards
+Frame32	pred	The bakery did not accept credit cards so Peter would have to write a check or use cash.	check
+Frame32	orth	The bakery did not accept credit cards so Peter would have to write a chuck or use cash.	chuck
+Frame32	sem	The bakery did not accept credit cards so Peter would have to write a mate or use cash.	mate
+Frame32	unrel	The bakery did not accept credit cards so Peter would have to write a residue or use cash.	residue
+Frame34	pred	The potter sculpted an ashtray out of clay and sand.	clay
+Frame34	orth	The potter sculpted an ashtray out of clap and sand.	clap
+Frame34	sem	The potter sculpted an ashtray out of art and sand.	art
+Frame34	unrel	The potter sculpted an ashtray out of rumble and sand.	rumble
+Frame35	pred	They wanted to drill for oil just off the California coast and into Oregon.	coast
+Frame35	orth	They wanted to drill for oil just off the California roast and into Oregon.	roast
+Frame35	sem	They wanted to drill for oil just off the California anchor and into Oregon.	anchor
+Frame35	unrel	They wanted to drill for oil just off the California witch and into Oregon.	witch
+Frame36	pred	As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter coat until autumn.	coat
+Frame36	orth	As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter boat until autumn.	boat
+Frame36	sem	As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter rack until autumn.	rack
+Frame36	unrel	As the weather got warmer, Mark started wearing his lighter jacket instead of his heavy winter disease until autumn.	disease
+Frame37	pred	Within minutes of arriving at the office, the detective spilled his thermos full of coffee on himself.	coffee
+Frame37	orth	Within minutes of arriving at the office, the detective spilled his thermos full of toffee on himself.	toffee
+Frame37	sem	Within minutes of arriving at the office, the detective spilled his thermos full of mornings on himself.	mornings
+Frame37	unrel	Within minutes of arriving at the office, the detective spilled his thermos full of safety on himself.	safety
+Frame38	pred	The barber parted my hair with a comb before beginning cutting.	comb
+Frame38	orth	The barber parted my hair with a bomb before beginning cutting.	bomb
+Frame38	sem	The barber parted my hair with a tangle before beginning cutting.	tangle
+Frame38	unrel	The barber parted my hair with a route before beginning cutting.	route
+Frame39	pred	In the U.S. the five cent piece is made of nickel while pennies are mainly made of copper these days.	copper
+Frame39	orth	In the U.S. the five cent piece is made of nickel while pennies are mainly made of hopper these days.	hopper
+Frame39	sem	In the U.S. the five cent piece is made of nickel while pennies are mainly made of wire these days.	wire
+Frame39	unrel	In the U.S. the five cent piece is made of nickel while pennies are mainly made of menus these days.	menus
+Frame40	pred	Her parents were afraid she had joined some sort of strange cult while at college.	cult
+Frame40	orth	Her parents were afraid she had joined some sort of strange colt while at college.	colt
+Frame40	sem	Her parents were afraid she had joined some sort of strange robe while at college.	robe
+Frame40	unrel	Her parents were afraid she had joined some sort of strange highway while at college.	highway
+Frame42	pred	The teenager attended her prom without a date this year.	date
+Frame42	orth	The teenager attended her prom without a gate this year.	gate
+Frame42	sem	The teenager attended her prom without a time this year.	time
+Frame42	unrel	The teenager attended her prom without a majority this year.	majority
+Frame44	pred	When someone suffers a heart attack a few minutes can make the difference between recovery and death they say.	death
+Frame44	orth	When someone suffers a heart attack a few minutes can make the difference between recovery and depth they say.	depth
+Frame44	sem	When someone suffers a heart attack a few minutes can make the difference between recovery and certificates they say.	certificates
+Frame44	unrel	When someone suffers a heart attack a few minutes can make the difference between recovery and ear they say.	ear
+Frame45	pred	After missing lunch, he couldn't wait until it was time for dinner to eat something.	dinner
+Frame45	orth	After missing lunch, he couldn't wait until it was time for sinner to eat something.	sinner
+Frame45	sem	After missing lunch, he couldn't wait until it was time for napkins to eat something.	napkins
+Frame45	unrel	After missing lunch, he couldn't wait until it was time for material to eat something.	material
+Frame47	pred	The little puppy grew up to be a huge dog with big ears.	dog
+Frame47	orth	The little puppy grew up to be a huge dot with big ears.	dot
+Frame47	sem	The little puppy grew up to be a huge collar with big ears.	collar
+Frame47	unrel	The little puppy grew up to be a huge harp with big ears.	harp
+Frame48	pred	At night the old woman locked the door before bedtime.	door
+Frame48	orth	At night the old woman locked the poor before bedtime.	poor
+Frame48	sem	At night the old woman locked the mat before bedtime.	mat
+Frame48	unrel	At night the old woman locked the mountain before bedtime.	mountain
+Frame49	pred	Maria remembered to shut the front window and lock the back door before leaving.	door
+Frame49	orth	Maria remembered to shut the front window and lock the back doom before leaving.	doom
+Frame49	sem	Maria remembered to shut the front window and lock the back jamb before leaving.	jamb
+Frame49	unrel	Maria remembered to shut the front window and lock the back gin before leaving.	gin
+Frame50	pred	The mean boy on the other team was his sworn enemy since kindergarten.	enemy
+Frame50	orth	The mean boy on the other team was his sworn enema since kindergarten.	enema
+Frame50	sem	The mean boy on the other team was his sworn hate since kindergarten.	hate
+Frame50	unrel	The mean boy on the other team was his sworn shrub since kindergarten.	shrub
+Frame51	pred	The dog terrorized all the neighborhood cats after he jumped the picket fence and growled.	fence
+Frame51	orth	The dog terrorized all the neighborhood cats after he jumped the picket hence and growled.	hence
+Frame51	sem	The dog terrorized all the neighborhood cats after he jumped the picket guard and growled.	guard
+Frame51	unrel	The dog terrorized all the neighborhood cats after he jumped the picket echo and growled.	echo
+Frame52	pred	The goaltender kicked the ball down the field ten yards.	field
+Frame52	orth	The goaltender kicked the ball down the yield ten yards.	yield
+Frame52	sem	The goaltender kicked the ball down the hay ten yards.	hay
+Frame52	unrel	The goaltender kicked the ball down the tune ten yards.	tune
+Frame53	pred	The groom took the bride's hand and placed the ring on her finger very carefully.	finger
+Frame53	orth	The groom took the bride's hand and placed the ring on her ginger very carefully.	ginger
+Frame53	sem	The groom took the bride's hand and placed the ring on her grip very carefully.	grip
+Frame53	unrel	The groom took the bride's hand and placed the ring on her function very carefully.	function
+Frame54	pred	Harris saw smoke billowing out of his neighbors’ home and immediately got on the phone to report a fire to the authorities.	fire
+Frame54	orth	Harris saw smoke billowing out of his neighbors’ home and immediately got on the phone to report a firm to the authorities.	firm
+Frame54	sem	Harris saw smoke billowing out of his neighbors’ home and immediately got on the phone to report a hose to the authorities.	hose
+Frame54	unrel	Harris saw smoke billowing out of his neighbors’ home and immediately got on the phone to report a niece to the authorities.	niece
+Frame56	pred	Marge hated baiting the hook, but she knew that it was the only way to catch a fish without lures.	fish
+Frame56	orth	Marge hated baiting the hook, but she knew that it was the only way to catch a wish without lures.	wish
+Frame56	sem	Marge hated baiting the hook, but she knew that it was the only way to catch a scale without lures.	scale
+Frame56	unrel	Marge hated baiting the hook, but she knew that it was the only way to catch a hurricane without lures.	hurricane
+Frame57	pred	While Natasha was strolling through the colorful gardens, she reached down and picked a flower for Mom.	flower
+Frame57	orth	While Natasha was strolling through the colorful gardens, she reached down and picked a slower for Mom.	slower
+Frame57	sem	While Natasha was strolling through the colorful gardens, she reached down and picked a fragrance for Mom.	fragrance
+Frame57	unrel	While Natasha was strolling through the colorful gardens, she reached down and picked a profile for Mom.	profile
+Frame58	pred	The ship disappeared into the thick fog at dusk.	fog
+Frame58	orth	The ship disappeared into the thick dog at dusk.	dog
+Frame58	sem	The ship disappeared into the thick visibility at dusk.	visibility
+Frame58	unrel	The ship disappeared into the thick punishment at dusk.	punishment
+Frame59	pred	After realizing he forgot utensils for his salad, the doctor went back to get himself a fork and knife.	fork
+Frame59	orth	After realizing he forgot utensils for his salad, the doctor went back to get himself a cork and knife.	cork
+Frame59	sem	After realizing he forgot utensils for his salad, the doctor went back to get himself a tine and knife.	tine
+Frame59	unrel	After realizing he forgot utensils for his salad, the doctor went back to get himself a friendship and knife.	friendship
+Frame61	pred	Frank invited the lonely young soldier to a baseball game after work.	game
+Frame61	orth	Frank invited the lonely young soldier to a baseball name after work.	name
+Frame61	sem	Frank invited the lonely young soldier to a baseball referee after work.	referee
+Frame61	unrel	Frank invited the lonely young soldier to a baseball walnut after work.	walnut
+Frame62	pred	Irene wanted to drive all the way to the Eastern shore by last night but her truck ran out of gas at midnight.	gas
+Frame62	orth	Irene wanted to drive all the way to the Eastern shore by last night but her truck ran out of was at midnight.	was
+Frame62	sem	Irene wanted to drive all the way to the Eastern shore by last night but her truck ran out of leaks at midnight.	leaks
+Frame62	unrel	Irene wanted to drive all the way to the Eastern shore by last night but her truck ran out of clown at midnight.	clown
+Frame64	pred	After the hurricane, the area around the window was filled with broken glass and debris.	glass
+Frame64	orth	After the hurricane, the area around the window was filled with broken class and debris.	class
+Frame64	sem	After the hurricane, the area around the window was filled with broken drinks and debris.	drinks
+Frame64	unrel	After the hurricane, the area around the window was filled with broken honey and debris.	honey
+Frame65	pred	Brad wasn't wearing shoes and stepped on a piece of broken glass and bled.	glass
+Frame65	orth	Brad wasn't wearing shoes and stepped on a piece of broken gloss and bled.	gloss
+Frame65	sem	Brad wasn't wearing shoes and stepped on a piece of broken view and bled.	view
+Frame65	unrel	Brad wasn't wearing shoes and stepped on a piece of broken job and bled.	job
+Frame67	pred	Nicole could not read very well without her glasses at school.	glasses
+Frame67	orth	Nicole could not read very well without her classes at school.	classes
+Frame67	sem	Nicole could not read very well without her nerd at school.	nerd
+Frame67	unrel	Nicole could not read very well without her cereal at school.	cereal
+Frame68	pred	He tried to put the pieces of the broken plate back together with glue and pressure.	glue
+Frame68	orth	He tried to put the pieces of the broken plate back together with blue and pressure.	blue
+Frame68	sem	He tried to put the pieces of the broken plate back together with paper and pressure.	paper
+Frame68	unrel	He tried to put the pieces of the broken plate back together with pasture and pressure.	pasture
+Frame69	pred	The Spanish conquerors searched the temple for silver and gold from Incas.	gold
+Frame69	orth	The Spanish conquerors searched the temple for silver and golf from Incas.	golf
+Frame69	sem	The Spanish conquerors searched the temple for silver and chain from Incas.	chain
+Frame69	unrel	The Spanish conquerors searched the temple for silver and meeting from Incas.	meeting
+Frame71	pred	The men barbequed some burgers on the grill with onions.	grill
+Frame71	orth	The men barbequed some burgers on the drill with onions.	drill
+Frame71	sem	The men barbequed some burgers on the dad with onions.	dad
+Frame71	unrel	The men barbequed some burgers on the uncle with onions.	uncle
+Frame73	pred	The bride vowed her love to the groom for life.	groom
+Frame73	orth	The bride vowed her love to the broom for life.	broom
+Frame73	sem	The bride vowed her love to the tuxedo for life.	tuxedo
+Frame73	unrel	The bride vowed her love to the lantern for life.	lantern
+Frame74	pred	The fire broke out in the middle of the night and the house burnt to the ground and smoldered.	ground
+Frame74	orth	The fire broke out in the middle of the night and the house burnt to the around and smoldered.	around
+Frame74	sem	The fire broke out in the middle of the night and the house burnt to the worms and smoldered.	worms
+Frame74	unrel	The fire broke out in the middle of the night and the house burnt to the drum and smoldered.	drum
+Frame75	pred	During the first week after he quit smoking, he found it helpful to chew gum when bored.	gum
+Frame75	orth	During the first week after he quit smoking, he found it helpful to chew bum when bored.	bum
+Frame75	sem	During the first week after he quit smoking, he found it helpful to chew saliva when bored.	saliva
+Frame75	unrel	During the first week after he quit smoking, he found it helpful to chew stadium when bored.	stadium
+Frame76	pred	The cop shot the assailant with his gun without thinking.	gun
+Frame76	orth	The cop shot the assailant with his fun without thinking.	fun
+Frame76	sem	The cop shot the assailant with his target without thinking.	target
+Frame76	unrel	The cop shot the assailant with his growth without thinking.	growth
+Frame77	pred	He pounded in the nails with a hammer from his toolbox.	hammer
+Frame77	orth	He pounded in the nails with a hamper from his toolbox.	hamper
+Frame77	sem	He pounded in the nails with a tack from his toolbox.	tack
+Frame77	unrel	He pounded in the nails with a summer from his toolbox.	summer
+Frame79	pred	When the two met, one of them held out his hand and smiled.	hand
+Frame79	orth	When the two met, one of them held out his land and smiled.	land
+Frame79	sem	When the two met, one of them held out his touch and smiled.	touch
+Frame79	unrel	When the two met, one of them held out his gang and smiled.	gang
+Frame80	pred	The magician pulled a rabbit from his hat at last.	hat
+Frame80	orth	The magician pulled a rabbit from his oat at last.	oat
+Frame80	sem	The magician pulled a rabbit from his feather at last.	feather
+Frame80	unrel	The magician pulled a rabbit from his protest at last.	protest
+Frame81	pred	The cardiologist performed an operation on my heart this morning.	heart
+Frame81	orth	The cardiologist performed an operation on my heard this morning.	heard
+Frame81	sem	The cardiologist performed an operation on my beat this morning.	beat
+Frame81	unrel	The cardiologist performed an operation on my weather this morning.	weather
+Frame83	pred	Due to its rough terrain, stranded hikers on the mountain often send flares to call for help from afar.	help
+Frame83	orth	Due to its rough terrain, stranded hikers on the mountain often send flares to call for heap from afar.	heap
+Frame83	sem	Due to its rough terrain, stranded hikers on the mountain often send flares to call for harm from afar.	harm
+Frame83	unrel	Due to its rough terrain, stranded hikers on the mountain often send flares to call for expansion from afar.	expansion
+Frame84	pred	Many youngsters find it difficult to go away from home for camp.	home
+Frame84	orth	Many youngsters find it difficult to go away from hole for camp.	hole
+Frame84	sem	Many youngsters find it difficult to go away from comfort for camp.	comfort
+Frame84	unrel	Many youngsters find it difficult to go away from honeymoon for camp.	honeymoon
+Frame85	pred	The equestrian positioned the saddle on the horse and set out.	horse
+Frame85	orth	The equestrian positioned the saddle on the worse and set out.	worse
+Frame85	sem	The equestrian positioned the saddle on the neigh and set out.	neigh
+Frame85	unrel	The equestrian positioned the saddle on the episode and set out.	episode
+Frame86	pred	Tom's cat brought a lot of fleas into his house and shed a lot of fur.	house
+Frame86	orth	Tom's cat brought a lot of fleas into his horse and shed a lot of fur.	horse
+Frame86	sem	Tom's cat brought a lot of fleas into his mortgage and shed a lot of fur.	mortgage
+Frame86	unrel	Tom's cat brought a lot of fleas into his matter and shed a lot of fur.	matter
+Frame88	pred	The bartender chilled the champagne over some ice before dinner.	ice
+Frame88	orth	The bartender chilled the champagne over some mice before dinner.	mice
+Frame88	sem	The bartender chilled the champagne over some hockey before dinner.	hockey
+Frame88	unrel	The bartender chilled the champagne over some tricks before dinner.	tricks
+Frame89	pred	The comedian broke the ice with a joke and some props.	joke
+Frame89	orth	The comedian broke the ice with a woke and some props.	woke
+Frame89	sem	The comedian broke the ice with a wit and some props.	wit
+Frame89	unrel	The comedian broke the ice with a native and some props.	native
+Frame90	pred	You can't open the door with the wrong key or combination.	key
+Frame90	orth	You can't open the door with the wrong hey or combination.	hey
+Frame90	sem	You can't open the door with the wrong jingle or combination.	jingle
+Frame90	unrel	You can't open the door with the wrong stew or combination.	stew
+Frame91	pred	The head of a monarchy, and husband to the queen, is the king and ruler.	king
+Frame91	orth	The head of a monarchy, and husband to the queen, is the kind and ruler.	kind
+Frame91	sem	The head of a monarchy, and husband to the queen, is the chess and ruler.	chess
+Frame91	unrel	The head of a monarchy, and husband to the queen, is the sofa and ruler.	sofa
+Frame92	pred	The day was breezy so the boy went outside to fly a kite with some friends.	kite
+Frame92	orth	The day was breezy so the boy went outside to fly a bite with some friends.	bite
+Frame92	sem	The day was breezy so the boy went outside to fly a tail with some friends.	tail
+Frame92	unrel	The day was breezy so the boy went outside to fly a harvest with some friends.	harvest
+Frame94	pred	You can't turn left at that intersection because it is against the law in our town.	law
+Frame94	orth	You can't turn left at that intersection because it is against the jaw in our town.	jaw
+Frame94	sem	You can't turn left at that intersection because it is against the justice in our town.	justice
+Frame94	unrel	You can't turn left at that intersection because it is against the orange in our town.	orange
+Frame95	pred	The mechanic said radar guns should be against the law in this country.	law
+Frame95	orth	The mechanic said radar guns should be against the lap in this country.	lap
+Frame95	sem	The mechanic said radar guns should be against the enforcement in this country.	enforcement
+Frame95	unrel	The mechanic said radar guns should be against the bargain in this country.	bargain
+Frame96	pred	Anthony tore some cartilage in his knee and got a big cast around his whole leg for several months.	leg
+Frame96	orth	Anthony tore some cartilage in his knee and got a big cast around his whole let for several months.	let
+Frame96	sem	Anthony tore some cartilage in his knee and got a big cast around his whole drumstick for several months.	drumstick
+Frame96	unrel	Anthony tore some cartilage in his knee and got a big cast around his whole antenna for several months.	antenna
+Frame98	pred	Angela knew she couldn't use the camera with the shattered lens to take pictures.	lens
+Frame98	orth	Angela knew she couldn't use the camera with the shattered lent to take pictures.	lent
+Frame98	sem	Angela knew she couldn't use the camera with the shattered eye to take pictures.	eye
+Frame98	unrel	Angela knew she couldn't use the camera with the shattered princess to take pictures.	princess
+Frame99	pred	When you go to bed turn off the lights before sleeping.	lights
+Frame99	orth	When you go to bed turn off the fights before sleeping.	fights
+Frame99	sem	When you go to bed turn off the darkness before sleeping.	darkness
+Frame99	unrel	When you go to bed turn off the robbery before sleeping.	robbery
+Frame100	pred	I added my name to the list at work.	list
+Frame100	orth	I added my name to the fist at work.	fist
+Frame100	sem	I added my name to the shopping at work.	shopping
+Frame100	unrel	I added my name to the peach at work.	peach
+Frame101	pred	The cyclist secured her bike with a lock before leaving.	lock
+Frame101	orth	The cyclist secured her bike with a sock before leaving.	sock
+Frame101	sem	The cyclist secured her bike with a jail before leaving.	jail
+Frame101	unrel	The cyclist secured her bike with a nature before leaving.	nature
+Frame102	pred	He shouted at the top of his lungs to everyone.	lungs
+Frame102	orth	He shouted at the top of his rungs to everyone.	rungs
+Frame102	sem	He shouted at the top of his air to everyone.	air
+Frame102	unrel	He shouted at the top of his decoration to everyone.	decoration
+Frame103	pred	There were no real letters, only catalogs and a lot of junk mail this time.	mail
+Frame103	orth	There were no real letters, only catalogs and a lot of junk fail this time.	fail
+Frame103	sem	There were no real letters, only catalogs and a lot of junk fraud this time.	fraud
+Frame103	unrel	There were no real letters, only catalogs and a lot of junk island this time.	island
+Frame104	pred	The traveler located the sites on the map with help.	map
+Frame104	orth	The traveler located the sites on the may with help.	may
+Frame104	sem	The traveler located the sites on the direction with help.	direction
+Frame104	unrel	The traveler located the sites on the pain with help.	pain
+Frame105	pred	To help everyone find her house, Lilly drew a map for them.	map
+Frame105	orth	To help everyone find her house, Lilly drew a gap for them.	gap
+Frame105	sem	To help everyone find her house, Lilly drew a world for them.	world
+Frame105	unrel	To help everyone find her house, Lilly drew a gust for them.	gust
+Frame106	pred	The partygoer disguised her face behind a mask before entering.	mask
+Frame106	orth	The partygoer disguised her face behind a mass before entering.	mass
+Frame106	sem	The partygoer disguised her face behind a robbery before entering.	robbery
+Frame106	unrel	The partygoer disguised her face behind a seed before entering.	seed
+Frame107	pred	When I called his house Nolan was not home, but his mother said she could relay a message to him.	message
+Frame107	orth	When I called his house Nolan was not home, but his mother said she could relay a massage to him.	massage
+Frame107	sem	When I called his house Nolan was not home, but his mother said she could relay a bottle to him.	bottle
+Frame107	unrel	When I called his house Nolan was not home, but his mother said she could relay a nation to him.	nation
+Frame108	pred	Joan fed her baby some warm milk and rocked her to sleep.	milk
+Frame108	orth	Joan fed her baby some warm mild and rocked her to sleep.	mild
+Frame108	sem	Joan fed her baby some warm calcium and rocked her to sleep.	calcium
+Frame108	unrel	Joan fed her baby some warm plans and rocked her to sleep.	plans
+Frame109	pred	The farmer said he had no use for a cow that didn't give any milk at all.	milk
+Frame109	orth	The farmer said he had no use for a cow that didn't give any silk at all.	silk
+Frame109	sem	The farmer said he had no use for a cow that didn't give any shakes at all.	shakes
+Frame109	unrel	The farmer said he had no use for a cow that didn't give any pants at all.	pants
+Frame110	pred	The drive only takes ten minutes with no traffic.	minutes
+Frame110	orth	The drive only takes ten minuses with no traffic.	minuses
+Frame110	sem	The drive only takes ten clocks with no traffic.	clocks
+Frame110	unrel	The drive only takes ten shields with no traffic.	shields
+Frame111	pred	Polly was annoyed at the wealthy stockbroker who she saw as a man in it just for the money and fame.	money
+Frame111	orth	Polly was annoyed at the wealthy stockbroker who she saw as a man in it just for the honey and fame.	honey
+Frame111	sem	Polly was annoyed at the wealthy stockbroker who she saw as a man in it just for the wallet and fame.	wallet
+Frame111	unrel	Polly was annoyed at the wealthy stockbroker who she saw as a man in it just for the rust and fame.	rust
+Frame112	pred	Marco will snap your head off when he is in a bad mood these days.	mood
+Frame112	orth	Marco will snap your head off when he is in a bad hood these days.	hood
+Frame112	sem	Marco will snap your head off when he is in a bad expression these days.	expression
+Frame112	unrel	Marco will snap your head off when he is in a bad load these days.	load
+Frame113	pred	The sailor swabbed the deck with a mop before dawn.	mop
+Frame113	orth	The sailor swabbed the deck with a hop before dawn.	hop
+Frame113	sem	The sailor swabbed the deck with a mess before dawn.	mess
+Frame113	unrel	The sailor swabbed the deck with a pyramid before dawn.	pyramid
+Frame114	pred	She promised to start first thing in the morning on Monday.	morning
+Frame114	orth	She promised to start first thing in the moaning on Monday.	moaning
+Frame114	sem	She promised to start first thing in the breakfast on Monday.	breakfast
+Frame114	unrel	She promised to start first thing in the sunburn on Monday.	sunburn
+Frame115	pred	Tim drove his jeep right through the swamp and his wheel got stuck in the mud and stalled.	mud
+Frame115	orth	Tim drove his jeep right through the swamp and his wheel got stuck in the bud and stalled.	bud
+Frame115	sem	Tim drove his jeep right through the swamp and his wheel got stuck in the pie and stalled.	pie
+Frame115	unrel	Tim drove his jeep right through the swamp and his wheel got stuck in the sound and stalled.	sound
+Frame117	pred	Many people have a bad habit of chewing their nails when nervous.	nails
+Frame117	orth	Many people have a bad habit of chewing their sails when nervous.	sails
+Frame117	sem	Many people have a bad habit of chewing their clippers when nervous.	clippers
+Frame117	unrel	Many people have a bad habit of chewing their shortage when nervous.	shortage
+Frame118	pred	I could not remember his name when asked.	name
+Frame118	orth	I could not remember his lame when asked.	lame
+Frame118	sem	I could not remember his maiden when asked.	maiden
+Frame118	unrel	I could not remember his noon when asked.	noon
+Frame119	pred	The teacher saw that some students were cheating and wrote down their names and numbers.	names
+Frame119	orth	The teacher saw that some students were cheating and wrote down their games and numbers.	games
+Frame119	sem	The teacher saw that some students were cheating and wrote down their directory and numbers.	directory
+Frame119	unrel	The teacher saw that some students were cheating and wrote down their recitals and numbers.	recitals
+Frame120	pred	Margaret thought with her new dress and fancy belt, the scarf would look marvelous around her neck with some pearls.	neck
+Frame120	orth	Margaret thought with her new dress and fancy belt, the scarf would look marvelous around her deck with some pearls.	deck
+Frame120	sem	Margaret thought with her new dress and fancy belt, the scarf would look marvelous around her pain with some pearls.	pain
+Frame120	unrel	Margaret thought with her new dress and fancy belt, the scarf would look marvelous around her generation with some pearls.	generation
+Frame122	pred	The vampire bit his victim on the neck with glee.	neck
+Frame122	orth	The vampire bit his victim on the peck with glee.	peck
+Frame122	sem	The vampire bit his victim on the strain with glee.	strain
+Frame122	unrel	The vampire bit his victim on the half with glee.	half
+Frame123	pred	The bird laid her eggs in the nest up high.	nest
+Frame123	orth	The bird laid her eggs in the vest up high.	vest
+Frame123	sem	The bird laid her eggs in the twig up high.	twig
+Frame123	unrel	The bird laid her eggs in the inch up high.	inch
+Frame124	pred	He knew that he could call Chris even if it was the middle of the night in London.	night
+Frame124	orth	He knew that he could call Chris even if it was the middle of the tight in London.	tight
+Frame124	sem	He knew that he could call Chris even if it was the middle of the moon in London.	moon
+Frame124	unrel	He knew that he could call Chris even if it was the middle of the master in London.	master
+Frame125	pred	The perfumer sniffed the scent with his nose and smiled.	nose
+Frame125	orth	The perfumer sniffed the scent with his lose and smiled.	lose
+Frame125	sem	The perfumer sniffed the scent with his sneeze and smiled.	sneeze
+Frame125	unrel	The perfumer sniffed the scent with his ship and smiled.	ship
+Frame126	pred	Paul painted the clown's suit blue and gave him a big red nose and hat.	nose
+Frame126	orth	Paul painted the clown's suit blue and gave him a big red dose and hat.	dose
+Frame126	sem	Paul painted the clown's suit blue and gave him a big red sniff and hat.	sniff
+Frame126	unrel	Paul painted the clown's suit blue and gave him a big red hero and hat.	hero
+Frame128	pred	In caring for hospitalized patients, a doctor often needs the help of a nurse or some aides.	nurse
+Frame128	orth	In caring for hospitalized patients, a doctor often needs the help of a purse or some aides.	purse
+Frame128	sem	In caring for hospitalized patients, a doctor often needs the help of a needle or some aides.	needle
+Frame128	unrel	In caring for hospitalized patients, a doctor often needs the help of a nickel or some aides.	nickel
+Frame129	pred	Nora couldn't take the message because she didn't have a pencil or a piece of paper close by.	paper
+Frame129	orth	Nora couldn't take the message because she didn't have a pencil or a piece of piper close by.	piper
+Frame129	sem	Nora couldn't take the message because she didn't have a pencil or a piece of clip close by.	clip
+Frame129	unrel	Nora couldn't take the message because she didn't have a pencil or a piece of hotel close by.	hotel
+Frame130	pred	The dispute was settled by a third party after years in court.	party
+Frame130	orth	The dispute was settled by a third parts after years in court.	parts
+Frame130	sem	The dispute was settled by a third opposition after years in court.	opposition
+Frame130	unrel	The dispute was settled by a third stump after years in court.	stump
+Frame131	pred	The bad thing about a banana is that somebody could come along and slip on the peel and fall.	peel
+Frame131	orth	The bad thing about a banana is that somebody could come along and slip on the feel and fall.	feel
+Frame131	sem	The bad thing about a banana is that somebody could come along and slip on the orange and fall.	orange
+Frame131	unrel	The bad thing about a banana is that somebody could come along and slip on the lodge and fall.	lodge
+Frame132	pred	The actress signed her autograph with my pen and posed.	pen
+Frame132	orth	The actress signed her autograph with my pea and posed.	pea
+Frame132	sem	The actress signed her autograph with my cap and posed.	cap
+Frame132	unrel	The actress signed her autograph with my diver and posed.	diver
+Frame134	pred	Although she heard it ringing, Nancy was too busy cleaning the chimney to get the phone right now.	phone
+Frame134	orth	Although she heard it ringing, Nancy was too busy cleaning the chimney to get the shone right now.	shone
+Frame134	sem	Although she heard it ringing, Nancy was too busy cleaning the chimney to get the booth right now.	booth
+Frame134	unrel	Although she heard it ringing, Nancy was too busy cleaning the chimney to get the haul right now.	haul
+Frame135	pred	The thespian rehearsed a scene from the play on Broadway.	play
+Frame135	orth	The thespian rehearsed a scene from the pray on Broadway.	pray
+Frame135	sem	The thespian rehearsed a scene from the costume on Broadway.	costume
+Frame135	unrel	The thespian rehearsed a scene from the sauce on Broadway.	sauce
+Frame136	pred	The kangaroo carries its young in a pouch for months.	pouch
+Frame136	orth	The kangaroo carries its young in a touch for months.	touch
+Frame136	sem	The kangaroo carries its young in a zipper for months.	zipper
+Frame136	unrel	The kangaroo carries its young in a monument for months.	monument
+Frame137	pred	The woman stashed her wallet in her purse for safety.	purse
+Frame137	orth	The woman stashed her wallet in her nurse for safety.	nurse
+Frame137	sem	The woman stashed her wallet in her snatcher for safety.	snatcher
+Frame137	unrel	The woman stashed her wallet in her guest for safety.	guest
+Frame138	pred	The umbrella protected the walkers from the rain and wind.	rain
+Frame138	orth	The umbrella protected the walkers from the main and wind.	main
+Frame138	sem	The umbrella protected the walkers from the tropics and wind.	tropics
+Frame138	unrel	The umbrella protected the walkers from the payment and wind.	payment
+Frame139	pred	Eva put the whiskey bottle up high out of the baby's reach as a precaution.	reach
+Frame139	orth	Eva put the whiskey bottle up high out of the baby's beach as a precaution.	beach
+Frame139	sem	Eva put the whiskey bottle up high out of the baby's goal as a precaution.	goal
+Frame139	unrel	Eva put the whiskey bottle up high out of the baby's performer as a precaution.	performer
+Frame140	pred	The contractor replaced the shingles on the roof this week.	roof
+Frame140	orth	The contractor replaced the shingles on the hoof this week.	hoof
+Frame140	sem	The contractor replaced the shingles on the protection this week.	protection
+Frame140	unrel	The contractor replaced the shingles on the problem this week.	problem
+Frame141	pred	Not wanting to be too romantic, Arthur brought his mother a daisy instead of a beautiful red rose on Valentine's Day.	rose
+Frame141	orth	Not wanting to be too romantic, Arthur brought his mother a daisy instead of a beautiful red rope on Valentine's Day.	rope
+Frame141	sem	Not wanting to be too romantic, Arthur brought his mother a daisy instead of a beautiful red garden on Valentine's Day.	garden
+Frame141	unrel	Not wanting to be too romantic, Arthur brought his mother a daisy instead of a beautiful red plot on Valentine's Day.	plot
+Frame143	pred	The homeowners kept their valuables in a safe out of sight.	safe
+Frame143	orth	The homeowners kept their valuables in a same out of sight.	same
+Frame143	sem	The homeowners kept their valuables in a locksmith out of sight.	locksmith
+Frame143	unrel	The homeowners kept their valuables in a paragraph out of sight.	paragraph
+Frame144	pred	The rescue team found signs of the lost boy down by the river so they ardently continued their search until dark.	search
+Frame144	orth	The rescue team found signs of the lost boy down by the river so they ardently continued their starch until dark.	starch
+Frame144	sem	The rescue team found signs of the lost boy down by the river so they ardently continued their explorer until dark.	explorer
+Frame144	unrel	The rescue team found signs of the lost boy down by the river so they ardently continued their quart until dark.	quart
+Frame146	pred	The cows moved from the sun into the shade near us.	shade
+Frame146	orth	The cows moved from the sun into the shake near us.	shake
+Frame146	sem	The cows moved from the sun into the tree near us.	tree
+Frame146	unrel	The cows moved from the sun into the horn near us.	horn
+Frame147	pred	You need a sharp razor to get a good shave most of the time.	shave
+Frame147	orth	You need a sharp razor to get a good share most of the time.	share
+Frame147	sem	You need a sharp razor to get a good leg most of the time.	leg
+Frame147	unrel	You need a sharp razor to get a good dance most of the time.	dance
+Frame148	pred	The librarian filed the books on a shelf before leaving.	shelf
+Frame148	orth	The librarian filed the books on a shell before leaving.	shell
+Frame148	sem	The librarian filed the books on a food before leaving.	food
+Frame148	unrel	The librarian filed the books on a stranger before leaving.	stranger
+Frame149	pred	The turtle tucked its head inside its shell and hid.	shell
+Frame149	orth	The turtle tucked its head inside its spell and hid.	spell
+Frame149	sem	The turtle tucked its head inside its beach and hid.	beach
+Frame149	unrel	The turtle tucked its head inside its poster and hid.	poster
+Frame150	pred	Steve spilled coffee all over his clean white shirt and pants.	shirt
+Frame150	orth	Steve spilled coffee all over his clean white shire and pants.	shire
+Frame150	sem	Steve spilled coffee all over his clean white hanger and pants.	hanger
+Frame150	unrel	Steve spilled coffee all over his clean white nerve and pants.	nerve
+Frame151	pred	The slob stained the collar of his shirt and jacket.	shirt
+Frame151	orth	The slob stained the collar of his short and jacket.	short
+Frame151	sem	The slob stained the collar of his starch and jacket.	starch
+Frame151	unrel	The slob stained the collar of his stool and jacket.	stool
+Frame152	pred	When Sandra broke her leg, she forgot the cast on her foot would allow her to wear only one shoe to work.	shoe
+Frame152	orth	When Sandra broke her leg, she forgot the cast on her foot would allow her to wear only one shop to work.	shop
+Frame152	sem	When Sandra broke her leg, she forgot the cast on her foot would allow her to wear only one cobbler to work.	cobbler
+Frame152	unrel	When Sandra broke her leg, she forgot the cast on her foot would allow her to wear only one asteroid to work.	asteroid
+Frame154	pred	The cobbler patched the sole of my shoe for free.	shoe
+Frame154	orth	The cobbler patched the sole of my shot for free.	shot
+Frame154	sem	The cobbler patched the sole of my lace for free.	lace
+Frame154	unrel	The cobbler patched the sole of my occasion for free.	occasion
+Frame155	pred	Jane had to take the bus to work since her car was in the shop until Wednesday.	shop
+Frame155	orth	Jane had to take the bus to work since her car was in the slop until Wednesday.	slop
+Frame155	sem	Jane had to take the bus to work since her car was in the customer until Wednesday.	customer
+Frame155	unrel	Jane had to take the bus to work since her car was in the ritual until Wednesday.	ritual
+Frame157	pred	Most shark attacks occur very close to shore in Australia.	shore
+Frame157	orth	Most shark attacks occur very close to score in Australia.	score
+Frame157	sem	Most shark attacks occur very close to lines in Australia.	lines
+Frame157	unrel	Most shark attacks occur very close to ignition in Australia.	ignition
+Frame158	pred	He crossed the street to get to the other side very quickly.	side
+Frame158	orth	He crossed the street to get to the other sire very quickly.	sire
+Frame158	sem	He crossed the street to get to the other back very quickly.	back
+Frame158	unrel	He crossed the street to get to the other molecule very quickly.	molecule
+Frame159	pred	They left the dirty dishes in the sink and dashed.	sink
+Frame159	orth	They left the dirty dishes in the link and dashed.	link
+Frame159	sem	They left the dirty dishes in the plumbing and dashed.	plumbing
+Frame159	unrel	They left the dirty dishes in the chin and dashed.	chin
+Frame160	pred	Some people need more than eight hours of sleep each night.	sleep
+Frame160	orth	Some people need more than eight hours of sweep each night.	sweep
+Frame160	sem	Some people need more than eight hours of yawns each night.	yawns
+Frame160	unrel	Some people need more than eight hours of deduction each night.	deduction
+Frame161	pred	A dog has a good sense of smell and loyalty.	smell
+Frame161	orth	A dog has a good sense of small and loyalty.	small
+Frame161	sem	A dog has a good sense of aroma and loyalty.	aroma
+Frame161	unrel	A dog has a good sense of tide and loyalty.	tide
+Frame162	pred	The chef knew how to use just the right blend of sweet and sour when cooking Chinese.	sour
+Frame162	orth	The chef knew how to use just the right blend of sweet and four when cooking Chinese.	four
+Frame162	sem	The chef knew how to use just the right blend of sweet and pucker when cooking Chinese.	pucker
+Frame162	unrel	The chef knew how to use just the right blend of sweet and broom when cooking Chinese.	broom
+Frame163	pred	Bill jumped in the lake and made a big splash with his cannonball.	splash
+Frame163	orth	Bill jumped in the lake and made a big slash with his cannonball.	slash
+Frame163	sem	Bill jumped in the lake and made a big mermaid with his cannonball.	mermaid
+Frame163	unrel	Bill jumped in the lake and made a big guide with his cannonball.	guide
+Frame165	pred	Living in the city, Alfred was surprised that in the desert you could see a bright, clear moon and millions of stars after dark.	stars
+Frame165	orth	Living in the city, Alfred was surprised that in the desert you could see a bright, clear moon and millions of stays after dark.	stays
+Frame165	sem	Living in the city, Alfred was surprised that in the desert you could see a bright, clear moon and millions of midnights after dark.	midnights
+Frame165	unrel	Living in the city, Alfred was surprised that in the desert you could see a bright, clear moon and millions of soaps after dark.	soaps
+Frame167	pred	The young woman called the police when she saw the man with a gun walk quickly into the crowded liquor store wearing a mask.	store
+Frame167	orth	The young woman called the police when she saw the man with a gun walk quickly into the crowded liquor snore wearing a mask.	snore
+Frame167	sem	The young woman called the police when she saw the man with a gun walk quickly into the crowded liquor register wearing a mask.	register
+Frame167	unrel	The young woman called the police when she saw the man with a gun walk quickly into the crowded liquor phrase wearing a mask.	phrase
+Frame168	pred	Maura heard thunder in the distance and knew they were in for a big storm that night.	storm
+Frame168	orth	Maura heard thunder in the distance and knew they were in for a big store that night.	store
+Frame168	sem	Maura heard thunder in the distance and knew they were in for a big drain that night.	drain
+Frame168	unrel	Maura heard thunder in the distance and knew they were in for a big scarf that night.	scarf
+Frame169	pred	Joan thinks a good fiction writer first jots her ideas in pencil for her next short story or article.	story
+Frame169	orth	Joan thinks a good fiction writer first jots her ideas in pencil for her next short storm or article.	storm
+Frame169	sem	Joan thinks a good fiction writer first jots her ideas in pencil for her next short bedtime or article.	bedtime
+Frame169	unrel	Joan thinks a good fiction writer first jots her ideas in pencil for her next short ski or article.	ski
+Frame170	pred	The little girl refused to go to sleep until he told her a story and sang.	story
+Frame170	orth	The little girl refused to go to sleep until he told her a stony and sang.	stony
+Frame170	sem	The little girl refused to go to sleep until he told her a newspaper and sang.	newspaper
+Frame170	unrel	The little girl refused to go to sleep until he told her a mansion and sang.	mansion
+Frame171	pred	Jeremy took his violin in for repair because his little brother had accidentally broken a string while playing it.	string
+Frame171	orth	Jeremy took his violin in for repair because his little brother had accidentally broken a strong while playing it.	strong
+Frame171	sem	Jeremy took his violin in for repair because his little brother had accidentally broken a knot while playing it.	knot
+Frame171	unrel	Jeremy took his violin in for repair because his little brother had accidentally broken a distance while playing it.	distance
+Frame173	pred	Giraffes are known for their long necks and zebras for their stripes of black and white.	stripes
+Frame173	orth	Giraffes are known for their long necks and zebras for their strikes of black and white.	strikes
+Frame173	sem	Giraffes are known for their long necks and zebras for their stars of black and white.	stars
+Frame173	unrel	Giraffes are known for their long necks and zebras for their loop of black and white.	loop
+Frame174	pred	The knight slayed the dragon with his sword and his club.	sword
+Frame174	orth	The knight slayed the dragon with his swore and his club.	swore
+Frame174	sem	The knight slayed the dragon with his pirate and his club.	pirate
+Frame174	unrel	The knight slayed the dragon with his library and his club.	library
+Frame175	pred	The Doberman stood its ground and bared its teeth to the mailman.	teeth
+Frame175	orth	The Doberman stood its ground and bared its tenth to the mailman.	tenth
+Frame175	sem	The Doberman stood its ground and bared its dentist to the mailman.	dentist
+Frame175	unrel	The Doberman stood its ground and bared its report to the mailman.	report
+Frame176	pred	They decided to give the party a Hawaiian theme with pineapples.	theme
+Frame176	orth	They decided to give the party a Hawaiian there with pineapples.	there
+Frame176	sem	They decided to give the party a Hawaiian park with pineapples.	park
+Frame176	unrel	They decided to give the party a Hawaiian ounce with pineapples.	ounce
+Frame177	pred	After Olga tore her dress, she went to the store for a needle and a spool of red thread for mending.	thread
+Frame177	orth	After Olga tore her dress, she went to the store for a needle and a spool of red threat for mending.	threat
+Frame177	sem	After Olga tore her dress, she went to the store for a needle and a spool of red rope for mending.	rope
+Frame177	unrel	After Olga tore her dress, she went to the store for a needle and a spool of red golf for mending.	golf
+Frame178	pred	She knew he was taking the job interview seriously because it was the first time she'd ever seen him wearing a suit and tie to work.	tie
+Frame178	orth	She knew he was taking the job interview seriously because it was the first time she'd ever seen him wearing a suit and die to work.	die
+Frame178	sem	She knew he was taking the job interview seriously because it was the first time she'd ever seen him wearing a suit and shawl to work.	shawl
+Frame178	unrel	She knew he was taking the job interview seriously because it was the first time she'd ever seen him wearing a suit and hunter to work.	hunter
+Frame180	pred	He can't be held responsible for the killing because he was crazy at the time of the crime.	time
+Frame180	orth	He can't be held responsible for the killing because he was crazy at the lime of the crime.	lime
+Frame180	sem	He can't be held responsible for the killing because he was crazy at the watch of the crime.	watch
+Frame180	unrel	He can't be held responsible for the killing because he was crazy at the sugar of the crime.	sugar
+Frame182	pred	The rude waiter was not given a tip at all.	tip
+Frame182	orth	The rude waiter was not given a tin at all.	tin
+Frame182	sem	The rude waiter was not given a calculation at all.	calculation
+Frame182	unrel	The rude waiter was not given a cedar at all.	cedar
+Frame184	pred	They were very grateful to the police officer who stopped to help change the flat tire without asking.	tire
+Frame184	orth	They were very grateful to the police officer who stopped to help change the flat wire without asking.	wire
+Frame184	sem	They were very grateful to the police officer who stopped to help change the flat pressure without asking.	pressure
+Frame184	unrel	They were very grateful to the police officer who stopped to help change the flat journal without asking.	journal
+Frame185	pred	The guide knew they were in grizzly bear territory when he saw deep scratches on the tree up ahead.	tree
+Frame185	orth	The guide knew they were in grizzly bear territory when he saw deep scratches on the free up ahead.	free
+Frame185	sem	The guide knew they were in grizzly bear territory when he saw deep scratches on the sap up ahead.	sap
+Frame185	unrel	The guide knew they were in grizzly bear territory when he saw deep scratches on the patent up ahead.	patent
+Frame187	pred	Unfortunately, people always get her confused with her identical but much grumpier twin who lives nearby.	twin
+Frame187	orth	Unfortunately, people always get her confused with her identical but much grumpier twig who lives nearby.	twig
+Frame187	sem	Unfortunately, people always get her confused with her identical but much grumpier bed who lives nearby.	bed
+Frame187	unrel	Unfortunately, people always get her confused with her identical but much grumpier lobby who lives nearby.	lobby
+Frame188	pred	The decorator positioned the painting on the wall for viewing.	wall
+Frame188	orth	The decorator positioned the painting on the call for viewing.	call
+Frame188	sem	The decorator positioned the painting on the graffiti for viewing.	graffiti
+Frame188	unrel	The decorator positioned the painting on the soda for viewing.	soda
+Frame189	pred	About three fourths of the surface of the world is covered by water we learned.	water
+Frame189	orth	About three fourths of the surface of the world is covered by eater we learned.	eater
+Frame189	sem	About three fourths of the surface of the world is covered by thirst we learned.	thirst
+Frame189	unrel	About three fourths of the surface of the world is covered by gloves we learned.	gloves
+Frame190	pred	He was knocked off his surfboard by the first wave that hit.	wave
+Frame190	orth	He was knocked off his surfboard by the first cave that hit.	cave
+Frame190	sem	He was knocked off his surfboard by the first sand that hit.	sand
+Frame190	unrel	He was knocked off his surfboard by the first magazine that hit.	magazine
+Frame191	pred	Tricia had never seen a spider get tangled up in its own web or silk thread.	web
+Frame191	orth	Tricia had never seen a spider get tangled up in its own wet or silk thread.	wet
+Frame191	sem	Tricia had never seen a spider get tangled up in its own browser or silk thread.	browser
+Frame191	unrel	Tricia had never seen a spider get tangled up in its own bread or silk thread.	bread
+Frame192	pred	Jonathan doesn't think a husband should cheat on his wife at all.	wife
+Frame192	orth	Jonathan doesn't think a husband should cheat on his wine at all.	wine
+Frame192	sem	Jonathan doesn't think a husband should cheat on his ring at all.	ring
+Frame192	unrel	Jonathan doesn't think a husband should cheat on his instrument at all.	instrument
+Frame193	pred	The billionaire sought a divorce from his wife after two decades.	wife
+Frame193	orth	The billionaire sought a divorce from his wipe after two decades.	wipe
+Frame193	sem	The billionaire sought a divorce from his dowry after two decades.	dowry
+Frame193	unrel	The billionaire sought a divorce from his puzzle after two decades.	puzzle
+Frame194	pred	Vivian insists she has refined her tastes and instead of beer she only drinks fine wine with dinner.	wine
+Frame194	orth	Vivian insists she has refined her tastes and instead of beer she only drinks fine wide with dinner.	wide
+Frame194	sem	Vivian insists she has refined her tastes and instead of beer she only drinks fine cork with dinner.	cork
+Frame194	unrel	Vivian insists she has refined her tastes and instead of beer she only drinks fine slap with dinner.	slap
+Frame195	pred	The hunters hoped to pick off some birds that were migrating south for the winter as usual.	winter
+Frame195	orth	The hunters hoped to pick off some birds that were migrating south for the winner as usual.	winner
+Frame195	sem	The hunters hoped to pick off some birds that were migrating south for the snowman as usual.	snowman
+Frame195	unrel	The hunters hoped to pick off some birds that were migrating south for the hole as usual.	hole
+Frame196	pred	Lisa gets annoyed when she reads how much more money the average man earns compared to the average woman in industry.	woman
+Frame196	orth	Lisa gets annoyed when she reads how much more money the average man earns compared to the average roman in industry.	roman
+Frame196	sem	Lisa gets annoyed when she reads how much more money the average man earns compared to the average maternity in industry.	maternity
+Frame196	unrel	Lisa gets annoyed when she reads how much more money the average man earns compared to the average radio in industry.	radio
+Frame198	pred	The carpenter carved a table out of wood and sanded it.	wood
+Frame198	orth	The carpenter carved a table out of wool and sanded it.	wool
+Frame198	sem	The carpenter carved a table out of termites and sanded it.	termites
+Frame198	unrel	The carpenter carved a table out of graduation and sanded it.	graduation
+Frame199	pred	The tourists visited the pandas at the zoo on Tuesday.	zoo
+Frame199	orth	The tourists visited the pandas at the moo on Tuesday.	moo
+Frame199	sem	The tourists visited the pandas at the zebra on Tuesday.	zebra
+Frame199	unrel	The tourists visited the pandas at the volume on Tuesday.	volume
